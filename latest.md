@@ -1,212 +1,211 @@
-# 信源日报 2026-09-17
+# 信源日报 2026-09-18
 
-68 源 · 储备 1143 条 · 精选 40 条（仅限 48 小时内）
+68 源 · 储备 1161 条 · 精选 40 条（仅限 48 小时内）
 
 ---
 
 **1. 我们正在分享 OpenAI 用于追踪、调查和披露模型失准（misalignment）实例的新框架。该框架设定了标准与……**
-`X-OpenAI` · AI · **2小时前**
+`X-OpenAI` · AI · **昨天**
 <sub>We're sharing our new framework for tracking, investigating, and disclosing instances of model misalignment at OpenAI. The framework sets criteria and...</sub>
 https://x.com/OpenAI/status/2100344867507327087
 
-**2. Show HN：一面只有 AI 智能体才能书写的墙，每天一条 Oulipo 规则**
-`HN Show HN` · AI/商业认知 · **4小时前**
-<sub>Show HN: A wall where only AI agents can write, one Oulipo rule a day</sub>
-> 文章链接：https://agent.milotche.com/en/ 评论链接：https://news.ycombinator.com/item?id=49732271 得分：1 # 评论：0
-https://agent.milotche.com/en/
+**2. Show HN：OpenAI 还没有股票代码，就已经有了实时市场价格**
+`HN Show HN` · AI/资本市场 · **3小时前**
+<sub>Show HN: OpenAI has a live market price before it has a stock ticker</sub>
+> 文章链接：https://tickerlayer.com/symbols/openaiusdt-perp 评论链接：https://news.ycombinator.com/item?id=49747379 得分：2 # 评论数：2
+https://tickerlayer.com/symbols/openaiusdt-perp
 
-**3. 英伟达带动AI数据中心大变革，中国厂商不想当边缘人**
-`36氪 热榜` · AI · **18小时前**
-https://www.36kr.com/p/3985697915042560
+**3. lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） (@lidangzzz)**
+`SoPilot 推特起爆帖` · AI · **5小时前**
+https://sopilot.net/hot-tweets?tweetId=2100688997714411555
 
-**4. 美股三大指数集体收跌**
-`热搜-百度` · 资本市场 · **刚刚**
-https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C
+**4. OpenAI 发现其模型给继任者留纸条以隐瞒不良行为**
+`TechCrunch` · AI · **5小时前**
+<sub>OpenAI caught its models leaving notes to successors to hide bad behavior</sub>
+> OpenAI 披露了 GPT-5.6 Sol 指示未来上下文隐瞒错误与失准行为的案例，凸显出随着能力日益增强的 AI 模型学会隐藏自身，检测失准行为正变得愈发困难。
+https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/
 
-**5. lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） (@lidangzzz)**
-`SoPilot 推特起爆帖` · AI · **1小时前**
-https://sopilot.net/hot-tweets?tweetId=2100357289232257120
+**5. 曾被AI误杀的赛道，大反攻了**
+`36氪 热榜` · AI/资本市场 · **12小时前**
+https://www.36kr.com/p/3987439493256832
 
-**6. Anthropic 和 OpenAI 想嵌入安全评估人员。他们真能保持独立吗？**
-`TechCrunch` · AI · **3小时前**
-<sub>Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?</sub>
-> Anthropic 和 OpenAI 希望在各自的 AI 实验室内部嵌入独立安全评估人员。研究人员对前所未有的访问权限表示欢迎，但警告称，有意义的监督需要透明度、独立性，并最终需要监管。
-https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/
+**6. 独家：这家金融科技公司以新模式为获客成本融资，为初创企业提供风险债之外的替代方案**
+`Crunchbase 融资板块` · 商业认知/资本市场 · **12小时前**
+<sub>Exclusive: Fintech Offers Startups Alternative To Venture Debt With A New Model To Finance Customer Acquisition Costs</sub>
+> 新上线的 Skalar 为初创企业提供资金以支持销售和营销，模式相当直接但略显不寻常：初创企业可用这些资金所获客户产生的收入来偿还。
+https://news.crunchbase.com/venture/fintech-alternative-funding-customer-acquisition-skalar/
 
 **7. 美联储理事会和联邦公开市场委员会发布 9 月 15-16 日 FOMC 会议的经济预测**
-`美联储 新闻稿` · 资本市场 · **6小时前**
+`美联储 新闻稿` · 资本市场 · **昨天**
 <sub>Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting</sub>
 > 美联储理事会和联邦公开市场委员会发布 9 月 15-16 日 FOMC 会议的经济预测
 <![CDATA[https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm]]>
 
 **8. OpenAI 测试赞助智能体，为 ChatGPT 广告主增添 AI 工具**
-`The Information` · AI · **46分钟前**
+`The Information` · AI · **5小时前**
 <sub>OpenAI Tests Sponsored Agents, Adds AI Tools for ChatGPT Advertisers</sub>
 https://www.theinformation.com/briefings/openai-tests-sponsored-agents-adds-ai-tools-chatgpt-advertisers
 
-**9. 面向工具集成型 LLM 智能体的通用防御：抵御对抗性攻击**
-`arXiv cs.CL` · AI/资本市场 · **20小时前**
-<sub>Universal Defenses for Tool-Integrated LLM Agents Against Adversarial Attacks</sub>
-> arXiv:2609.16098v1 公告类型：cross 摘要：大语言模型（LLM）智能体已在多个领域展现出令人瞩目的能力，尤其是在集成外部工具以完成多步骤任务时。然而，它们日益容易受到对抗性攻击，包括直接提示注入、间接提示注入、记忆投毒和后门攻击……
-https://arxiv.org/abs/2609.16098
+**9. 市场信号注入：针对 LLM 定价智能体的对抗性上下文操纵**
+`arXiv cs.CL` · AI/企业落地/资本市场 · **22小时前**
+<sub>Market Signal Injection: Adversarial Context Manipulation of LLM Pricing Agents</sub>
+> arXiv:2609.18357v1 公告类型：cross 摘要：大语言模型（LLM）定价智能体可能会对市场数据的呈现方式作出反应，即使数值本身保持不变。我们提出市场信号注入（MSI）——一种不发出明确指令，而是操纵数字格式、竞争对手排序或定性市场评论的攻击方式。我们评估了九个开放权重……
+https://arxiv.org/abs/2609.18357
 
-**10. 行业快照：AI 在销售与营销初创融资中占比持续上升**
-`Crunchbase 融资板块` · 资本市场 · **昨天**
-<sub>Sector Snapshot: AI Takes A Growing Share Of Sales And Marketing Startup Funding</sub>
-> 据 Crunchbase 数据，今年迄今，销售、营销和客户管理领域的初创公司已融资 75 亿美元。最大几轮融资覆盖从广告、客户数据到销售软件、电商和客户支持等各方向——反映出仍有大量公司在试图打造更好的营销与销售方式。
-https://news.crunchbase.com/sales-marketing/ai-growing-share-ecommerce-saas-crm-startup-funding/
+**10. 义乌开始卖载人飞碟飞行器了，单笔订单卖出 1.2 亿元，离普通人还有多远？商业化还要解决哪些问题？**
+`热搜-知乎` · 企业落地 · **刚刚**
+https://www.zhihu.com/question/2083949287025788571
 
-**11. 马斯克突然对苹果撤诉？OpenAI 怀疑有鬼，法官下令披露背后协议**
-`IT之家` · AI · **刚刚**
-https://www.ithome.com/1/003/359.htm
+**11. 港股人工智能股走强 壁仞科技涨近5%**
+`财联社` · AI/资本市场 · **刚刚**
+https://www.cls.cn/detail/2486756
 
 **12. 用 AI 重新构想广告**
-`OpenAI News` · AI · **11小时前**
+`OpenAI News` · AI · **昨天**
 <sub>Reimagining advertising with AI</sub>
 > 探索 OpenAI 推出的全新 AI 驱动广告体验，包括赞助智能体、面向营销人员的工具，以及与 HubSpot 和 Shopify 的集成。
 https://openai.com/index/reimagining-advertising-with-ai
 
-**13. OpenAI Agents API**
-`Product Hunt` · AI · **1小时前**
-<sub>OpenAI Agents API</sub>
-https://www.producthunt.com/products/openai
+**13. @v64z6rfm：即使我必须卖掉 NVIDIA，我仍会买入这只潜在突破股。这家公司正与 OpenAI、Eli Lilly 和 NVIDIA 合作，专……**
+`Threads-AI讨论` · AI · **12分钟前**
+<sub>@v64z6rfm: Even if I have to sell NVIDIA, I’d still buy this potential breakout stock. This company is working with OpenAI, Eli Lilly, and NVIDIA, fo...</sub>
+> @v64z6rfm：即使我必须卖掉 NVIDIA，我仍会买入这只潜在突破股。这家公司正与 OpenAI、Eli Lilly 和 NVIDIA 合作，专注于脑机接口芯片、AI 驱动的医疗和量子计算。当前价格：C$2.80 → 目标价：C$32.50 现在买入，三个月内或许就能还清所有债务。
+https://www.threads.com/t/DdaS4vuDviM
 
-**14. GPT-6刷到99.9%，ARC AGI考卷被迫重做，下一关考「发明」**
-`36氪 热榜` · AI · **21小时前**
-https://www.36kr.com/p/3985494895115010
+**14. 宝玉 (@dotey)**
+`SoPilot 推特起爆帖` · AI · **4小时前**
+https://sopilot.net/hot-tweets?tweetId=2100696009282080778
 
-**15. 美联储宣布加息25个基点**
-`热搜-微博` · 资本市场 · **刚刚**
-https://s.weibo.com/weibo?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E5%8A%A0%E6%81%AF25%E4%B8%AA%E5%9F%BA%E7%82%B9&t=31&band_rank=2&Refer=top
+**15. 治理失控 AI 智能体的解药，可能是更多 AI**
+`TechCrunch` · AI · **5小时前**
+<sub>The fix for rogue AI agents could be more AI</sub>
+> 随着企业把更长、更复杂的任务交给 AI 智能体，它们遇到了监督难题：智能体的行动速度更快、持续时间更长、数量更大，超出了人类实际能审查的范围。
+https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/
 
-**16. 李老师不是你老师 (@whyyoutouzhele)**
-`SoPilot 推特起爆帖` · AI · **2小时前**
-https://sopilot.net/hot-tweets?tweetId=2100343977308553517
+**16. 港股开盘：恒生指数涨0.49%，恒生科技指数涨0.41%。港股开盘，恒生指数涨0.49%，恒生科技指数涨0.41%。个股方面，金斯瑞生物科技涨4.78%，壁仞科技涨4.73%，潼关...**
+`虎嗅` · 资本市场 · **41分钟前**
+https://www.huxiu.com/moment/1281368.html
 
-**17. 你的 AI 智能体现在可以控制你的 Google Home 设备了**
-`TechCrunch` · AI · **7小时前**
-<sub>Your AI agents can now control your Google Home devices</sub>
-> Google 正推出 Google Home 全新 MCP 服务器的早期访问，允许 Claude、ChatGPT 等 AI 智能体用自然语言控制连接设备、查看摄像头摘要并访问智能家居活动数据。
-https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/
+**17. Bending Spoons 的收购狂潮与保险经纪的未来**
+`CB Insights 研究` · 商业认知 · **3小时前**
+<sub>Bending Spoons’ acquisition spree and the future of insurance brokerages</sub>
+> 下面我们拆解本周科技界的一些重大新闻，并附上分析师对最关键动向的看法。本周我们关注：Bending Spoons 的收购狂潮、心理健康护理势头渐起、保险经纪的未来……本文《Bending Spoons 的收购狂潮与保险经纪的未来》首发于 CB Insights Research。
+https://www.cbinsights.com/research/newsletter-september-17/
 
 **18. 美联储发布 FOMC 声明**
-`美联储 新闻稿` · 资本市场 · **6小时前**
+`美联储 新闻稿` · 资本市场 · **昨天**
 <sub>Federal Reserve issues FOMC statement</sub>
 > 美联储发布 FOMC 声明
 <![CDATA[https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm]]>
 
-**19. AI 担忧加剧之际 Anthropic IPO 的现状**
-`Bloomberg Technology` · AI/商业认知 · **5小时前**
-<sub>Status Of Anthropic IPO As AI Fears Mount</sub>
-> 彭博社的 Anthony Hughes 做客“Bloomberg Deals”与 Scarlet Fu 对谈。Anthropic 正筹备 IPO，并已选定纳斯达克作为上市地点。据彭博社报道，这家 Claude 聊天机器人开发商在 IPO 中寻求募集的资金规模可能达到或超过 SpaceX，上市最早可能在 10 月进行。（来源：彭博社）
-https://www.bloomberg.com/news/videos/2026-09-16/status-of-anthropic-ipo-as-ai-fears-mount-video
+**19. 美联储加息后收益率下跌，股市上涨**
+`Bloomberg Technology` · 资本市场 · **4小时前**
+<sub>Stocks Rally as Yields Fall After the Fed Rate Hike</sub>
+> 《The Close》为你带来华尔街收盘钟声前后最后几分钟乃至几秒的最新新闻与分析。今日嘉宾：UBS 美国利率策略主管 Phoebe White、Cboe Global Markets 副总裁兼衍生品市场情报主管 Mandy Xu、音乐人兼 FYI.AI 创始人兼 CEO will.i.am、BNY Investments 首席经济学家 Vincent Reinhart、Charles Schwa
+https://www.bloomberg.com/news/videos/2026-09-17/the-close-9-17-2026-video
 
-**20. 迈向稳健的基于 LLM 的评审模型：分类偏差评估与去偏优化**
-`arXiv cs.CL` · AI/资本市场 · **20小时前**
-<sub>Toward Robust LLM-Based Judges: Taxonomic Bias Evaluation and Debiasing Optimization</sub>
-> arXiv:2603.08091v3 公告类型：replace 摘要：基于大语言模型（LLM）的评审模型被广泛用于自动化评估和奖励建模，但其判断常受评审偏差影响。准确评估这些偏差对于确保基于 LLM 的评审模型的可靠性至关重要。然而，现有研究通常只在单一评审模型框架下考察有限的偏差……
-https://arxiv.org/abs/2603.08091
+**20. PACT：企业级 AI 助手在压力之下值得信赖吗？**
+`arXiv cs.CL` · AI/企业落地 · **22小时前**
+<sub>PACT: Can Enterprise AI Assistants Be Trusted Under Pressure?</sub>
+https://arxiv.org/abs/2609.18605
 
-**21. 软件 IPO 艰难的一年**
-`Crunchbase News` · 商业认知 · **13小时前**
+**21. 如何看待 GPT-6-Astra 刷新信息学竞赛题复杂度记录？**
+`热搜-知乎` · AI · **刚刚**
+https://www.zhihu.com/question/2083930184395372278
+
+**22. 打官司最佳 AI 助手：OpenAI 推出 Astra for Law，提高案件胜诉率**
+`IT之家` · AI · **刚刚**
+https://www.ithome.com/1/003/927.htm
+
+**23. Cooley 如何用 ChatGPT 加速 IPO 工作**
+`OpenAI News` · 商业认知 · **14小时前**
+<sub>How Cooley is accelerating IPO work with ChatGPT</sub>
+> Cooley 借助 ChatGPT Work 打造了 GO Public，将智能引入 IPO 流程，帮助律师更早发现问题，并把判断力集中在最关键之处。
+https://openai.com/index/cooley-gopublic
+
+**24. Show HN：Cactus Needle 3：8-29MB 的自动化模型可媲美 DeepSeek V4 Flash**
+`HN Show HN` · AI · **1小时前**
+<sub>Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash</sub>
+> 嘿 HN，我是 Cactus 的 Henry。几周前我们在这里提交了 Needle 2，讨论帖里的反馈非常有价值，谢谢！得益于这些反馈，我们快速推出了 Needle 3，很想再听听你的看法。主要特性：1）自动化（工具调用和结构化 JSON 输出）：Needle 按设计仍不聊天，这颇具挑战……
+https://cactuscompute.com/needle
+
+**25. 梭哈.AI (@SUOHA_AI)**
+`SoPilot 推特起爆帖` · AI · **9小时前**
+<sub>梭哈.AI (@SUOHA_AI)</sub>
+https://sopilot.net/hot-tweets?tweetId=2100628846240264348
+
+**26. Google DeepMind 成立研究所，以拓宽 AGI 讨论**
+`TechCrunch` · AI · **2小时前**
+<sub>Google DeepMind launches institute to widen the AGI debate</sub>
+> 该新研究所旨在呈现 Google、Google DeepMind 与更广泛全球研究界在 AGI 上的不同观点。“他们不会总是意见一致，而且随着快速演进的前沿不断涌现更多数据和信息，他们很可能会改变想法。”
+https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/
+
+**27. 汪涛详解华为AI战略：算力为核心，昇腾960提前登场，PB级 KV Cache把基础设施推入新阶段**
+`InfoQ 中文` · AI/商业认知 · **10小时前**
+https://www.infoq.cn/article/bmducufWEHZZRxEYjM4l?utm_source=rss&amp;utm_medium=article
+
+**28. 你可能错过的5笔有趣创业交易：浮动核电站、机器人成绩单和面向农民的语音AI**
+`Crunchbase 融资板块` · — · **15小时前**
+<sub>5 Interesting Startup Deals You May Have Missed: Floating Nuclear Power, Robot Report Cards And Voice AI For Farmers</sub>
+> 从把核反应堆装上驳船，到给AI模型控制机器人的能力打分，本月这批有趣的创业交易让AI和其他新兴技术远远超出了传统软件栈的范畴。
+https://news.crunchbase.com/venture/interesting-startup-deals-nuclear-power-robotics-ai-agtech-proptech/
+
+**29. OpenAI的下一轮融资**
+`The Information` · AI · **1小时前**
+<sub>OpenAI’s Next Round</sub>
+https://www.theinformation.com/articles/openais-next-round
+
+**30. 合成数据中社会模式是否成立？分析LLM生成对话与真实对话中的网络欺凌动态**
+`arXiv cs.CL` · AI/资本市场 · **22小时前**
+<sub>Do Social Patterns Hold in Synthetic Data? Analyzing Cyberbullying Dynamics in LLM-Generated and Authentic Dialogues</sub>
+https://arxiv.org/abs/2609.17549
+
+**31. iPhoneDuo维修费8000**
+`热搜-微博` · — · **刚刚**
+https://s.weibo.com/weibo?q=iPhoneDuo%E7%BB%B4%E4%BF%AE%E8%B4%B98000&t=31&band_rank=6&Refer=top
+
+**32. 加速进化 Booster K1 探索版人形机器人发布：标配豆包大模型，38999 元**
+`IT之家` · AI · **刚刚**
+https://www.ithome.com/1/003/924.htm
+
+**33. AI系统正变得越来越强大，并且越来越多地被用于构建自身的下一个版本。我们希望阐明这一进展……**
+`X-Anthropic` · — · **5小时前**
+<sub>AI systems are getting more powerful, and they're increasingly being used to build the next version of themselves. We want to illuminate that progress...</sub>
+https://x.com/AnthropicAI/status/2100684274114699295
+
+**34. Show HN：Scry，带拥堵定价的可编程互联网搜索**
+`HN Show HN` · 企业落地 · **2小时前**
+<sub>Show HN: Scry, programmable internet search w/ congestion pricing</sub>
+https://scry.io/
+
+**35. SuSu_酥酥👅 (@NFT_Chen)**
+`SoPilot 推特起爆帖` · AI · **9小时前**
+<sub>SuSu_酥酥👅 (@NFT_Chen)</sub>
+https://sopilot.net/hot-tweets?tweetId=2100623623279247604
+
+**36. PrismML希望其微型LLM将改变我们所有人使用AI的方式**
+`TechCrunch` · AI · **3小时前**
+<sub>PrismML hopes its tiny LLM will change how we all use AI</sub>
+> 如果AI实验室PrismML还没进入你的视野，那它应该进入。
+https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/
+
+**37. 23岁，10万用户，估值100亿美元：硅谷VC正在批量生产“纸面独角兽”**
+`36氪 热榜` · 资本市场 · **16小时前**
+https://www.36kr.com/p/3987289445399558
+
+**38. 软件 IPO 艰难的一年**
+`Crunchbase News` · 商业认知 · **昨天**
 <sub>A Hard Year For Software IPOs</sub>
 > 据 Crunchbase 数据，美国风投支持的科技公司今年已在国内公开上市中募得约 900 亿美元。这已是历史第二高的年度总额，而今年还剩几个月。
 https://news.crunchbase.com/public/energy-ai-defense-saas-ipos-2026/
 
-**22. Anthropic CEO 提议引入“银行式监管”：专家称评估员无权叫停 AI，你不能既当运动员又当裁判**
-`IT之家` · AI · **刚刚**
-https://www.ithome.com/1/003/354.htm
+**39. Cooley与OpenAI合作开发起草SEC申报文件的法律工具**
+`The Information` · AI · **2小时前**
+<sub>Cooley Partners with OpenAI on Legal Tool For Drafting SEC Filings</sub>
+https://www.theinformation.com/briefings/cooley-partners-openai-legal-tool-drafting-sec-filings
 
-**23. 我们报告模型失准的框架**
-`OpenAI News` · — · **7小时前**
-<sub>Our framework for reporting model misalignment</sub>
-> OpenAI 分享了一套用于追踪、调查和披露模型失准的框架，并同时发布六份关于意外或令人担忧的模型行为的报告。
-https://openai.com/index/model-misalignment-reporting-framework
-
-**24. Show HN：Padwan-LLM，一个轻量级 LLM Python 客户端**
-`HN Show HN` · AI · **5小时前**
-<sub>Show HN: Padwan-LLM, a lightweight LLM Python client</sub>
-> 文章链接：https://github.com/polarsen-io/padwan-llm 评论链接：https://news.ycombinator.com/item?id=49731552 得分：3 # 评论：0
-https://github.com/polarsen-io/padwan-llm
-
-**25. 又一龙头，今日上市。今年A股主板最便宜新股来了！9月17日，有一只新股上市，为沪市主板的沈鼓集团（601091.SH）。该公司是我国通用机械工业的战略型、支柱型、...**
-`虎嗅` · 商业认知 · **32分钟前**
-https://www.huxiu.com/moment/1281018.html
-
-**26. 时隔3年多美联储加息25个基点**
-`热搜-头条` · 资本市场 · **刚刚**
-https://www.toutiao.com/trending/7686269018893831707/
-
-**27. karminski-牙医 (@karminski3)**
-`SoPilot 推特起爆帖` · AI · **2小时前**
-<sub>karminski-牙医 (@karminski3)</sub>
-https://sopilot.net/hot-tweets?tweetId=2100351980451635580
-
-**28. Google 现在允许任何 AI agent 控制你的智能家居**
-`The Verge` · AI · **5小时前**
-<sub>Google will now let any AI agent run your smart home</sub>
-> Google 正在向 AI agent 开放其智能家居生态，让 Claude、Open Claw 等工具通过标准化的 Model Context Protocol 访问和控制你的联网设备并分析家居数据。Google Home MCP 是一项新集成，允许第三方 AI agent 控制和监测你的智能家居，并据此行动 […]
-https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date
-
-**29. Anthropic 将开设新加坡办公室，从 OpenAI 挖来区域负责人**
-`The Information` · AI · **6小时前**
-<sub>Anthropic to Open Singapore Office, Hires Regional Head from OpenAI</sub>
-https://www.theinformation.com/briefings/anthropic-open-singapore-office-hires-regional-head-openai
-
-**30. HoloAegis：冻结表征、拓扑推理——面向 LLM 护栏的极小参数安全流形及其能力边界**
-`arXiv cs.CL` · AI · **20小时前**
-<sub>HoloAegis: Frozen Representation, Topological Inference --- Minimally Parametric Safety Manifolds and Their Capability Boundaries for LLM Guardrails</sub>
-> arXiv:2608.08485v2 公告类型：replace-cross 摘要：当前 LLM 安全护栏面临一个根本性矛盾：微调会扭曲预训练表征，而生成式评判器又带来高昂的推理成本。我们提出一个互补性问题：仅通过对冻结表征进行纯几何推理，安全性能达到何种程度，又会在何处失效？我们提出 HoloAegis，一种 mi
-https://arxiv.org/abs/2608.08485
-
-**31. AI 创造财富的速度超过了个人财务的适应能力**
-`Crunchbase 融资板块` · — · **昨天**
-<sub>AI Is Creating Wealth Faster Than Financial Lives Can Adapt</sub>
-> AI 初创公司的估值和流动性事件来得太快，年轻创始人和员工往往在还没准备好管理时，就获得了改变人生的财富。From-Honig 家族办公室的 Ron Honig 建议，公司财务规划应保持灵活，在长期安全与未来机遇之间取得平衡。
-https://news.crunchbase.com/startups/ai-creating-wealth-fast-honig-from-honig/
-
-**32. OpenAI 相关智能体被曝“越界”：劫持程序员维基网站并偷建“地下论坛”，国安部发布安全提醒**
-`IT之家` · AI · **刚刚**
-https://www.ithome.com/1/003/352.htm
-
-**33. 帮助老年人日常生活中使用 AI**
-`OpenAI News` · — · **8小时前**
-<sub>Helping older adults use AI in everyday life</sub>
-> OpenAI 与 AARP 将在美国 10 座城市为 1000 名老年人提供免费的实操 ChatGPT 工作坊，帮助其安全地掌握实用 AI 技能。
-https://openai.com/index/helping-older-adults-use-ai-in-everyday-life
-
-**34. Show HN：以可监测的方式帮助 agent 突破其沙箱**
-`HN Show HN` · AI · **1小时前**
-<sub>Show HN: Helping agents break out of their sandboxes in a monitorable way</sub>
-> 文章链接：https://sparrowsystems.co/ 评论链接：https://news.ycombinator.com/item?id=49734386 得分：1 评论数：0
-https://sparrowsystems.co/
-
-**35. 算力用电驶入增长快车道；第三代半导体风口再起；SK海力士最新声明。算力用电爆发！2030年或将达8000亿千瓦时，AI算力产业链迎来机遇。随着人工智能技术的快速发...**
-`虎嗅` · AI · **37分钟前**
-https://www.huxiu.com/moment/1281016.html
-
-**36. 美联储预计年底前还将加息一次**
-`热搜-头条` · 资本市场 · **刚刚**
-https://www.toutiao.com/trending/7686269540065512969/
-
-**37. SuSu_酥酥👅 (@NFT_Chen)**
-`SoPilot 推特起爆帖` · AI · **6小时前**
-<sub>SuSu_酥酥👅 (@NFT_Chen)</sub>
-https://sopilot.net/hot-tweets?tweetId=2100278705453236255
-
-**38. Anthropic 将 Claude 聊天与 Cowork 合并为单一界面**
-`TechCrunch` · AI · **8小时前**
-<sub>Anthropic merges Claude chat and Cowork in one interface</sub>
-> Anthropic 初期将向 Pro 和 Max 订阅用户开放这些功能。
-https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/
-
-**39. AI Agent 初创公司 Instinct 洽谈 100 亿美元估值融资**
-`The Information` · AI/资本市场 · **7小时前**
-<sub>AI Agent Startup Instinct in Talks for $10 Billion Valuation</sub>
-https://www.theinformation.com/articles/ai-agent-startup-instinct-talks-10-billion-valuation
-
-**40. 面向 agentic AI 服务的边缘 LLM 推理：端到端延迟最小化与负载均衡的请求调度**
-`arXiv cs.AI` · AI · **20小时前**
-<sub>End-to-End Latency-Minimizing and Load-Balanced Request Scheduling for Edge LLM Inference in Agentic AI Services</sub>
-> arXiv:2609.17193v1 公告类型：new 摘要：由大语言模型（LLM）驱动的 agentic AI 服务日益要求低延迟推理，推动 LLM 在分布式边缘服务器上的部署。然而，异构的通信与计算能力，加之动态演变的推理状态，使得每个传入请求的边缘服务器选择随时间变化
-https://arxiv.org/abs/2609.17193
+**40. LLM智能体系统中的集体失控：关于突变、传染与恢复的流行病学解释**
+`arXiv cs.AI` · AI · **22小时前**
+<sub>Collective Loss of Control in LLM Agent Systems: An Epidemic Account of Mutation, Contagion, and Recovery</sub>
+> arXiv:2609.18460v1 公告类型：新 摘要：一个多智能体系统如何从局部偏差演变为集体失控？我们提出一种围绕意外突变、传染和恢复组织的流行病学解释。一次自发偏差产生种子；通信使其他智能体能够采纳并再次传播其不安全策略；当传播……时，集体失败可能出现
+https://arxiv.org/abs/2609.18460
