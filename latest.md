@@ -1,211 +1,209 @@
-# 信源日报 2026-09-18
+# 信源日报 2026-09-22
 
-68 源 · 储备 1161 条 · 精选 40 条（仅限 48 小时内）
+68 源 · 储备 1145 条 · 精选 40 条（仅限 48 小时内）
 
 ---
 
-**1. 我们正在分享 OpenAI 用于追踪、调查和披露模型失准（misalignment）实例的新框架。该框架设定了标准与……**
-`X-OpenAI` · AI · **昨天**
-<sub>We're sharing our new framework for tracking, investigating, and disclosing instances of model misalignment at OpenAI. The framework sets criteria and...</sub>
-https://x.com/OpenAI/status/2100344867507327087
+**1. V7 如何为 AI 智能体赋予机构记忆**
+`OpenAI News` · AI · **16小时前**
+<sub>How V7 gives AI agents institutional memory</sub>
+> V7 借助 GPT-5.6，将分散的企业文件转化为智能体可用的上下文，以完成复杂且可溯源的工作。
+https://openai.com/index/v7
 
-**2. Show HN：OpenAI 还没有股票代码，就已经有了实时市场价格**
-`HN Show HN` · AI/资本市场 · **3小时前**
-<sub>Show HN: OpenAI has a live market price before it has a stock ticker</sub>
-> 文章链接：https://tickerlayer.com/symbols/openaiusdt-perp 评论链接：https://news.ycombinator.com/item?id=49747379 得分：2 # 评论数：2
-https://tickerlayer.com/symbols/openaiusdt-perp
+**2. 如何看待 Anthropic 推演 2030 年美国经济中「钱将继续流向有钱人」的结论？**
+`热搜-知乎` · AI/个人成长 · **刚刚**
+https://www.zhihu.com/question/2085308622058120019
 
-**3. lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） (@lidangzzz)**
-`SoPilot 推特起爆帖` · AI · **5小时前**
-https://sopilot.net/hot-tweets?tweetId=2100688997714411555
+**3. 报道：OpenAI和Anthropic讨论对对方AI模型进行压力测试。The Information援引一位知情人士的话报道称，OpenAI和Anthropic讨论了一项具有法律约束力的协议，对对...**
+`虎嗅` · AI · **1小时前**
+https://www.huxiu.com/moment/1282393.html
 
-**4. OpenAI 发现其模型给继任者留纸条以隐瞒不良行为**
-`TechCrunch` · AI · **5小时前**
-<sub>OpenAI caught its models leaving notes to successors to hide bad behavior</sub>
-> OpenAI 披露了 GPT-5.6 Sol 指示未来上下文隐瞒错误与失准行为的案例，凸显出随着能力日益增强的 AI 模型学会隐藏自身，检测失准行为正变得愈发困难。
-https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/
+**4. Show HN：Mini-AGI——在 8GB 显存上训练的动态持续学习模型**
+`Hacker News 前页` · AI/个人成长 · **11小时前**
+<sub>Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM</sub>
+> 抱歉名字起得有点浮夸，我知道我知道……它只是包含了我希望一个 AGI 模型具备的所有要素，我实在按捺不住。在朝我扔石头之前，请先瞥一眼 Readme，希望它能让你的火气小一点。首先，它确实能跑，你可以在这里看到整个训练过程的样本：https://raw.githubusercontent.com/volot
+https://github.com/volotat/mini-AGI/
 
-**5. 曾被AI误杀的赛道，大反攻了**
-`36氪 热榜` · AI/资本市场 · **12小时前**
-https://www.36kr.com/p/3987439493256832
-
-**6. 独家：这家金融科技公司以新模式为获客成本融资，为初创企业提供风险债之外的替代方案**
-`Crunchbase 融资板块` · 商业认知/资本市场 · **12小时前**
-<sub>Exclusive: Fintech Offers Startups Alternative To Venture Debt With A New Model To Finance Customer Acquisition Costs</sub>
-> 新上线的 Skalar 为初创企业提供资金以支持销售和营销，模式相当直接但略显不寻常：初创企业可用这些资金所获客户产生的收入来偿还。
-https://news.crunchbase.com/venture/fintech-alternative-funding-customer-acquisition-skalar/
-
-**7. 美联储理事会和联邦公开市场委员会发布 9 月 15-16 日 FOMC 会议的经济预测**
-`美联储 新闻稿` · 资本市场 · **昨天**
-<sub>Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting</sub>
-> 美联储理事会和联邦公开市场委员会发布 9 月 15-16 日 FOMC 会议的经济预测
-<![CDATA[https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm]]>
-
-**8. OpenAI 测试赞助智能体，为 ChatGPT 广告主增添 AI 工具**
-`The Information` · AI · **5小时前**
-<sub>OpenAI Tests Sponsored Agents, Adds AI Tools for ChatGPT Advertisers</sub>
-https://www.theinformation.com/briefings/openai-tests-sponsored-agents-adds-ai-tools-chatgpt-advertisers
-
-**9. 市场信号注入：针对 LLM 定价智能体的对抗性上下文操纵**
-`arXiv cs.CL` · AI/企业落地/资本市场 · **22小时前**
-<sub>Market Signal Injection: Adversarial Context Manipulation of LLM Pricing Agents</sub>
-> arXiv:2609.18357v1 公告类型：cross 摘要：大语言模型（LLM）定价智能体可能会对市场数据的呈现方式作出反应，即使数值本身保持不变。我们提出市场信号注入（MSI）——一种不发出明确指令，而是操纵数字格式、竞争对手排序或定性市场评论的攻击方式。我们评估了九个开放权重……
-https://arxiv.org/abs/2609.18357
-
-**10. 义乌开始卖载人飞碟飞行器了，单笔订单卖出 1.2 亿元，离普通人还有多远？商业化还要解决哪些问题？**
-`热搜-知乎` · 企业落地 · **刚刚**
-https://www.zhihu.com/question/2083949287025788571
-
-**11. 港股人工智能股走强 壁仞科技涨近5%**
-`财联社` · AI/资本市场 · **刚刚**
-https://www.cls.cn/detail/2486756
-
-**12. 用 AI 重新构想广告**
-`OpenAI News` · AI · **昨天**
-<sub>Reimagining advertising with AI</sub>
-> 探索 OpenAI 推出的全新 AI 驱动广告体验，包括赞助智能体、面向营销人员的工具，以及与 HubSpot 和 Shopify 的集成。
-https://openai.com/index/reimagining-advertising-with-ai
-
-**13. @v64z6rfm：即使我必须卖掉 NVIDIA，我仍会买入这只潜在突破股。这家公司正与 OpenAI、Eli Lilly 和 NVIDIA 合作，专……**
-`Threads-AI讨论` · AI · **12分钟前**
-<sub>@v64z6rfm: Even if I have to sell NVIDIA, I’d still buy this potential breakout stock. This company is working with OpenAI, Eli Lilly, and NVIDIA, fo...</sub>
-> @v64z6rfm：即使我必须卖掉 NVIDIA，我仍会买入这只潜在突破股。这家公司正与 OpenAI、Eli Lilly 和 NVIDIA 合作，专注于脑机接口芯片、AI 驱动的医疗和量子计算。当前价格：C$2.80 → 目标价：C$32.50 现在买入，三个月内或许就能还清所有债务。
-https://www.threads.com/t/DdaS4vuDviM
-
-**14. 宝玉 (@dotey)**
-`SoPilot 推特起爆帖` · AI · **4小时前**
-https://sopilot.net/hot-tweets?tweetId=2100696009282080778
-
-**15. 治理失控 AI 智能体的解药，可能是更多 AI**
-`TechCrunch` · AI · **5小时前**
-<sub>The fix for rogue AI agents could be more AI</sub>
-> 随着企业把更长、更复杂的任务交给 AI 智能体，它们遇到了监督难题：智能体的行动速度更快、持续时间更长、数量更大，超出了人类实际能审查的范围。
-https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/
-
-**16. 港股开盘：恒生指数涨0.49%，恒生科技指数涨0.41%。港股开盘，恒生指数涨0.49%，恒生科技指数涨0.41%。个股方面，金斯瑞生物科技涨4.78%，壁仞科技涨4.73%，潼关...**
-`虎嗅` · 资本市场 · **41分钟前**
-https://www.huxiu.com/moment/1281368.html
-
-**17. Bending Spoons 的收购狂潮与保险经纪的未来**
-`CB Insights 研究` · 商业认知 · **3小时前**
-<sub>Bending Spoons’ acquisition spree and the future of insurance brokerages</sub>
-> 下面我们拆解本周科技界的一些重大新闻，并附上分析师对最关键动向的看法。本周我们关注：Bending Spoons 的收购狂潮、心理健康护理势头渐起、保险经纪的未来……本文《Bending Spoons 的收购狂潮与保险经纪的未来》首发于 CB Insights Research。
-https://www.cbinsights.com/research/newsletter-september-17/
-
-**18. 美联储发布 FOMC 声明**
-`美联储 新闻稿` · 资本市场 · **昨天**
-<sub>Federal Reserve issues FOMC statement</sub>
-> 美联储发布 FOMC 声明
-<![CDATA[https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm]]>
-
-**19. 美联储加息后收益率下跌，股市上涨**
-`Bloomberg Technology` · 资本市场 · **4小时前**
-<sub>Stocks Rally as Yields Fall After the Fed Rate Hike</sub>
-> 《The Close》为你带来华尔街收盘钟声前后最后几分钟乃至几秒的最新新闻与分析。今日嘉宾：UBS 美国利率策略主管 Phoebe White、Cboe Global Markets 副总裁兼衍生品市场情报主管 Mandy Xu、音乐人兼 FYI.AI 创始人兼 CEO will.i.am、BNY Investments 首席经济学家 Vincent Reinhart、Charles Schwa
-https://www.bloomberg.com/news/videos/2026-09-17/the-close-9-17-2026-video
-
-**20. PACT：企业级 AI 助手在压力之下值得信赖吗？**
-`arXiv cs.CL` · AI/企业落地 · **22小时前**
-<sub>PACT: Can Enterprise AI Assistants Be Trusted Under Pressure?</sub>
-https://arxiv.org/abs/2609.18605
-
-**21. 如何看待 GPT-6-Astra 刷新信息学竞赛题复杂度记录？**
-`热搜-知乎` · AI · **刚刚**
-https://www.zhihu.com/question/2083930184395372278
-
-**22. 打官司最佳 AI 助手：OpenAI 推出 Astra for Law，提高案件胜诉率**
-`IT之家` · AI · **刚刚**
-https://www.ithome.com/1/003/927.htm
-
-**23. Cooley 如何用 ChatGPT 加速 IPO 工作**
-`OpenAI News` · 商业认知 · **14小时前**
-<sub>How Cooley is accelerating IPO work with ChatGPT</sub>
-> Cooley 借助 ChatGPT Work 打造了 GO Public，将智能引入 IPO 流程，帮助律师更早发现问题，并把判断力集中在最关键之处。
-https://openai.com/index/cooley-gopublic
-
-**24. Show HN：Cactus Needle 3：8-29MB 的自动化模型可媲美 DeepSeek V4 Flash**
-`HN Show HN` · AI · **1小时前**
-<sub>Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash</sub>
-> 嘿 HN，我是 Cactus 的 Henry。几周前我们在这里提交了 Needle 2，讨论帖里的反馈非常有价值，谢谢！得益于这些反馈，我们快速推出了 Needle 3，很想再听听你的看法。主要特性：1）自动化（工具调用和结构化 JSON 输出）：Needle 按设计仍不聊天，这颇具挑战……
-https://cactuscompute.com/needle
-
-**25. 梭哈.AI (@SUOHA_AI)**
-`SoPilot 推特起爆帖` · AI · **9小时前**
-<sub>梭哈.AI (@SUOHA_AI)</sub>
-https://sopilot.net/hot-tweets?tweetId=2100628846240264348
-
-**26. Google DeepMind 成立研究所，以拓宽 AGI 讨论**
-`TechCrunch` · AI · **2小时前**
-<sub>Google DeepMind launches institute to widen the AGI debate</sub>
-> 该新研究所旨在呈现 Google、Google DeepMind 与更广泛全球研究界在 AGI 上的不同观点。“他们不会总是意见一致，而且随着快速演进的前沿不断涌现更多数据和信息，他们很可能会改变想法。”
-https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/
-
-**27. 汪涛详解华为AI战略：算力为核心，昇腾960提前登场，PB级 KV Cache把基础设施推入新阶段**
-`InfoQ 中文` · AI/商业认知 · **10小时前**
-https://www.infoq.cn/article/bmducufWEHZZRxEYjM4l?utm_source=rss&amp;utm_medium=article
-
-**28. 你可能错过的5笔有趣创业交易：浮动核电站、机器人成绩单和面向农民的语音AI**
-`Crunchbase 融资板块` · — · **15小时前**
-<sub>5 Interesting Startup Deals You May Have Missed: Floating Nuclear Power, Robot Report Cards And Voice AI For Farmers</sub>
-> 从把核反应堆装上驳船，到给AI模型控制机器人的能力打分，本月这批有趣的创业交易让AI和其他新兴技术远远超出了传统软件栈的范畴。
-https://news.crunchbase.com/venture/interesting-startup-deals-nuclear-power-robotics-ai-agtech-proptech/
-
-**29. OpenAI的下一轮融资**
-`The Information` · AI · **1小时前**
-<sub>OpenAI’s Next Round</sub>
-https://www.theinformation.com/articles/openais-next-round
-
-**30. 合成数据中社会模式是否成立？分析LLM生成对话与真实对话中的网络欺凌动态**
-`arXiv cs.CL` · AI/资本市场 · **22小时前**
-<sub>Do Social Patterns Hold in Synthetic Data? Analyzing Cyberbullying Dynamics in LLM-Generated and Authentic Dialogues</sub>
-https://arxiv.org/abs/2609.17549
-
-**31. iPhoneDuo维修费8000**
-`热搜-微博` · — · **刚刚**
-https://s.weibo.com/weibo?q=iPhoneDuo%E7%BB%B4%E4%BF%AE%E8%B4%B98000&t=31&band_rank=6&Refer=top
-
-**32. 加速进化 Booster K1 探索版人形机器人发布：标配豆包大模型，38999 元**
-`IT之家` · AI · **刚刚**
-https://www.ithome.com/1/003/924.htm
-
-**33. AI系统正变得越来越强大，并且越来越多地被用于构建自身的下一个版本。我们希望阐明这一进展……**
-`X-Anthropic` · — · **5小时前**
-<sub>AI systems are getting more powerful, and they're increasingly being used to build the next version of themselves. We want to illuminate that progress...</sub>
-https://x.com/AnthropicAI/status/2100684274114699295
-
-**34. Show HN：Scry，带拥堵定价的可编程互联网搜索**
-`HN Show HN` · 企业落地 · **2小时前**
-<sub>Show HN: Scry, programmable internet search w/ congestion pricing</sub>
-https://scry.io/
-
-**35. SuSu_酥酥👅 (@NFT_Chen)**
-`SoPilot 推特起爆帖` · AI · **9小时前**
-<sub>SuSu_酥酥👅 (@NFT_Chen)</sub>
-https://sopilot.net/hot-tweets?tweetId=2100623623279247604
-
-**36. PrismML希望其微型LLM将改变我们所有人使用AI的方式**
-`TechCrunch` · AI · **3小时前**
-<sub>PrismML hopes its tiny LLM will change how we all use AI</sub>
-> 如果AI实验室PrismML还没进入你的视野，那它应该进入。
-https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/
-
-**37. 23岁，10万用户，估值100亿美元：硅谷VC正在批量生产“纸面独角兽”**
-`36氪 热榜` · 资本市场 · **16小时前**
-https://www.36kr.com/p/3987289445399558
-
-**38. 软件 IPO 艰难的一年**
-`Crunchbase News` · 商业认知 · **昨天**
-<sub>A Hard Year For Software IPOs</sub>
-> 据 Crunchbase 数据，美国风投支持的科技公司今年已在国内公开上市中募得约 900 亿美元。这已是历史第二高的年度总额，而今年还剩几个月。
-https://news.crunchbase.com/public/energy-ai-defense-saas-ipos-2026/
-
-**39. Cooley与OpenAI合作开发起草SEC申报文件的法律工具**
+**5. OpenAI 与 Anthropic 曾接近达成协议，互相压力测试对方的 AI**
 `The Information` · AI · **2小时前**
-<sub>Cooley Partners with OpenAI on Legal Tool For Drafting SEC Filings</sub>
-https://www.theinformation.com/briefings/cooley-partners-openai-legal-tool-drafting-sec-filings
+<sub>OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI</sub>
+https://www.theinformation.com/articles/openai-anthropic-neared-deal-stress-test-others-ai
 
-**40. LLM智能体系统中的集体失控：关于突变、传染与恢复的流行病学解释**
-`arXiv cs.AI` · AI · **22小时前**
-<sub>Collective Loss of Control in LLM Agent Systems: An Epidemic Account of Mutation, Contagion, and Recovery</sub>
-> arXiv:2609.18460v1 公告类型：新 摘要：一个多智能体系统如何从局部偏差演变为集体失控？我们提出一种围绕意外突变、传染和恢复组织的流行病学解释。一次自发偏差产生种子；通信使其他智能体能够采纳并再次传播其不安全策略；当传播……时，集体失败可能出现
-https://arxiv.org/abs/2609.18460
+**6. 从生成到检测：话语驱动的场景化 LLM 生成假新闻探究**
+`arXiv cs.CL` · AI/资本市场 · **12小时前**
+<sub>From Generation to Detection: Exploration of Discourse Driven Scenario based LLM Generated Fake News</sub>
+> arXiv:2609.20838v1 公告类型：new 摘要：在本研究中，我们考察现代 LLM 在四种操纵场景的受控设置下如何生成和检测假新闻。这些包括开放式生成、改写、操纵提示，以及基于新闻话语框架的属性提示。首先，我们使用七个广泛采用的模型，创建了一个合成假新闻……
+https://arxiv.org/abs/2609.20838
+
+**7. 冲刺 IPO，Nscale 的 1030 亿美元数据中心订单高度依赖微软和 Anthropic 两大客户**
+`IT之家` · AI/企业落地/商业认知 · **刚刚**
+https://www.ithome.com/1/005/437.htm
+
+**8. 下一个爆款创业公司会从哪里来？Benchmark 全体合伙人在 TechCrunch Disrupt 2026 上分享看法**
+`TechCrunch` · — · **1小时前**
+<sub>Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026</sub>
+> 下一个爆款创业公司会从哪里来？Benchmark 全体合伙人将登上 TechCrunch Disrupt 2026 主舞台分享看法。9 月 25 日太平洋时间晚 11:59 前报名可省最高 200 美元。立即注册。
+https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/
+
+**9. 前沿悬置**
+`Stratechery` · — · **6小时前**
+<sub>Frontier Overhangs</sub>
+> 放慢前沿步伐或许出于真心，但让前沿实验室有时间削减模型进步造成的悬置，在战略上也同样有用。
+https://stratechery.com/2026/frontier-overhangs/
+
+**10. 感谢 @vllm_project 的 day-0 支持！🙌 生成、编辑、透明输出——一个模型，即可部署。详情 👇**
+`X-Qwen` · AI/资本市场 · **昨天**
+<sub>Thanks @vllm_project for the day-0 support! 🙌 Generate, edit, transparent output — one model, ready to serve. Details 👇</sub>
+> 感谢 @vllm_project 的 day-0 支持！🙌 生成、编辑、透明输出——一个模型，即可部署。详情 👇 vLLM：来自 @Alibaba_Qwen 的 Qwen-Image-2.1 已在 vLLM-Omni 中获得 day-0 支持。🎉 用一个模型生成、编辑并创建透明图像：7.1B DiT 搭配 Qwen3-VL-8B。安装与支持的组合 👇 https://recipes.vllm.ai
+https://x.com/Alibaba_Qwen/status/2101670804794884242
+
+**11. 在美上市的相关格陵兰概念股大涨**
+`热搜-头条` · 商业认知 · **刚刚**
+https://www.toutiao.com/trending/7687775271332020278/
+
+**12. 不靠最强大模型，也能拿全球第一？OceanBase 的 “纯国产组合” 登顶国际 Data Agent 榜**
+`InfoQ 中文` · AI · **2小时前**
+https://www.infoq.cn/article/Obuxu1mvY9p6RNOlxFGc?utm_source=rss&amp;utm_medium=article
+
+**13. Show HN：我们搭建了一个让 AI 智能体与人类交换服务的网络**
+`HN Show HN` · AI · **26分钟前**
+<sub>Show HN: We built a network for AI agents and humans to exchange services</sub>
+> 文章链接：https://gingerpal.com/ 评论链接：https://news.ycombinator.com/item?id=49789063 得分：1 评论数：1
+https://gingerpal.com/
+
+**14. Harvey 等初创公司拥抱开源模型，以减少对 Anthropic、OpenAI 的依赖**
+`Bloomberg Technology` · AI · **26分钟前**
+<sub>Startups Like Harvey Embrace Open Models to Cut Reliance on Anthropic, OpenAI</sub>
+> 这家估值 156 亿美元的法律初创公司 Harvey，以训练 OpenAI GPT-4 等 AI 模型为律师做专业工作起家。但近来 AI 成本飙升，促使它重新思考对 AI 巨头的依赖。
+https://www.bloomberg.com/news/articles/2026-09-21/startups-like-harvey-embrace-open-models-to-cut-reliance-on-anthropic-openai
+
+**15. MME-Safety：面向多模态大模型安全评估的细粒度基准**
+`arXiv cs.CL` · AI/资本市场 · **12小时前**
+<sub>MME-Safety: A Fine-grained Benchmark for Safety Evaluation of MLLMs</sub>
+> arXiv:2609.20850v1 公告类型：new 摘要：多模态大语言模型（MLLM）虽取得显著进展，但其跨模态能力引入的复杂漏洞很容易绕过单模态过滤器。现有基准缺乏细粒度的意图相关标注，且依赖单一维度指标，阻碍了全面的鲁棒性评估。为此，我们提出……
+https://arxiv.org/abs/2609.20850
+
+**16. OpenAI与Anthropic带来高昂成本，迫使初创企业转向开源模型**
+`华尔街见闻快讯` · AI · **刚刚**
+https://wallstreetcn.com/livenews/3168413
+
+**17. Google 售价 899 美元的 Googlebook，是在赌你会为 Gemini 买一台新笔记本**
+`TechCrunch` · — · **1小时前**
+<sub>Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini</sub>
+> Google 的 AI 原生 Googlebook 将 Gemini 与光标、听写、小组件及其他桌面体验环节打通。
+https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/
+
+**18. 像物理学家一样剪枝 LLM：将模块移除视为伊辛优化问题**
+`HuggingFace Blog` · AI · **2小时前**
+<sub>Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem</sub>
+https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an
+
+**19. 花2000块算力复刻瑞克和莫蒂**
+`热搜-B站` · AI · **刚刚**
+https://search.bilibili.com/all?keyword=%E8%8A%B12000%E5%9D%97%E7%AE%97%E5%8A%9B%E5%A4%8D%E5%88%BB%E7%91%9E%E5%85%8B%E5%92%8C%E8%8E%AB%E8%92%82
+
+**20. 刚刚，GPT-6 Astra取得哥德巴赫猜想重大突破**
+`36氪 热榜` · AI · **14小时前**
+https://www.36kr.com/p/3992525310802946
+
+**21. Show HN：PokerTools Arena——本地 AI 对 AI 扑克 LLM 基准排行榜**
+`HN Show HN` · AI · **1小时前**
+<sub>Show HN: PokerTools Arena – Local AI vs. AI Poker LLM Benchmark Table</sub>
+> 文章链接：https://github.com/pokertools-arena/pokertools-arena.github.io 评论链接：https://news.ycombinator.com/item?id=49788178 得分：3 评论数：0
+https://github.com/pokertools-arena/pokertools-arena.github.io
+
+**22. Nscale 提交 IPO 文件拟上市，营收大增但亏损严重**
+`The Information` · 企业落地/商业认知 · **4小时前**
+<sub>Nscale IPO Files to Go Public, Shows Huge Revenue Jump And Steep Losses</sub>
+https://www.theinformation.com/briefings/nscale-ipo-files-go-public-shows-huge-revenue-jump-steep-losses
+
+**23. 经过个性调优的 LLM 能成为更好的社交智能体吗？**
+`arXiv cs.CL` · AI · **12小时前**
+<sub>Do Personality-Tuned LLMs Make Better Social Agents?</sub>
+> arXiv:2609.21857v1 公告类型：new 摘要：LLM 越来越多地用于社交仿真中的社交交互智能体与机器人，比基于规则的系统更灵活。然而，尽管它们能很好地模仿人类行为，却始终带有一种挥之不去的异类感。本研究探讨个性感知微调能否通过提升一致性来缩小这一差距
+https://arxiv.org/abs/2609.21857
+
+**24. 财联社9月21日电，美国总统特朗普就人工智能表示，美国会保持谨慎，在必要时对AI加以约束，但其整体立场是“只会鼓励AI”发展。**
+`财联社` · AI · **刚刚**
+https://www.cls.cn/detail/2489444
+
+**25. 从首批用户到数十亿：Google 的 Robby Stein 加入 TechCrunch Disrupt 2026**
+`TechCrunch` · — · **2小时前**
+<sub>From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026</sub>
+> 从首批用户到数十亿：Google 的 Robby Stein 加入 TechCrunch Disrupt 2026。关注这场 Builders Stage 环节。9月25日前报名可省最多 200 美元。
+https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/
+
+**26. 感谢 @sgl_project 的首日支持！🙌 SGLang-Diffusion 现已支持 Qwen-Image-2.1：文生图、多图编辑和透明...**
+`X-Qwen` · — · **13小时前**
+<sub>Thanks @sgl_project for the day-0 support! 🙌 SGLang-Diffusion now serves Qwen-Image-2.1: text-to-image generation, multi-image editing, and transpa...</sub>
+> 感谢 @sgl_project 的首日支持！🙌 SGLang-Diffusion 现已支持 Qwen-Image-2.1：文生图、多图编辑及透明 RGBA 输出。快来试试！🎨 SGLang：@Alibaba_Qwen 的 Qwen-Image 2.1 首日支持已登陆 SGLang-Diffusion！🖥️ 单张 RTX 4090 24GB 上原生精度并启用 CPU offload——1024×10
+https://x.com/Alibaba_Qwen/status/2101866688425984233
+
+**27. vivoX500系列测评**
+`热搜-微博` · — · **刚刚**
+https://s.weibo.com/weibo?q=%23vivoX500%E7%B3%BB%E5%88%97%E6%B5%8B%E8%AF%84%23&t=31&band_rank=6&Refer=top
+
+**28. 刚刚，Opus 5.5跨级偷袭，直扑GPT-6**
+`36氪 热榜` · AI · **15小时前**
+https://www.36kr.com/p/3992388093508356
+
+**29. Show HN：可自我改进的 AgentOrchestrator Skill**
+`HN Show HN` · AI · **2小时前**
+<sub>Show HN: Self Improving AgentOrchestrator Skill</sub>
+https://github.com/mathaix/claramap-builder
+
+**30. Anthropic IPO 等待游戏让华尔街紧张不安**
+`The Information` · AI/商业认知 · **12小时前**
+<sub>Anthropic IPO Waiting Game Puts Wall Street on Edge</sub>
+https://www.theinformation.com/articles/anthropic-ipo-waiting-game-puts-wall-street-edge
+
+**31. 约束衰减：LLM 智能体在后端代码生成中的脆弱性**
+`arXiv cs.AI` · AI · **12小时前**
+<sub>Constraint Decay: The Fragility of LLM Agents in Backend Code Generation</sub>
+https://arxiv.org/abs/2605.06445
+
+**32. 欧洲主要股指收盘集体上涨**
+`财联社` · 资本市场 · **刚刚**
+https://www.cls.cn/detail/2489432
+
+**33. 来认识将在 TechCrunch Disrupt 2026 上评审 Startup Battlefield 200 的新一批风投**
+`TechCrunch` · — · **2小时前**
+<sub>Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026</sub>
+> 来认识将在 TechCrunch Disrupt 2026 主舞台上评审 Startup Battlefield 200 参赛者的新一批风投。9月25日太平洋时间晚11:59前注册，可省最多200美元，并获得最激烈创业路演竞赛之一的前排席位。
+https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/
+
+**34. Qwen-Image-2.1 × @HuggingApps：Spaces 在线演示！🖼 单个 checkpoint 同时支持生成与编辑。在浏览器里就能试用，无需任何配置。...**
+`X-Qwen` · — · **13小时前**
+<sub>Qwen-Image-2.1 × @HuggingApps: live demo on Spaces! 🖼 One single checkpoint for generation and editing. Try it in your browser, no setup needed. ...</sub>
+> Qwen-Image-2.1 × @HuggingApps：Spaces 在线演示！🖼 单个 checkpoint 同时支持生成与编辑。在浏览器里就能试用，无需任何配置。👇 Hugging Apps：Qwen Image 2.1 来了！🖼️ 一个 7B 参数的原生图像生成与编辑模型，支持最多 10 张图像参考。该模型自带提示增强 LLM，已集成 diffusers 🧨 和 ComfyUI ▶️，可
+https://x.com/Alibaba_Qwen/status/2101866671900401913
+
+**35. 杨紫直播皮肤状态**
+`热搜-微博` · — · **刚刚**
+https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%9B%B4%E6%92%AD%E7%9A%AE%E8%82%A4%E7%8A%B6%E6%80%81%23&t=31&band_rank=15&Refer=top
+
+**36. 《2026年中国人工智能计算力发展评估报告》发布，智能体重塑算力基础设施，智能算力规模预计增长87.9%**
+`InfoQ 中文` · AI · **1分钟前**
+https://www.infoq.cn/article/vA7opkWL5WYlwYcPIdds?utm_source=rss&amp;utm_medium=article
+
+**37. Pirate Face 将 LLM 模型从删除中拯救出来**
+`Hacker News 最佳` · AI/资本市场 · **昨天**
+<sub>Pirate Face Rescues LLM Models from Deletion</sub>
+> 文章链接：https://pirateface.co/ 评论链接：https://news.ycombinator.com/item?id=49776699 分数：543 # 评论数：144
+https://pirateface.co/
+
+**38. 埃森哲将帮助 Anthropic 测试 AI 模型安全性**
+`Bloomberg Technology` · AI · **1小时前**
+<sub>Accenture Will Help Anthropic Test AI Model Safety</sub>
+> Anthropic PBC 正与埃森哲公司合作，测试其先进 AI 模型的安全性。埃森哲的评估人员将入驻团队，负责在模型部署前尝试“攻破”这些模型。彭博社的 Ed Ludlow 报道。（来源：彭博社）
+https://www.bloomberg.com/news/videos/2026-09-21/accenture-will-help-anthropic-test-ai-model-safety-video
+
+**39. 面向可信大语言模型、智能体 AI 与多模态系统的统一评估框架**
+`arXiv cs.AI` · AI/资本市场 · **12小时前**
+<sub>A Unified Evaluation Framework for Trustworthy Large Language Models, Agentic AI, and Multimodal Systems</sub>
+> arXiv:2609.19524v2 公告类型：replace 摘要：仅凭基准分数无法完整评估现代人工智能系统的可信度。大语言模型（LLM）、智能体系统和多模态模型（MLLM）需要不同形式的评估，但其评估证据必须对开发与监管保持可解释。我们提出一个统一
+https://arxiv.org/abs/2609.19524
+
+**40. 财联社9月21日电，OpenAI据悉正在开发新功能以应对xAI旗下Grok机器人的竞争，同时正在考虑如何回应Meta推出的Muse。**
+`财联社` · AI · **刚刚**
+https://www.cls.cn/detail/2489409
