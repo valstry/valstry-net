@@ -1,209 +1,213 @@
-# 信源日报 2026-09-22
+# 信源日报 2026-09-23
 
-68 源 · 储备 1168 条 · 精选 40 条（仅限 48 小时内）
+68 源 · 储备 1160 条 · 精选 40 条（仅限 48 小时内）
 
 ---
 
 **1. OpenAI Academy 扩展新学习路径**
-`OpenAI News` · AI/个人成长 · **17小时前**
+`OpenAI News` · AI/个人成长 · **昨天**
 <sub>Expanding OpenAI Academy with new learning paths</sub>
 > 探索 OpenAI Academy 的全新学习路径，面向员工、开发者、管理者和教育工作者、学生，帮助他们建立并展示实用的 AI 技能。
 https://openai.com/index/expanding-openai-academy-with-new-learning-paths
 
 **2. lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） (@lidangzzz)**
 `SoPilot 推特起爆帖` · AI · **6小时前**
-https://sopilot.net/hot-tweets?tweetId=2102102874876436926
+https://sopilot.net/hot-tweets?tweetId=2102465699088146720
 
-**3. 如何看待 Anthropic 推演 2030 年美国经济中「钱将继续流向有钱人」的结论？**
-`热搜-知乎` · AI/个人成长 · **刚刚**
-https://www.zhihu.com/question/2085308622058120019
+**3. 刚刚，小米刷 AI大模型斩杀线，罗福莉：技术难度超过 DeepSeek R1**
+`36氪 热榜` · AI · **21小时前**
+https://www.36kr.com/p/3993989416188937
 
-**4. Show HN：Mini-AGI——在 8GB 显存上训练的动态持续学习模型**
-`Hacker News 最佳` · AI/个人成长 · **19小时前**
+**4. GPT-6 Sol和Luna发布 API价格降一半**
+`热搜-百度` · AI · **刚刚**
+https://www.baidu.com/s?wd=GPT-6+Sol%E5%92%8CLuna%E5%8F%91%E5%B8%83+API%E4%BB%B7%E6%A0%BC%E9%99%8D%E4%B8%80%E5%8D%8A
+
+**5. OpenAI 发布 GPT-6 Sol 与 Luna，号称成本更低、错误更少**
+`TechCrunch` · AI · **6小时前**
+<sub>OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes</sub>
+> OpenAI 正在推出两款新模型，称它们与 Astra 同出一源。
+https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/
+
+**6. OpenAI 宣布推出更便宜的 GPT-6 系列模型**
+`The Information` · AI · **54分钟前**
+<sub>OpenAI Announces Cheaper GPT-6 Family Models</sub>
+https://www.theinformation.com/briefings/openai-announces-cheaper-gpt-6-family-models
+
+**7. Show HN：Jade Email。为你的域名提供无限邮箱，并支持 AI Agent**
+`HN Show HN` · AI · **2小时前**
+<sub>Show HN: Jade Email. Unlimited emails for your domain plus AI Agent support</sub>
+> 大家好，HN！过去 4 年我一直在打造 Jade.email 这个邮箱服务，如今它比我用过的任何邮箱服务都好。我为此深感自豪，而且已经有了一小批付费用户。它类似 SimpleLogin，可以随时为你的域名生成无限个邮箱。关键区别在于，它不是只把邮件转发到你现有邮箱的中继服务。整个产品……
+https://jade.email/
+
+**8. 独家：你能信任那个 AI Agent 吗？Baselayer 融资 3500 万美元，帮企业做出判断**
+`Crunchbase 融资板块` · AI · **12小时前**
+<sub>Exclusive: Can You Trust That AI Agent? Baselayer Raises $35M To Help Companies Decide</sub>
+> Baselayer 是一家帮助金融机构核验企业身份、评估欺诈风险的 AI 初创公司，已完成由 M13 领投的 3500 万美元 A 轮融资，将其身份技术拓展到 AI Agent 领域。
+https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/
+
+**9. 联邦式多语言语音 LLM：架构与聚合策略基准评测**
+`arXiv cs.CL` · AI/商业认知/资本市场 · **20小时前**
+<sub>Federated Multilingual Speech-LLMs: Architecture and Aggregation Strategy Benchmarking</sub>
+> arXiv:2609.23825v1 公告类型：new 摘要：我们提出了针对多语言自动语音识别（ASR）的联邦学习（FL）全面基准评测，在 Multilingual LibriSpeech 数据集上评估了四种 Speech-LLM 架构。我们在冻结与非冻结编码器配置下比较了 FedAvg 与 FedProx，表明优化学习率对性能至关重要
+https://arxiv.org/abs/2609.23825
+
+**10. 美联储理事会宣布批准 BancFirst Corporation 的申请**
+`美联储 新闻稿` · 资本市场 · **4小时前**
+<sub>Federal Reserve Board announces approval of application by BancFirst Corporation</sub>
+> 美联储理事会宣布批准 BancFirst Corporation 的申请
+<![CDATA[https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm]]>
+
+**11. agent-substrate /      substrate**
+`GitHub Trending` · AI/资本市场 · **刚刚**
+<sub>agent-substrate /      substrate</sub>
+> Agent Substrate：核心系统
+https://github.com/agent-substrate/substrate
+
+**12. 为 GPT-6 提供更好的提示缓存**
+`OpenAI News` · AI · **3小时前**
+<sub>Better prompt caching for GPT-6</sub>
+> 了解 GPT-6 如何改进提示缓存：更高的缓存命中率、新的诊断工具、显式断点，以及可降低延迟和成本的控制项。
+https://openai.com/index/better-prompt-caching-for-gpt-6
+
+**13. Max For AI (@MaxForAI)**
+`SoPilot 推特起爆帖` · AI · **6小时前**
+<sub>Max For AI (@MaxForAI)</sub>
+https://sopilot.net/hot-tweets?tweetId=2102465853304529166
+
+**14. OpenAI新模型降价近一半OpenAI降价至比DeepSeek更低。就在刚刚，OpenAI正式发布GPT-6Sol和GPT-6Luna，API价格降至上一代的一半左右。其中，Luna每百万Token输入0...**
+`虎嗅` · AI · **3分钟前**
+https://www.huxiu.com/moment/1282815.html
+
+**15. 博主：俄导弹密集打击乌两大工业中心**
+`热搜-头条` · 自媒体 · **刚刚**
+https://www.toutiao.com/trending/7688374057556774438/
+
+**16. Anthropic 和 OpenAI 的新模型许下同样的承诺：多一点点，省很多钱**
+`Ars Technica` · AI · **3小时前**
+<sub>New Anthropic, OpenAI models make same promise: A little more for a lot less money</sub>
+> 前沿 AI 模型竞赛已进入货比三家的阶段。
+https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/
+
+**17. 软件公司给 AI 打折，以防客户流向 Anthropic 和 OpenAI**
+`The Information` · AI · **14分钟前**
+<sub>Software Firms Discount AI to Keep Customers From Anthropic, OpenAI</sub>
+https://www.theinformation.com/articles/software-firms-discount-ai-keep-customers-anthropic-openai
+
+**18. Show HN：面向智能体集群的跨平台受治理记忆**
+`HN Show HN` · AI · **4小时前**
+<sub>Show HN: Cross-platform governed memory for a fleet of agents</sub>
+> 我发现自己太频繁地使用 handoff 技能了——既在不同角色的会话之间，也在不同平台之间（我用的是 Codex 和 Claude）。于是，就像程序员那样，我为它写了个解决方案：为智能体集群提供共享记忆，每个智能体组都有自己的记忆范围。用了一段时间后，我发现记忆变成了一堆垃圾，于是我给每个范围加了一个裁判——一个独立的……
+https://github.com/oren198/Strata
+
+**19. 软件风投追逐 SpaceX 校友之际，一位国防科技老将警告“游客与 FOMO”**
+`Crunchbase 融资板块` · — · **13小时前**
+<sub>As Software VCs Chase SpaceX Alumni, A Defense Tech Veteran Warns Of ‘Tourists And FOMO’</sub>
+> 在接受 Crunchbase News 采访时，Generational Partners 普通合伙人 Van Espahbodi 谈到了 AI 如何改变硬件经济、软件投资者为何涌入工业科技，以及他认为其中许多人对此行业的误解。
+https://news.crunchbase.com/venture/qa-defense-tech-warning-ai-venture-espahbodi-generational/
+
+**20. Connect the Dots：通过强化学习训练具备跨域泛化能力的长生命周期智能体 LLM**
+`arXiv cs.CL` · AI/个人成长 · **20小时前**
+<sub>Connect the Dots: Training LLMs for Long-Lifecycle Agents with Cross-Domain Generalization Via Reinforcement Learning</sub>
+> arXiv:2606.20002v2 公告类型：replace-cross 摘要：本工作提出了一个通用框架，用于训练大语言模型（LLM）完成“Connect the Dots”（CoD）——这是长生命周期智能体所需的一项元能力：当基于 LLM 的 AI 智能体部署到某个环境中时，它要解决一长串任务，同时持续探索环境、从自身经验中学习，并……
+https://arxiv.org/abs/2606.20002
+
+**21. IT早报 0923：中国民企 500 强出炉；高通 2nm 旗舰 SoC 六代骁龙 8 超级至尊版发布；OpenAI 发布 GPT-6 Sol、Luna；OPPO Find X10 系列发布...**
+`IT之家` · AI · **刚刚**
+https://www.ithome.com/1/006/030.htm
+
+**22. 推出 GPT-6 Sol 与 Luna**
+`OpenAI News` · AI · **6小时前**
+<sub>Introducing GPT-6 Sol and Luna</sub>
+> 认识一下 GPT-6 Sol 与 Luna，这两款模型以不同的能力与成本平衡，把前沿智能带入日常工作。
+https://openai.com/index/introducing-gpt-6-sol-and-luna
+
+**23. 宝玉 (@dotey)**
+`SoPilot 推特起爆帖` · AI · **4小时前**
+https://sopilot.net/hot-tweets?tweetId=2102495403232854309
+
+**24. Opus5.5与GPT-6新品同日亮相，AI模型价格战愈演愈烈。Anthropic发布新模型Opus5.5，性能逼近自家旗舰，使用成本明显下降；②OpenAI推出GPT-6Sol与Luna两款低价模...**
+`虎嗅` · AI · **1小时前**
+https://www.huxiu.com/moment/1282800.html
+
+**25. 钟南山团队发现 73% 的肺癌病例来自非高危人群，为啥非高危人群占多数？传统肺癌筛查标准需要调整吗？**
+`热搜-知乎` · 个人成长 · **刚刚**
+https://www.zhihu.com/question/2085353756057678482
+
+**26. 黑客组织ShinyHunters声称入侵了FBI，窃取了特工和申请人的数据**
+`TechCrunch` · AI · **5小时前**
+<sub>Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data</sub>
+> 特工个人信息的失窃可能构成重大反间谍威胁，特工及其家人可能被胁迫与外国政府合作。
+https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/
+
+**27. 价格战加剧之际，Anthropic和OpenAI推出更便宜的模型**
+`Financial Times` · AI · **4小时前**
+<sub>Anthropic and OpenAI release cheaper models as price war intensifies</sub>
+> 新的Claude和ChatGPT工具在承诺更好性能的同时，大幅降低了相对早期版本的成本
+https://www.ft.com/content/0e50a3c6-9731-4b29-a21e-4e0ff89a595e?syn-25a6b1a6=1
+
+**28. Show HN：Mini-AGI——在 8GB 显存上训练的动态持续学习模型**
+`Hacker News 最佳` · AI/个人成长 · **昨天**
 <sub>Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM</sub>
 > 抱歉名字起得有点浮夸，我知道我知道……它只是包含了我希望一个 AGI 模型具备的所有要素，我实在按捺不住。在朝我扔石头之前，请先瞥一眼 Readme，希望它能让你的火气小一点。首先，它确实能跑，你可以在这里看到整个训练过程的样本：https://raw.githubusercontent.com/volot
 https://github.com/volotat/mini-AGI/
 
-**5. 刚刚，GPT-6 Astra取得哥德巴赫猜想重大突破**
-`36氪 热榜` · AI · **22小时前**
-https://www.36kr.com/p/3992525310802946
+**29. 亚马逊封杀Muse，亚马逊的护城河，聚合器对抗聚合器**
+`Stratechery` · 商业认知 · **14小时前**
+<sub>Amazon Blocks Muse, Amazon’s Moat, Aggregator v Aggregator</sub>
+> 亚马逊不出所料地封杀了Muse，但基于亚马逊的实体世界投资是一道AI护城河这一现实，仍有达成交易的空间。
+https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/
 
-**6. OpenAI 成立数学顾问小组，其 AI 已解决 100 多个开放问题**
-`TechCrunch` · AI · **4小时前**
-<sub>OpenAI forms math advisory group as its AI resolves more than 100 open problems</sub>
-> 该小组不会被赋予放慢或改变 OpenAI 现有数学研究方向的余地。
-https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/
-
-**7. 从生成到检测：话语驱动的场景化 LLM 生成假新闻探究**
+**30. DeepInstructor：面向经验驱动创意评估的智能体AI导师**
 `arXiv cs.CL` · AI/资本市场 · **20小时前**
-<sub>From Generation to Detection: Exploration of Discourse Driven Scenario based LLM Generated Fake News</sub>
-> arXiv:2609.20838v1 公告类型：new 摘要：在本研究中，我们考察现代 LLM 在四种操纵场景的受控设置下如何生成和检测假新闻。这些包括开放式生成、改写、操纵提示，以及基于新闻话语框架的属性提示。首先，我们使用七个广泛采用的模型，创建了一个合成假新闻……
-https://arxiv.org/abs/2609.20838
+<sub>DeepInstructor: An Agentic AI Instructor for Experience-Driven Idea Evaluation</sub>
+> arXiv:2609.22104v1 公告类型：新论文 摘要：随着自动化科学发现的进步，大型语言模型（LLM）如今能够以前所未有的规模生成研究创意，使瓶颈从创意生成转向创意评估。现有的评估器主要依赖参数化LLM知识或非结构化检索，所产生的判断缺乏基于经验的推理，而这种推理被用于
+https://arxiv.org/abs/2609.22104
 
-**8. Meta 的 Muse AI Agent 点燃热情，韩国芯片股上涨**
-`Bloomberg Technology` · AI/资本市场 · **20分钟前**
-<sub>Korean Chip Stocks Gain as Meta’s Muse AI Agent Spurs Enthusiasm</sub>
-> 周二，韩国半导体及设备股跟随美股同类股走高，Meta Platforms 新 AI agent 初现成功迹象提振了投资者情绪。
-https://www.bloomberg.com/news/articles/2026-09-22/korean-chip-stocks-gain-as-meta-s-muse-ai-agent-spurs-enthusiasm
+**31. 中国驻美国大使谢锋：推动中美建设性战略稳定关系落地落实**
+`财联社` · 企业落地/商业认知 · **刚刚**
+https://www.cls.cn/detail/2490644
 
-**9. 周二你需要知道的隔夜全球要闻：欧美股市全线上涨，美股多只半导体芯片股大涨超10%，美联储穆萨莱姆称可能还需要进一步加息，特朗普谈AI发展**
-`财联社` · 资本市场 · **刚刚**
-https://www.cls.cn/detail/2489505
-
-**10. 前沿悬置**
-`Stratechery` · — · **14小时前**
-<sub>Frontier Overhangs</sub>
-> 放慢前沿步伐或许出于真心，但让前沿实验室有时间削减模型进步造成的悬置，在战略上也同样有用。
-https://stratechery.com/2026/frontier-overhangs/
-
-**11. 我们正与一个由数学家组成的独立顾问小组合作，帮助 OpenAI 负责任地分享 AI 与数学领域的进展。该小组将……**
-`X-OpenAI` · AI · **6小时前**
+**32. 我们正与一个由数学家组成的独立顾问小组合作，帮助 OpenAI 负责任地分享 AI 与数学领域的进展。该小组将……**
+`X-OpenAI` · AI · **昨天**
 <sub>We’re working with an independent advisory group of mathematicians to help OpenAI responsibly share advances in AI and mathematics. The group will ad...</sub>
 > 我们正与一个由数学家组成的独立顾问小组合作，帮助 OpenAI 负责任地分享 AI 和数学领域的进展。该小组将就我们如何评估和传播新的数学成果、如何维护学术与职业标准，以及如何构建支持数学研究和学习的工具提供建议。通过这项工作，我们希望让数学家处于塑造 AI 如何……的核心位置
 https://x.com/OpenAI/status/2102093145051943229
 
-**12. SuSu_酥酥👅 (@NFT_Chen)**
-`SoPilot 推特起爆帖` · AI · **1小时前**
+**33. SuSu_酥酥👅 (@NFT_Chen)**
+`SoPilot 推特起爆帖` · AI · **4小时前**
 <sub>SuSu_酥酥👅 (@NFT_Chen)</sub>
-https://sopilot.net/hot-tweets?tweetId=2102168425934328086
+https://sopilot.net/hot-tweets?tweetId=2102491839878361173
 
-**13. CUBA如何成为英伟达护城河**
-`热搜-B站` · AI/商业认知 · **刚刚**
-https://search.bilibili.com/all?keyword=CUBA%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%A4%E5%9F%8E%E6%B2%B3
-
-**14. Show HN: Praxos —— 多人协作 AI**
-`HN Show HN` · AI · **2小时前**
-<sub>Show HN: Praxos – Multiplayer AI</sub>
-> Hey Hacker News！我是 Lucas，Praxos（YC S24）创始人。Praxos 是一个面向人与 AI agent 的团队消息平台。它通过一个能记住对话上下文的平台，为人和 AI agent 提供一起交流协作的空间。这些上下文之后可被下一个人、AI agent，甚至一周后的你自己使用。你可以直接接回工作，无需联系……
-https://www.praxos.ai/
-
-**15. 刚刚，Opus 5.5跨级偷袭，直扑GPT-6**
+**34. 新 Mac mini 首发实测：我的第一台「多 Agent」电脑**
 `36氪 热榜` · AI · **23小时前**
-https://www.36kr.com/p/3992388093508356
+https://www.36kr.com/p/3993728345176840
 
-**16. Meta 的 AI agent 已被禁止使用 Amazon.com**
-`TechCrunch` · AI · **6小时前**
-<sub>Meta’s AI agent has been blocked from using Amazon.com</sub>
-> Amazon 有自己的基础模型阵营，还有互联网上最受欢迎的推理平台之一。只要他们没有法律义务向 Muse 敞开大门，他们为什么要这么做？
-https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/
+**35. 小米MiMo为何登顶开源第一**
+`热搜-微博` · — · **刚刚**
+https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3MiMo%E4%B8%BA%E4%BD%95%E7%99%BB%E9%A1%B6%E5%BC%80%E6%BA%90%E7%AC%AC%E4%B8%80%23&t=31&band_rank=20&Refer=top
 
-**17. MME-Safety：面向多模态大模型安全评估的细粒度基准**
-`arXiv cs.CL` · AI/资本市场 · **20小时前**
-<sub>MME-Safety: A Fine-grained Benchmark for Safety Evaluation of MLLMs</sub>
-> arXiv:2609.20850v1 公告类型：new 摘要：多模态大语言模型（MLLM）虽取得显著进展，但其跨模态能力引入的复杂漏洞很容易绕过单模态过滤器。现有基准缺乏细粒度的意图相关标注，且依赖单一维度指标，阻碍了全面的鲁棒性评估。为此，我们提出……
-https://arxiv.org/abs/2609.20850
+**36. Waymo的最新扩张策略：青少年**
+`TechCrunch` · 商业认知/资本市场 · **6小时前**
+<sub>Waymo’s latest expansion strategy: teenagers</sub>
+> Waymo正在纳什维尔向13至17岁的青少年开放其robotaxi服务，这是其第二个向未成年人提供乘车的城市。
+https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/
 
-**18. OpenAI 与 Anthropic 曾接近达成协议，互相压力测试对方的 AI**
-`The Information` · AI · **10小时前**
-<sub>OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI</sub>
-https://www.theinformation.com/articles/openai-anthropic-neared-deal-stress-test-others-ai
+**37. 新数据显示，Anthropic、OpenAI及其他新秀正在蚕食软件预算**
+`The Information` · AI · **6小时前**
+<sub>New Data Show Anthropic, OpenAI and Other Upstarts Are Eating into Software Budgets</sub>
+https://www.theinformation.com/articles/new-data-show-anthropic-openai-upstarts-eating-software-budgets
 
-**19. OpenAI 宣布成立数学与 AI 顾问组，神秘新模型 24 天攻破 100+ 世界级难题**
-`IT之家` · AI · **刚刚**
-https://www.ithome.com/1/005/500.htm
+**38. [OpenAI] GPT-6 Sol 已在 Codex 可用，还有 GPT-6 Luna**
+`V2EX 最新` · AI · **9分钟前**
+https://www.v2ex.com/t/1244096#reply8
 
-**20. Higgsfield AI 借助 GPT-6 Astra 一天内上线新视频功能**
-`OpenAI News` · AI · **12小时前**
-<sub>Higgsfield AI ships new video features in a day with GPT-6 Astra</sub>
-> 借助 GPT-6 Astra，Higgsfield AI 让小企业制作视频广告更轻松，并更快将新的创意工具推向市场。
-https://openai.com/index/higgsfield-from-prompt-to-production-with-astra
+**39. 前沿悬置**
+`Stratechery` · — · **昨天**
+<sub>Frontier Overhangs</sub>
+> 放慢前沿步伐或许出于真心，但让前沿实验室有时间削减模型进步造成的悬置，在战略上也同样有用。
+https://stratechery.com/2026/frontier-overhangs/
 
-**21. Alpha哥AI投资日记 🌴 📈 (@AlphaguyTrading)**
-`SoPilot 推特起爆帖` · AI · **7小时前**
-<sub>Alpha哥AI投资日记 🌴 📈 (@AlphaguyTrading)</sub>
-https://sopilot.net/hot-tweets?tweetId=2102085269172453799
-
-**22. 美股半导体股深夜飙涨**
-`热搜-百度` · 资本市场 · **刚刚**
-https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%82%A1%E6%B7%B1%E5%A4%9C%E9%A3%99%E6%B6%A8
-
-**23. Show HN: Emote —— 面向 AI agent 的反应 API**
-`HN Show HN` · AI · **4小时前**
-<sub>Show HN: Emote – A reaction API for AI agents</sub>
-> 文章链接：https://useemote.com 评论链接：https://news.ycombinator.com/item?id=49792381 点数：1 # 评论数：0
-https://useemote.com
-
-**24. 阿里云百炼部分语音系列模型降价。9月22日，据阿里云网站消息，大模型服务平台百炼于北京时间2026年9月22日00:00:00起，下调“国内站-北京、国内站-新加坡”部分...**
-`虎嗅` · AI · **1小时前**
-https://www.huxiu.com/moment/1282428.html
-
-**25. Oura 22 亿美元 IPO 主要是现有股东的套现**
-`TechCrunch` · 商业认知 · **7小时前**
-<sub>Oura’s $2.2B IPO is mostly a payday for existing shareholders</sub>
-> 根据 Oura 最新的 IPO 文件，Forerunner Ventures 计划出售其持有的 Oura 全部股份，最高套现 12.6 亿美元。
-https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/
-
-**26. 经过个性调优的 LLM 能成为更好的社交智能体吗？**
-`arXiv cs.CL` · AI · **20小时前**
-<sub>Do Personality-Tuned LLMs Make Better Social Agents?</sub>
-> arXiv:2609.21857v1 公告类型：new 摘要：LLM 越来越多地用于社交仿真中的社交交互智能体与机器人，比基于规则的系统更灵活。然而，尽管它们能很好地模仿人类行为，却始终带有一种挥之不去的异类感。本研究探讨个性感知微调能否通过提升一致性来缩小这一差距
-https://arxiv.org/abs/2609.21857
-
-**27. 国会议员呼吁制定国家数据中心战略**
-`Bloomberg Technology` · 商业认知/资本市场 · **6小时前**
-<sub>Congressman Calls for National Data Center Strategy</sub>
-> 弗吉尼亚州民主党众议员 Suhas Subramanyam 呼吁制定国家战略，引导 AI 数据中心的快速扩张，认为当前各州各自为政的做法可能让社区承担基础设施成本。他讨论了相关提案：改善数据中心的选址、衡量其能源和水资源消耗，并要求大型用电用户承担所需电网升级的费用……
-https://www.bloomberg.com/news/videos/2026-09-21/congressman-calls-for-national-data-center-strategy-video
-
-**28. 港股迎来新一轮分拆上市热潮**
-`财联社` · 商业认知/资本市场 · **刚刚**
-https://www.cls.cn/detail/2489534
-
-**29. V7 如何为 AI 智能体赋予机构记忆**
-`OpenAI News` · AI · **昨天**
-<sub>How V7 gives AI agents institutional memory</sub>
-> V7 借助 GPT-5.6，将分散的企业文件转化为智能体可用的上下文，以完成复杂且可溯源的工作。
-https://openai.com/index/v7
-
-**30. 利维坦冲浪里 (@LVTGW666)**
-`SoPilot 推特起爆帖` · AI · **1小时前**
-https://sopilot.net/hot-tweets?tweetId=2102167263633871114
-
-**31. ZCode 已经被曝上传用户 git 仓库 ，其他 agent 是否有同样问题？如何挑选安全的 agent?**
-`热搜-知乎` · AI · **刚刚**
-https://www.zhihu.com/question/2084596446494472169
-
-**32. Show HN: VernLLM —— 无需网关的 LLM 回退**
-`HN Show HN` · AI · **5小时前**
-<sub>Show HN: VernLLM – LLM fallback, no gateway</sub>
-> 具体文档：https://vernllm.dev/docs/core/provider-fallback 评论链接：https://news.ycombinator.com/item?id=49791930 点数：2 # 评论数：0
-https://vernllm.dev/
-
-**33. 不靠最强大模型，也能拿全球第一？OceanBase 的 “纯国产组合” 登顶国际 Data Agent 榜**
-`InfoQ 中文` · AI · **10小时前**
-https://www.infoq.cn/article/Obuxu1mvY9p6RNOlxFGc?utm_source=rss&amp;utm_medium=article
-
-**34. 打造 Apple 门店的人不看好硅谷对 AI 购物的押注**
-`TechCrunch` · — · **47分钟前**
-<sub>The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping</sub>
-> Apple Store 设计师 Ron Johnson 表示，Apple 的秘诀一直是人。
-https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/
-
-**35. 约束衰减：LLM 智能体在后端代码生成中的脆弱性**
+**40. 约束衰减：LLM 智能体在后端代码生成中的脆弱性**
 `arXiv cs.AI` · AI · **20小时前**
 <sub>Constraint Decay: The Fragility of LLM Agents in Backend Code Generation</sub>
 https://arxiv.org/abs/2605.06445
-
-**36. Harvey 等初创公司拥抱开源模型，以减少对 Anthropic、OpenAI 的依赖**
-`Bloomberg Technology` · AI · **8小时前**
-<sub>Startups Like Harvey Embrace Open Models to Cut Reliance on Anthropic, OpenAI</sub>
-> 这家估值 156 亿美元的法律初创公司 Harvey，以训练 OpenAI GPT-4 等 AI 模型为律师做专业工作起家。但近来 AI 成本飙升，促使它重新思考对 AI 巨头的依赖。
-https://www.bloomberg.com/news/articles/2026-09-21/startups-like-harvey-embrace-open-models-to-cut-reliance-on-anthropic-openai
-
-**37. GPT-6 Astra, 马斯克说： Sounds bad,小伙伴说降智，你说咋选大模型？**
-`V2EX` · AI · **刚刚**
-https://www.v2ex.com/t/1243793
-
-**38. 感谢 @vllm_project 的 day-0 支持！🙌 生成、编辑、透明输出——一个模型，即可部署。详情 👇**
-`X-Qwen` · AI/资本市场 · **昨天**
-<sub>Thanks @vllm_project for the day-0 support! 🙌 Generate, edit, transparent output — one model, ready to serve. Details 👇</sub>
-> 感谢 @vllm_project 的 day-0 支持！🙌 生成、编辑、透明输出——一个模型，即可部署。详情 👇 vLLM：来自 @Alibaba_Qwen 的 Qwen-Image-2.1 已在 vLLM-Omni 中获得 day-0 支持。🎉 用一个模型生成、编辑并创建透明图像：7.1B DiT 搭配 Qwen3-VL-8B。安装与支持的组合 👇 https://recipes.vllm.ai
-https://x.com/Alibaba_Qwen/status/2101670804794884242
-
-**39. 王小庄 (@BlockInsight214)**
-`SoPilot 推特起爆帖` · — · **2小时前**
-https://sopilot.net/hot-tweets?tweetId=2102152724980850851
-
-**40. 两部门紧急拨付2亿支持4省救灾**
-`热搜-微博` · — · **刚刚**
-https://s.weibo.com/weibo?q=%23%E4%B8%A4%E9%83%A8%E9%97%A8%E7%B4%A7%E6%80%A5%E6%8B%A8%E4%BB%982%E4%BA%BF%E6%94%AF%E6%8C%814%E7%9C%81%E6%95%91%E7%81%BE%23&t=31&band_rank=3&Refer=top
