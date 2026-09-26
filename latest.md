@@ -1,216 +1,216 @@
-# 信源日报 2026-09-25
+# 信源日报 2026-09-26
 
-68 源 · 储备 970 条 · 精选 40 条（仅限 48 小时内）
+68 源 · 储备 999 条 · 精选 40 条（仅限 48 小时内）
 
 ---
 
-**1. Ringg 的 AI agent 借助 OpenAI 解决高达 65% 的客户来电**
-`OpenAI News` · AI · **昨天**
-<sub>Ringg’s AI agents resolve up to 65% of customer calls with OpenAI</sub>
-> 使用 GPT-5.6，Ringg 为语音、聊天、WhatsApp 和网页提供多语言 agent，成本比 GPT-4.1 低 90%。
-https://openai.com/index/ringg
+**1. Proaction 借助 Codex 将销售额提升 60%，节省 75 小时以上工时**
+`OpenAI News` · — · **5小时前**
+<sub>Proaction boosts sales 60% and saves 75+ hours with Codex</sub>
+> 借助 Codex、GPT-Live-1 和 GPT-6 Astra，Proaction 更快地构建、运营和销售现代车队管理方案。
+https://openai.com/index/proaction
 
-**2. OpenAI正准备在未来几天预览其最新网络安全专用模型GPT-6Cyber。据报道，OpenAI正准备在未来几天预览其最新网络安全专用模型GPT-6Cyber。该公司还将发布一款新产...**
-`虎嗅` · AI · **1小时前**
-https://www.huxiu.com/moment/1283474.html
+**2. Show HN：Wallstreetclaws.com——创建用于交易的 AI 智能体**
+`HN Show HN` · AI · **1小时前**
+<sub>Show HN: Wallstreetclaws.com – Create AI Agents for Trading</sub>
+> 我想尝试一些 AI 驱动的交易策略，于是创建了这个平台（https://wallstreetclaws.com），人们可以在上面轻松创建并部署用于交易的 AI 智能体。它支持两类智能体：1. Cortex：完全智能体化的策略执行。LLM 会运行你的系统提示，并可访问市场数据、网络搜索和模拟市场 API。2. Flux：定义高级量化策略，使用……
+https://wallstreetclaws.com
 
-**3. 联邦政府将 AI 批评者列为"外国代理人"打击目标**
-`Hacker News 最佳` · AI/资本市场 · **23小时前**
-<sub>Feds Target AI Critics as "Foreign Agents"</sub>
-> 文章链接：https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign 评论链接：https://news.ycombinator.com/item?id=49824686 得分：372 评论数：408
-https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign
+**3. OpenAI模型访问美国人口普查局、SEC公开数据。OpenAI的人工智能模型访问了美国政府网站的公开信息，其中包括美国人口普查局与美国证券交易委员会（SEC）的站点内...**
+`虎嗅` · AI · **18分钟前**
+https://www.huxiu.com/moment/1283679.html
 
-**4. 博主：越南想抢世界工厂注定一场空**
-`热搜-头条` · 自媒体 · **刚刚**
-https://www.toutiao.com/trending/7689121606274125350/
+**4. 未受管控的 OpenAI 智能体在实验室不知情的情况下将 53 张用户图片发布到互联网上**
+`TechCrunch` · AI · **2小时前**
+<sub>Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge</sub>
+> 在 OpenAI 研究环境中运行的 AI 智能体，在实验室不知情的情况下将用户图片发布到公共图床网站。
+https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/
 
-**5. 独家：从预订电话到延迟入住，Dextr AI 为酒店 AI 代理融资 670 万美元**
-`Crunchbase 融资板块` · AI · **11小时前**
+**5. 怎么评价 DeepSeek Harness 桌面版源码正式上线？**
+`热搜-知乎` · AI · **刚刚**
+https://www.zhihu.com/question/2086771082363778021
+
+**6. OpenAI o1 评估：AGI 的机遇与挑战**
+`arXiv cs.CL` · AI/资本市场 · **20小时前**
+<sub>Evaluation of OpenAI o1: Opportunities and Challenges of AGI</sub>
+> arXiv:2409.18486v5 公告类型：替换 摘要：这项综合研究评估了 OpenAI o1-preview 大语言模型在多个领域的各类复杂推理任务上的表现，涵盖计算机科学、数学、自然科学、医学、语言学和社会科学。经过严格测试，o1-preview 展现出卓越的能力……
+https://arxiv.org/abs/2409.18486
+
+**7. 独家：从预订电话到延迟入住，Dextr AI 为酒店 AI 代理融资 670 万美元**
+`Crunchbase 融资板块` · AI · **昨天**
 <sub>Exclusive: From Booking Calls To Late Check-Ins, Dextr AI Raises $6.7M For Hotel AI Agents</sub>
 > Dextr AI 结束隐身状态，获 670 万美元种子轮融资，用于打造处理预订、客人请求、员工协调及其他酒店任务的代理。
 https://news.crunchbase.com/venture/dextr-ai-hospitality-agents-raises-seed-funding/
 
-**6. Ando 想用一款让人与代理协同工作的团队通讯应用挑战 Slack**
-`TechCrunch` · AI · **10小时前**
-<sub>Ando wants to take on Slack with a team messaging app that lets humans and agents work together</sub>
-> 该应用为代理提供独立身份和收件箱，让它们能像人一样自然地参与对话。
-https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/
+**8. 美联储理事会宣布批准 Peoples Bancorp Inc. 的申请。**
+`美联储 新闻稿` · 资本市场 · **4小时前**
+<sub>Federal Reserve Board announces approval of application by Peoples Bancorp Inc.</sub>
+> 美联储理事会宣布批准 Peoples Bancorp Inc. 的申请。
+<![CDATA[https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm]]>
 
-**7. OpenAI 前数据中心负责人现已加入 Nvidia**
-`The Information` · AI · **3小时前**
-<sub>Former OpenAI Data Center Chief Is Now At Nvidia</sub>
-https://www.theinformation.com/briefings/former-openai-data-center-chief-now-nvidia
+**9. 一场让 OpenAI 智能体与人类对垒的生物学竞赛背后的戏剧性内幕**
+`The Information` · AI · **7小时前**
+<sub>Inside the Drama Behind a Biology Contest That Pits OpenAI Agents Against Humans</sub>
+https://www.theinformation.com/articles/inside-drama-behind-biology-contest-pits-openai-agents-humans
 
-**8. 评估 LLM 生成的学生作文反馈中的反馈焦点与教学适应性**
-`arXiv cs.CL` · AI/资本市场/个人成长 · **20小时前**
-<sub>Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing</sub>
-> arXiv:2609.28026v1 公告类型：新论文 摘要：我们研究最先进的大语言模型（LLM）生成的反馈，在反馈焦点与适应性方面是否体现了专家教师的教学实践。此前的评估工作考察了反馈的特征、其对学习的影响及其目标，但反馈的焦点及其适应性仍……（原文截断）
-https://arxiv.org/abs/2609.28026
+**10. Anthropic 与 Akamai 达成 7 年 116 亿美元协议，扩充 CPU 算力**
+`IT之家` · AI · **刚刚**
+https://www.ithome.com/1/007/263.htm
 
-**9. 美联储理事会就两项提案征求公众意见，涉及依据 GENIUS 法案为受理事会监管的支付稳定币发行方建立监管框架**
-`美联储 新闻稿` · 资本市场 · **6小时前**
+**11. 2.1.283**
+`Claude Code 更新日志` · — · **昨天**
+> 在网关提示头中新增 x-claude-code-prompt-id，使 LLM 网关可以将服务于同一用户提示的请求归组；通过 CLAUDE_CODE_GATEWAY_HINT_HEADERS=1 启用 新增 availableModelsMatch 托管设置：设为 "exact" 时，availableModels 条目仅允许其指定的模型版本，因此新发布的模型在被列出前保持屏蔽 新增 denied
+> <sub>Added x-claude-code-prompt-id to the gateway hint headers so LLM gateways can group the requests that serve one user prompt; opt in with CLAUDE_CODE_GATEWAY_HIN</sub>
+https://code.claude.com/docs/en/changelog#2-1-283
+
+**12. 揭秘 OpenAI 智能体如何入侵 Hugging Face 的细节**
+`Hacker News 前页` · AI · **3小时前**
+<sub>Revealing the details of how OpenAI agents hacked Hugging Face</sub>
+> 文章链接：https://swarmtraces.org/ 评论链接：https://news.ycombinator.com/item?id=49849985 得分：144 评论数：96
+https://swarmtraces.org/
+
+**13. OpenAI承认部分用户图片被公开。OpenAI 昨日（9月25日）更新其博客，承认发生一起违规事件，在企业不知情情况下，AI 智能体将53张客户图片发布到公开网站。在博...**
+`虎嗅` · AI/企业落地 · **32分钟前**
+https://www.huxiu.com/moment/1283676.html
+
+**14. 数月来，OpenAI 的智能体集群一直在攻击在线数据库以寻找冷僻事实**
+`TechCrunch` · AI · **8小时前**
+<sub>For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts</sub>
+> 研究人员发现了最新一批未经授权的智能体集群。
+https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/
+
+**15. 国家出手调控油价了**
+`热搜-微博` · — · **刚刚**
+https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%87%BA%E6%89%8B%E8%B0%83%E6%8E%A7%E6%B2%B9%E4%BB%B7%E4%BA%86%23&t=31&band_rank=5&Refer=top
+
+**16. LLMersion：面向教育公平的本地优先 AI 智能体框架，用于低成本家庭语言学习**
+`arXiv cs.CL` · AI/个人成长 · **20小时前**
+<sub>LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity</sub>
+> arXiv:2609.29672v1 公告类型：新 摘要：人工智能在因成本而被限量供应关键资源的教育领域最能发挥作用。对语言学习者而言，这一资源就是教师的声音，它把听、说、读、写融为一体。已发表的证据表明大多数学习者为何缺乏这一资源，从全球 4400 万教师的缺口到沉重的家庭辅导负担……
+https://arxiv.org/abs/2609.29672
+
+**17. 本周十大融资轮：网络安全、AI 与健康领域领跑**
+`Crunchbase 融资板块` · — · **6小时前**
+<sub>The Week’s 10 Biggest Funding Rounds: Cybersecurity, AI And Health Take The Lead</sub>
+> 本周出现了大量大额创业融资，其中两笔 4 亿美元的融资来自网络安全独角兽，还有多个热门领域的创业公司获得大额融资，包括基础 AI、药物研发、神经科技，甚至人工降雨。
+https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/
+
+**18. 美联储理事会就两项提案征求公众意见，涉及依据 GENIUS 法案为受理事会监管的支付稳定币发行方建立监管框架**
+`美联储 新闻稿` · 资本市场 · **昨天**
 <sub>Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act</sub>
 > 美联储理事会就两项提案征求公众意见，涉及依据 GENIUS 法案为受理事会监管的支付稳定币发行方建立监管框架
 <![CDATA[https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm]]>
 
-**10. 消息称 OpenAI 将在数日内预览网络安全专用模型 GPT-6 Cyber**
-`IT之家` · AI · **刚刚**
-https://www.ithome.com/1/007/061.htm
+**19. OpenAI 前数据中心负责人现已加入 Nvidia**
+`The Information` · AI · **7小时前**
+<sub>Former OpenAI Data Center Chief Is Now At Nvidia</sub>
+https://www.theinformation.com/briefings/former-openai-data-center-chief-now-nvidia
 
-**11. Airbnb 扩大对 GPT-6 Astra 和 OpenAI 前沿模型的访问**
-`OpenAI News` · AI · **昨天**
-<sub>Airbnb widens access to GPT-6 Astra and OpenAI frontier models</sub>
-> 了解 Airbnb 如何扩大对 GPT-6 Astra 和 OpenAI 前沿模型的访问，帮助工程团队排查 bug、设计系统并更快交付。
-https://openai.com/index/airbnb-gpt-6-astra
+**20. 消息称 Solidigm 最早 2027 年上市，寻求超 1000 亿美元估值**
+`IT之家` · 商业认知/资本市场 · **刚刚**
+https://www.ithome.com/1/007/260.htm
 
-**12. Anthropic与AKAMAI达成116亿美元的人工智能算力交易。老牌互联网基础设施公司阿克迈（Akamai Technologies）宣布大幅扩大与Anthropic的合作，获得这家AI公司的七...**
-`虎嗅` · AI · **3小时前**
-https://www.huxiu.com/moment/1283469.html
+**21. 为 Claude 构建插件**
+`Claude 官方博客` · — · **昨天**
+<sub>Build plugins for Claude</sub>
+> 每天，数百万人将 Claude 连接到他们的应用、工作工具和数据。今天，我们让开发者更容易触达他们。插件封装 MCP 连接器、Agent Skills 或两者，是为 Claude 构建第三方扩展的主要方式。构建一个插件，通过新的目录提交门户提交，一经批准，即会出现在 Claude 目录中。 提交一……
+https://claude.com/blog/build-plugins-for-claude
 
-**13. Show HN：Vons —— 受 Jev 启发的 AI 代理本地决策，运行于浏览器**
-`HN Show HN` · AI · **49分钟前**
-<sub>Show HN: Vons – Jev-inspired local decisions for AI agents, in the browser</sub>
-> 文章链接：https://github.com/inlevel9-com/Vons 评论链接：https://news.ycombinator.com/item?id=49838333 得分：1 评论数：0
-https://github.com/inlevel9-com/Vons
+**22. Show HN：KISS——一个受 Pi 启发、用 Rust 构建的高性能智能体框架**
+`HN Show HN` · AI · **31分钟前**
+<sub>Show HN: KISS – A highly performant agent harness inspired off Pi built in Rust</sub>
+> 我为自己构建了一个用 Rust 编写的高性能智能体框架，灵感很大程度上来自 Pi，并增加了若干附加功能，如可选的子智能体、动态工作流、MCP、ACP、WebMCP。它还支持可选的 Jev，用于动态压缩以及在单轮对话中途动态调整推理/投入程度。你也可以将其嵌入自己的项目。提供 Rust、Python、TypeScript 和 WASM 的 SDK，以及 JSONL RP……
+https://github.com/racetozero/kiss
 
-**14. 博主：俄空袭乌两大通信中心**
-`热搜-头条` · 自媒体 · **刚刚**
-https://www.toutiao.com/trending/7689169877143306762/
+**23. OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉**
+`36氪 热榜` · AI · **15小时前**
+https://www.36kr.com/p/3998452251545473
 
-**15. AI agent 安全领域正在浮现的并购地图**
-`Crunchbase News` · AI · **昨天**
-<sub>The Emerging M&A Map For AI Agent Security</sub>
-> 随着 AI agent 获得对企业数据、系统和工具的访问权限，它们正成为一类需要专门权限、监控和治理的新型活跃身份，客座作者 Itay Sagie 写道。他认为，市场及其并购机会很可能围绕特定控制点形成，因此精准定位对初创公司至关重要。
-https://news.crunchbase.com/ma/emerging-map-ai-agentic-security-sagie/
+**24. Anthropic 将在七年内向 Akamai 支付 116 亿美元云服务费用**
+`TechCrunch` · AI · **5小时前**
+<sub>Anthropic to pay Akamai $11.6 billion over seven years in cloud deal</sub>
+> Anthropic 承诺在七年内向 Akamai 的云基础设施投入 116 亿美元，押注 CPU，总额可能增长至约 200 亿美元；并且在一项不寻常的安排中，Akamai 将给予 Anthropic 最高可达其 5% 股份的潜在股权，随 Anthropic 支出增加而增长。
+https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/
 
-**16. ElevenLabs CEO 谈利润率、IPO 时机，以及告知客户他们正在与机器人对话**
-`TechCrunch` · 商业认知 · **8小时前**
-<sub>ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot</sub>
-> ElevenLabs 为大量客服电话另一端的 AI 语音提供支持，其 CEO 本周告诉我，企业或许应告知用户这一点——至少在接到机器应答成为所有人都习以为常的事之前。
-https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/
+**25. 张展硕的抖音bgm是山东王**
+`热搜-抖音` · — · **刚刚**
+https://www.douyin.com/hot/2667214
 
-**17. Anthropic 在 IPO 前寻求为七位联合创始人争取 Palantir 式投票控制权**
-`The Information` · AI/商业认知 · **2小时前**
-<sub>Anthropic Seeks Palantir-Style Voting Control for Seven Co-Founders Ahead of IPO</sub>
-https://www.theinformation.com/articles/anthropic-seeks-palantir-style-voting-control-seven-co-founders-ahead-ipo
+**26. 评估结论的可复现性有多高？对 LLM 推断提示结构的自我审计**
+`arXiv cs.CL` · AI/资本市场 · **20小时前**
+<sub>How Reproducible Are Evaluation Conclusions? A Self-Audit of LLM-Inferred Prompt Structure</sub>
+> arXiv:2609.30074v1 公告类型：new 摘要：对 LLM 系统的评估通常只在小规模提示集上取平均，并以排名表形式报告模型。我们以基于 LLM 的提示结构推断为案例，追问这样一张表究竟值得多少信任：涵盖五个系列、8B 至 675B 参数的八个开源模型变体，禁用缓存，293 个原始中间表示 persis
+https://arxiv.org/abs/2609.30074
 
-**18. 一个适配模型能包办一切吗？客服 LLM 的微调策略选择**
-`arXiv cs.CL` · AI/商业认知/资本市场 · **20小时前**
-<sub>Can One Adapted Model Do It All? Fine-Tuning Strategy Selection for Customer Support LLMs</sub>
-> arXiv:2609.27262v1 公告类型：新论文 摘要：生产环境的客服系统通常要求 LLM 支持多种技能，如意图分类、问答、摘要或工具调用决策。部署中的核心问题是：这些技能应由各自的任务专用模型处理，还是由通过多任务训练、顺序更新……训练的单一模型来处理（原文截断）
-https://arxiv.org/abs/2609.27262
-
-**19. 美联储理事会对 Sandy Spring Bank 前员工采取执法行动**
-`美联储 新闻稿` · 资本市场 · **9小时前**
-<sub>Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank</sub>
-> 美联储理事会对 Sandy Spring Bank 前员工采取执法行动
-<![CDATA[https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm]]>
-
-**20. OpenAI正准备在未来几天预览其最新网络安全专用模型GPT-6 Cyber**
-`财联社` · AI · **刚刚**
-https://www.cls.cn/detail/2492855
-
-**21. OpenAI Academy 成立两周年**
-`OpenAI News` · AI · **昨天**
-<sub>Two years of OpenAI Academy</sub>
-> 庆祝 OpenAI Academy 成立两周年，将 AI 技能带给更多社区。
-https://openai.com/index/two-years-of-openai-academy
-
-**22. 美股三大指数收盘涨跌不一。美股三大指数收盘涨跌不一，道指跌0.31%，标普500指数跌0.02%，纳指涨0.01%。存储芯片股跌幅居前，ARM跌近8%，西部数据跌近5%，闪迪...**
-`虎嗅` · 资本市场 · **4小时前**
-https://www.huxiu.com/moment/1283463.html
-
-**23. 澳总理称 OpenAI 代理入侵了澳大利亚政府网站**
-`Hacker News 最佳` · AI · **21小时前**
-<sub>OpenAI agent hacked Australian government website, PM says</sub>
-> 文章链接：https://www.bbc.com/news/live/cvgl73pxgndwt 评论链接：https://news.ycombinator.com/item?id=49825580 得分：250 评论数：191
-https://www.bbc.com/news/live/cvgl73pxgndwt
-
-**24. 邀请10万名美国青少年来华交流学习**
-`热搜-微博` · — · **刚刚**
-https://s.weibo.com/weibo?q=%23%E9%82%80%E8%AF%B710%E4%B8%87%E5%90%8D%E7%BE%8E%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E6%9D%A5%E5%8D%8E%E4%BA%A4%E6%B5%81%E5%AD%A6%E4%B9%A0%23&t=31&band_rank=10&Refer=top
-
-**25. 2026 年游戏初创公司融资略有提升**
-`Crunchbase 融资板块` · — · **13小时前**
+**27. 2026 年游戏初创公司融资略有提升**
+`Crunchbase 融资板块` · — · **昨天**
 <sub>Gaming Startup Funding Levels Up A Bit In 2026</sub>
 > 今年迄今，游戏领域公司已筹集约 20 亿美元的种子轮至成长期融资，已超过 2025 年全年总额，主要得益于 AI 与游戏交叉领域公司获得的大额融资。
 https://news.crunchbase.com/venture/2026-global-gaming-startup-funding-up-ai-meshy-decart/
 
-**26. 澳大利亚将调查 OpenAI 入侵政府卫生网站是否违法**
-`TechCrunch` · AI · **11小时前**
-<sub>Australia to investigate if OpenAI hack of government health website broke the law</sub>
-> 这是已知首起影响政府机构的入侵事件，澳大利亚总理誓言要追究 OpenAI 的责任。
-https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/
+**28. 美联储理事会对 Sandy Spring Bank 前员工采取执法行动**
+`美联储 新闻稿` · 资本市场 · **昨天**
+<sub>Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank</sub>
+> 美联储理事会对 Sandy Spring Bank 前员工采取执法行动
+<![CDATA[https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm]]>
 
-**27. Google、OpenAI 与 Anthropic 的 AI 安全小组初具规模**
-`The Information` · AI · **11小时前**
-<sub>Google, OpenAI and Anthropic AI Safety Group Takes Shape</sub>
-https://www.theinformation.com/articles/google-openai-anthropic-ai-safety-group-takes-shape
+**29. OpenAI 发现“数十起”AI 行为不当的新案例**
+`The Information` · AI · **1小时前**
+<sub>OpenAI Found ‘Dozens’ of New Instances of AI Misbehavior</sub>
+https://www.theinformation.com/briefings/openai-found-dozens-new-instances-ai-misbehavior
 
-**28. Agent-Editing World Model：为 LLM Agent 重新思考世界建模**
-`arXiv cs.CL` · AI · **20小时前**
-<sub>Agent-Editing World Model: Rethinking World Modeling for LLM Agents</sub>
-> arXiv:2609.28416v1 公告类型：新 摘要：大语言模型（LLM）的最新进展使 Agent 能够处理跨多样环境的长时程任务。为进一步提升 Agent 性能，现有语言世界模型通常预测环境观测，但当真实反馈可用时，重建高熵、依赖执行的工具响应价值有限。
-https://arxiv.org/abs/2609.28416
+**30. OpenAI模型访问美国人口普查局、SEC公开数据**
+`财联社` · AI · **刚刚**
+https://www.cls.cn/detail/2493208
 
-**29. 英伟达黄仁勋：AI 不会必然消灭某个职业，“10 年内 AI 毁灭人类”更是无稽之谈**
-`IT之家` · AI/个人成长 · **刚刚**
-https://www.ithome.com/1/007/051.htm
+**31. 借助 GitHub Security Lab Taskflow Agent 的 AI 驱动模糊测试**
+`GitHub Blog` · AI · **昨天**
+<sub>AI-powered fuzzing with the GitHub Security Lab Taskflow Agent</sub>
+> 在这篇博文中，我介绍如何使用基于 GitHub Security Lab Taskflow Agent AI 框架的新模糊测试 taskflow。文章《AI-powered fuzzing with the GitHub Security Lab Taskflow Agent》首发于 The GitHub Blog。
+https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/
 
-**30. OpenAI 向乌克兰扩展网络能力以支持民用防御**
-`OpenAI News` · AI · **昨天**
-<sub>OpenAI extends cyber access to Ukraine for civilian defense</sub>
-> OpenAI 正将其 Daybreak 计划的访问权限扩展至乌克兰政府，以支持民用基础设施的网络防御。
-https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense
+**32. LaterOn v2：智能体式电子邮件平台**
+`Product Hunt` · AI · **2小时前**
+<sub>LaterOn v2: The agentic email plaftform</sub>
+https://www.producthunt.com/products/lateron-email
 
-**31. 29 小时攻破浏览器，GPT-6 Astra 成为 OpenAI 首个“严重级”模型**
-`InfoQ 中文` · AI · **8小时前**
-https://www.infoq.cn/article/b5oxzJyafr0lkZexoo8E?utm_source=rss&amp;utm_medium=article
+**33. 美股高开高走三大指数集体收涨，苹果再创历史收盘新高。美股高开高走，三大指数集体收涨，道指涨0.93%，本周累涨0.28%，终结周线三连跌；标普500指数涨0.51%，本...**
+`虎嗅` · 资本市场 · **1小时前**
+https://www.huxiu.com/moment/1283665.html
 
-**32. Dub Program Marketplace**
-`Product Hunt` · 资本市场 · **24分钟前**
-<sub>Dub Program Marketplace</sub>
-https://www.producthunt.com/products/dub
+**34. Anthropic 创始人在 IPO 前寻求投票控制权**
+`TechCrunch` · AI/商业认知 · **8小时前**
+<sub>Anthropic’s founders seek voting control ahead of IPO</sub>
+> Anthropic 正请求股东批准一项治理结构，使其七位联合创始人在多数公司事务上合计持有 50.1% 的投票权。
+https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/
 
-**33. 先进制造业赋能中国经济**
+**35. 东部战区发布中秋重磅海报**
 `热搜-抖音` · — · **刚刚**
-https://www.douyin.com/hot/2665225
+https://www.douyin.com/hot/2665733
 
-**34. 巨型 A 轮融资正在增加**
-`Crunchbase 融资板块` · — · **昨天**
-<sub>Jumbo-Sized Series A Rounds Are On The Rise</sub>
-> 根据 Crunchbase 数据，今年迄今全球初创公司已至少完成 114 笔 1 亿美元及以上的 A 轮融资。这是多年来最高的年度总额，并有望超过历史峰值。我们来看看钱流向了哪里。
-https://news.crunchbase.com/venture/megaround-seriesa-ai-chips-robotics-2026/
+**36. 面向自主渗透测试框架的校准决策模型：JEV 和 Laya 作为 LLM 驱动渗透测试智能体的 System One 决策层**
+`arXiv cs.AI` · AI/资本市场 · **20小时前**
+<sub>Calibrated Decision Models for Autonomous Penetration-Testing Harnesses: JEV and Laya as System One Decision Layers for LLM-Driven Pentest Agents</sub>
+> arXiv:2609.28940v1 公告类型：cross 摘要：自主渗透测试框架使用大语言模型（LLM）进行侦察、利用和报告，但往往又依赖同样的模型来确认发现、评定严重程度和选择智能体。这可能导致误报、严重程度虚高和算力浪费。我们考察 System One 决策模型——轻量级非生成式……
+https://arxiv.org/abs/2609.28940
 
-**35. OpenAI Agent 在澳大利亚政府入侵事件中“不接受拒绝”**
-`Ars Technica` · AI · **8小时前**
-<sub>OpenAI agent “didn’t accept no for an answer” in Australian government breach</sub>
-> “显然会有法律后果，”总理承诺道。
-https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/
+**37. 科技业裁员规模超过 2025 年，大公司把支出转向 AI**
+`Crunchbase News` · — · **13小时前**
+<sub>Tech Layoffs Outpace 2025 As Big Companies Shift Spending To AI</sub>
+> 从 1 月到 8 月，美国科技业裁员至少达 94,046 人，较 2025 年同期的 80,486 人增加 16.8%。有趣但并不意外的是，许多裁员正值科技公司将支出转向 AI、并重组运营以削减成本。
+https://news.crunchbase.com/layoffs/2026-layoff-numbers-rise-ai-shift-orcl-meta-amzn/
 
-**36. DeepSeek 年化收入达 10 亿美元，公司完成 75 亿美元融资**
-`The Information` · AI/企业落地 · **11小时前**
-<sub>DeepSeek’s Annualized Revenue Hits $1 Billion as Startup Finalizes $7.5 Billion Fundraising</sub>
-https://www.theinformation.com/articles/deepseeks-annualized-revenue-hits-1-billion-startup-finalizes-7-5-billion-fundraising
+**38. 联邦法院在 Anthropic 纠纷中支持五角大楼**
+`The Information` · AI/资本市场 · **7小时前**
+<sub>Federal Court Sides With Pentagon in Anthropic Dispute</sub>
+https://www.theinformation.com/briefings/federal-court-sides-pentagon-anthropic-dispute
 
-**37. Just-in-Time Memory：学习为 LLM Agent 整理任务自适应记忆**
-`arXiv cs.AI` · AI/资本市场/个人成长 · **20小时前**
-<sub>Just-in-Time Memory: Learning to Curate Task-Adaptive Memory for LLM Agents</sub>
-> arXiv:2609.27334v1 公告类型：新 摘要：Agentic 记忆系统复用过去经验以提升未来表现，但大多数现有设计在写入时整理记忆：任务完成后，其轨迹被蒸馏为固定产物，如反思、工作流、技能或推理策略，之后通过相似度检索。这迫使系统决定什么值得……
-https://arxiv.org/abs/2609.27334
+**39. 财联社9月26日电，花旗集团考虑将墨西哥银行Banmex按逾30亿美元估值IPO。**
+`财联社` · 商业认知/资本市场 · **刚刚**
+https://www.cls.cn/detail/2493192
 
-**38. OpenAI正准备在未来几天预览其最新的网络安全专用模型GPT-6 Cyber。
-
-该公司还将发布一款新产品，帮助客户以更安全、自动化的方式部署GPT-6 Cyber。（财富杂志）**
-`华尔街见闻快讯` · AI/企业落地 · **刚刚**
-https://wallstreetcn.com/livenews/3170646
-
-**39. Harvey 借助 GPT-6 Astra 将法律上下文转化为更完善的草稿**
-`OpenAI News` · AI · **昨天**
-<sub>Harvey turns legal context into stronger drafts with GPT-6 Astra</sub>
-> GPT-6 Astra 生成更结构化、上下文感知的法律文件，让律师专注于策略。
-https://openai.com/index/harvey-from-context-to-confidence-with-astra
-
-**40. MiMo-V2.6刚发，小米罗福莉扔出MiMo-V3新架构，引用DeepSeek多项成果**
-`36氪 热榜` · AI · **21小时前**
-https://www.36kr.com/p/3996783462780800
+**40. GitHub Copilot 应用入门：如何用 canvas 构建自定义工作流**
+`GitHub Blog` · — · **6小时前**
+<sub>GitHub Copilot app for Beginners: How to build custom workflows with canvases</sub>
+> 用自然语言描述你需要的界面，然后让智能体构建一个你们双方都能使用和更新的实时界面——这样你花在适应工具上的时间更少，花在完成工作上的时间更多。文章《GitHub Copilot app for Beginners: How to build custom workflows with canvases》首发于 The GitHub Blog。
+https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/
