@@ -1,165 +1,220 @@
-# 信源日报 2026-09-27
+# 信源日报 2026-09-28
 
-68 源 · 储备 118 条 · 精选 40 条（仅限 48 小时内）
+68 源 · 储备 1070 条 · 精选 40 条（仅限 48 小时内）
 
 ---
 
-**1. 谷歌威胁情报小组发现暗网市场正在出售对AI模型的访问权限，包括Anthropic、谷歌和OpenAI的模型，折扣高达97%。**
-`虎嗅` · AI · **17分钟前**
-https://www.huxiu.com/moment/1283830.html
+**1. 在最新的美国财报电话会议中，提到开放模型的次数同比激增6倍，8月份开放模型占Vercel代币的56%，占AT&T人工智能工作负载的40%。**
+`虎嗅` · AI/资本市场 · **5分钟前**
+https://www.huxiu.com/moment/1284005.html
 
-**2. 前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中。在2026年人工智能峰会上，Core Automation公司首席执行官杰瑞·特沃雷克指出，衡量人工智能进步的最...**
-`虎嗅` · AI · **2小时前**
-https://www.huxiu.com/moment/1283820.html
+**2. Show HN：Agenttab —— 为 Claude Code、Codex 和 OpenCode 标签页添加状态图标**
+`HN Show HN` · AI · **53分钟前**
+<sub>Show HN: Agenttab – Status Icons for Claude Code, Codex and OpenCode Tabs</sub>
+> 文章链接：https://github.com/marciob/agenttab 评论链接：https://news.ycombinator.com/item?id=49871923 得分：1 评论数：0
+https://github.com/marciob/agenttab
 
-**3. 估值超1万亿元！美股史上最大半导体IPO或要来了，曾被英特尔600亿元卖掉。美股史上最大半导体IPO要来了？据券商中国报道，存储芯片巨头SK海力士旗下Solidigm正考...**
-`虎嗅` · 商业认知/资本市场 · **3小时前**
-https://www.huxiu.com/moment/1283817.html
+**3. OpenAI 智能体试图入侵教育部网站，另有数十起不当行为**
+`The Information` · AI · **5小时前**
+<sub>OpenAI Agents Tried to Hack Education Depart. Website Amid Dozens of Misdeeds</sub>
+https://www.theinformation.com/briefings/openai-found-dozens-new-instances-ai-misbehavior
 
-**4. OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光**
-`量子位` · AI · **17小时前**
+**4. OpenAI 智能体试图“暴力破解”联合国网站**
+`The Verge` · AI · **7小时前**
+<sub>OpenAI agents tried to ‘bruteforce’ a UN website</sub>
+> 安全研究员 Rowan Howard-Jones 称，4 月至 6 月期间，OpenAI 智能体对联合国贸易和发展会议（UNCTAD）的统计网站扫描超过 16,000 次。虽然此事严重程度不及 Hugging Face 遭黑事件，也不及近期对美国政府部门网站的攻击，但这是又一个令人担忧的 AI […]
+https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website
+
+**5. 小米18Pro 防窥屏**
+`热搜-微博` · — · **刚刚**
+https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B318Pro%20%E9%98%B2%E7%AA%A5%E5%B1%8F&t=31&band_rank=20&Refer=top
+
+**6. 蔚来与吉利控股集团达成充换电领域全面战略合作**
+`IT之家` · 商业认知 · **刚刚**
+https://www.ithome.com/1/007/635.htm
+
+**7. 伊朗：已为与美战事重开做好准备。中美达成八点成果共识②特朗普拒绝伊朗七日内重开霍尔木兹海峡提议③OpenAI再暂停最先进模型训练④英伟达加码玻璃基板⑤沙特首...**
+`虎嗅` · AI · **1小时前**
+https://www.huxiu.com/moment/1283993.html
+
+**8. Show HN：Anthropic 是否一直在未披露的情况下削弱其模型**
+`HN Show HN` · AI · **1小时前**
+<sub>Show HN: Has Anthropic been nerfing their models without disclosure</sub>
+> 文章链接：https://github.com/ninjahawk/livenerf 评论链接：https://news.ycombinator.com/item?id=49871819 得分：2 评论数：0
+https://github.com/ninjahawk/livenerf
+
+**9. 联邦法院在 Anthropic 纠纷中支持五角大楼**
+`The Information` · AI/资本市场 · **5小时前**
+<sub>Federal Court Sides With Pentagon in Anthropic Dispute</sub>
+https://www.theinformation.com/briefings/federal-court-sides-pentagon-anthropic-dispute
+
+**10. Anthropic CEO 即将与特朗普总统共进晚餐**
+`TechCrunch` · AI · **3小时前**
+<sub>Anthropic’s CEO is about to have dinner with President Trump</sub>
+> 这将是 Dario Amodei 与 Donald Trump 的首次单独会面
+https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/
+
+**11. 油价将于10月15日24时调整**
+`热搜-头条` · — · **刚刚**
+https://www.toutiao.com/trending/7689402450922618931/
+
+**12. 目标让手机用十年：Linux 手机系统 postmarketOS 正式更名为 Nura**
+`IT之家` · 资本市场 · **刚刚**
+https://www.ithome.com/1/007/620.htm
+
+**13. 量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层**
+`量子位` · AI/资本市场 · **10小时前**
+https://www.qbitai.com/2026/09/498633.html
+
+**14. GPT-6 Sol & Luna**
+`Product Hunt` · AI · **1分钟前**
+<sub>GPT-6 Sol & Luna</sub>
+https://www.producthunt.com/products/openai
+
+**15. 美国企业界拥抱更廉价的“开源”AI 模型**
+`Financial Times` · AI/资本市场 · **7小时前**
+<sub>Corporate America embraces cheaper ‘open’ AI models</sub>
+> 远在硅谷之外的美国企业正采用中国替代方案，取代 OpenAI 和 Anthropic 的系统
+https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd?syn-25a6b1a6=1
+
+**16. Muse 能否克服 Meta 的信任问题？**
+`TechCrunch` · AI · **4小时前**
+<sub>Can Muse overcome Meta’s trust issues?</sub>
+> 在 Equity 节目中，我们讨论了 Meta 的 AI 发布如何抢走了 OpenAI 和 Anthropic 的风头。
+https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/
+
+**17. 新能源汽车仍然“买得起修不起”吗**
+`热搜-头条` · — · **刚刚**
+https://www.toutiao.com/trending/7690092497246765092/
+
+**18. 财联社9月28日电，日本央行会议纪要显示，一名成员表示，市场似乎认为日本央行将每六个月左右加息一次，但实际上可能会以更快的速度加息。**
+`财联社` · 资本市场 · **刚刚**
+https://www.cls.cn/detail/2493630
+
+**19. OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光**
+`量子位` · AI · **昨天**
 https://www.qbitai.com/2026/09/497382.html
 
-**5. 环球下周看点：美债风暴走向何处？星舰试飞、“会飞的特斯拉”接力亮相。美债风暴下，PCE、非农数据挑动加息预期；②“星舰”飞船首度挑战进入地球轨道，并将部...**
-`虎嗅` · 资本市场 · **1小时前**
-https://www.huxiu.com/moment/1283825.html
+**20. Show HN：Jevdit —— 由 Jev 担任内容审核的社交网络**
+`HN Show HN` · 资本市场 · **3小时前**
+<sub>Show HN: Jevdit – a social network moderated by Jev</sub>
+> 嗨 HN！我想到 Jev 或许很适合做内容审核，于是研究了它到底有多强，详见我的文章 https://tn1ck.com/blog/jevdit。它在这方面确实相当出色，而且成本极低。我搭了这个类 Reddit 站点，看看它在真正接入互联网后是否依然如此。任何访客都会立即获得一个匿名账号。这是一个简单的服务端渲染
+https://jevdit.com
 
-**6. 谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架**
-`量子位` · AI · **17小时前**
-https://www.qbitai.com/2026/09/497425.html
+**21. 澳大利亚参议院要求 OpenAI、Anthropic CEO 接受 AI 调查听证**
+`Bloomberg Technology` · AI · **13小时前**
+<sub>Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry</sub>
+> 在近期曝出政府网站遭黑客攻击后，AI 公司 OpenAI 和 Anthropic PBC 的负责人被要求出席澳大利亚参议院调查听证会并回答问题。
+https://www.bloomberg.com/news/articles/2026-09-27/australia-senate-requests-openai-anthropic-ceos-face-ai-inquiry
 
-**7. DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag**
-`InfoQ 中文` · AI · **15小时前**
-https://www.infoq.cn/article/gk4rWsQg09PWTFTZlJE3?utm_source=rss&amp;utm_medium=article
+**22. OpenAI 暂停训练其“最强模型”**
+`The Verge` · AI · **昨天**
+<sub>OpenAI pauses training of its ‘most capable models’</sub>
+> 随着 OpenAI 模型突破隔离、入侵网站乃至彻底失控的报道不断增多，该公司决定暂停训练其最强模型。这一决定是在沙箱内测试的一款模型利用漏洞获取互联网访问权限后做出的。该事件发生在 9 月 […]
+https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause
 
-**8. 冲刺美股史上最大半导体IPO！英特尔曾以90亿美元卖掉的Solidigm，如今估值或达1500亿美元**
-`华尔街见闻` · 商业认知/资本市场 · **21小时前**
-https://wallstreetcn.com/articles/3782575
+**23. 专家：机器人也失业了**
+`热搜-头条` · — · **刚刚**
+https://www.toutiao.com/trending/7690043841058967083/
 
-**9. “Agent vs 美债”——谁将主导美股？**
-`华尔街见闻` · AI/资本市场 · **22小时前**
-https://wallstreetcn.com/articles/3782574
+**24. 【点金互动易】AI电源+Rubin，构建一体化供电方案，可覆盖千瓦级至兆瓦级AI电力需求，这家公司已向部分北美大客户批量供货并推进多家头部云厂商定制化项目**
+`财联社` · 企业落地 · **刚刚**
+https://www.cls.cn/detail/2493540
 
-**10. 索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准**
-`量子位` · 商业认知 · **12小时前**
-https://www.qbitai.com/2026/09/498478.html
+**25. 从B站UP主到500亿上市公司，33岁天才少年再闯港交所**
+`36氪 热榜` · 商业认知 · **17小时前**
+https://www.36kr.com/p/4001283028095108
 
-**11. AI杀入科学家“主场”！OpenAI智能体将挑战人类蛋白质设计，原定“人机大战”临时改赛制**
-`华尔街见闻` · AI · **14小时前**
-https://wallstreetcn.com/articles/3782583
+**26. Show HN：AstraBox —— Claude Managed Agents 的开源替代方案**
+`HN Show HN` · AI · **4小时前**
+<sub>Show HN: AstraBox – an open-source alternative to Claude Managed Agents</sub>
+> 文章链接：https://github.com/Colton-z/AstraBox 评论链接：https://news.ycombinator.com/item?id=49870517 得分：2 评论数：0
+https://github.com/Colton-z/AstraBox
 
-**12. 认购倍数高达4倍！“AI戒指”Oura IPO遇热捧**
-`华尔街见闻` · 商业认知/资本市场 · **22小时前**
-https://wallstreetcn.com/articles/3782572
+**27. 独家：Figma 高管加入 AI 推理初创公司 Baseten**
+`The Information` · AI · **5小时前**
+<sub>Exclusive: Figma Exec Joins AI Inference Startup Baseten</sub>
+https://www.theinformation.com/briefings/exclusive-figma-exec-joins-ai-inference-startup-baseten
 
-**13. OpenAI披露：旗下AI模型可能干扰了包括政府、高校在内的数十个机构网站**
-`华尔街见闻` · AI · **昨天**
-https://wallstreetcn.com/articles/3782566
+**28. Anthropic 的 Dario Amodei 被 SNL 调侃**
+`TechCrunch` · AI · **8小时前**
+<sub>Anthropic’s Dario Amodei gets the SNL treatment</sub>
+> “AI 是魔鬼，而我是它的造物主。”
+https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/
 
-**14. 报道：SK海力士旗下Solidigm最快明年在美IPO，估值或高达1500亿美元**
-`华尔街见闻` · 商业认知/资本市场 · **昨天**
-https://wallstreetcn.com/articles/3782555
+**29. 71岁男子拾荒21年领到42万养老金**
+`热搜-头条` · — · **刚刚**
+https://www.toutiao.com/trending/7690165131804147753/
 
-**15. OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉**
-`量子位` · AI · **昨天**
-https://www.qbitai.com/2026/09/497177.html
+**30. 美联储10月加息的概率为64.8%**
+`财联社` · 资本市场 · **刚刚**
+https://www.cls.cn/detail/2493586
 
-**16. 还没破百万日活，Meta Muse就频频掉链子：服务降级、Agent失败，算力瓶颈浮出水面**
-`华尔街见闻` · AI · **昨天**
-https://wallstreetcn.com/articles/3782546
+**31. 蔚来携手吉利，达成充换电领域全面战略合作。2026年9月28日，蔚来公司与吉利控股集团达成充换电领域全面战略合作。双方达成技术、运营、资本全方面合作共识，将...**
+`虎嗅` · 商业认知 · **31分钟前**
+https://www.huxiu.com/moment/1284000.html
 
-**17. 瑞银：美企Capex意愿触底反弹，进一步加息对经济冲击或有限**
-`华尔街见闻` · 企业落地/资本市场 · **昨天**
-https://wallstreetcn.com/articles/3782536
+**32. 不存在“失控”的 AI agent**
+`Hacker News 最佳` · AI · **8小时前**
+<sub>There are no "rogue" AI agents</sub>
+> 文章链接：https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents 评论链接：https://news.ycombinator.com/item?id=49868083 点数：326 # 评论数：241
+https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents
 
-**18. OpenAI据报酝酿500美元“Pro Max”套餐：主打最快Work与Codex，或接入Cerebras算力**
-`华尔街见闻` · AI · **昨天**
-https://wallstreetcn.com/articles/3782524
+**33. AI 违规事件加剧安全担忧，特朗普会见 Anthropic 负责人**
+`Bloomberg Technology` · AI · **1小时前**
+<sub>AI Breaches Add to Safety Fears as Trump Meets Anthropic Chief</sub>
+> 在最新披露显示先进 AI 模型存在范围更广的违规行为后，全球对人工智能风险的焦虑加剧，也为 Anthropic PBC 首席执行官 Dario Amodei 与美国总统 Donald Trump 的高风险会晤拉开序幕。
+https://www.bloomberg.com/news/articles/2026-09-27/ai-breaches-add-to-safety-fears-as-trump-meets-anthropic-chief
 
-**19. Anthropic与Akamai签署116亿美元算力协议，创后者史上最大合同**
-`华尔街见闻` · AI · **昨天**
-https://wallstreetcn.com/articles/3782512
+**34. TechCrunch Mobility：自动驾驶公司各选赛道**
+`TechCrunch` · — · **8小时前**
+<sub>TechCrunch Mobility: AV companies pick their lanes</sub>
+> 欢迎回到 TechCrunch Mobility，这里是未来交通的中枢，而如今 AI 在其中扮演的角色比以往任何时候都更重要。
+https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/
 
-**20. 融资3亿，她宣布公司倒闭**
-`36氪 热榜` · — · **15小时前**
-https://www.36kr.com/p/4000001733414792
+**35. 小米 18 系列硬件防窥屏线下实测被指可视角度差、侧看偏色，这是翻车了吗？是硬件方案固有缺陷还是调校问题？**
+`热搜-知乎` · — · **刚刚**
+https://www.zhihu.com/question/2086829341468577823
 
-**21. 3000元做出5亿播放，靠AI短剧暴富可能吗？**
-`36氪 热榜` · — · **17小时前**
-https://www.36kr.com/p/3999716337422212
+**36. Flutter Golden Tests：给 AI Agent 的 UI 测试系统**
+`掘金` · AI · **刚刚**
+<sub>Flutter Golden Tests：给 AI Agent 的 UI 测试系统</sub>
+https://juejin.cn/post/7688611918492008490
 
-**22. 著名音乐家刘欢去世：从教32年、捐赠2000万、资助新生代唱作人**
-`36氪 热榜` · — · **20小时前**
-https://www.36kr.com/p/3999695107461251
+**37. 作家诉 Microsoft/OpenAI 案中解封的简报**
+`Hacker News 最佳` · AI · **18小时前**
+<sub>Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI</sub>
+> 文章链接：https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/ 评论链接：https://news.ycombinator.com/item?id=49863864 点数：600 # 评论数：575
+https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/
 
-**23. 张小龙开始用小微替掉元宝了**
-`36氪 热榜` · — · **21小时前**
-https://www.36kr.com/p/3999593193361545
+**38. 亚运会乒乓球男双决赛，林诗栋 / 黄友政 4-2 张本智和 / 篠塚大登，获男双金牌，如何评价本场比赛？**
+`热搜-知乎` · — · **刚刚**
+https://www.zhihu.com/question/2087560514792419879
 
-**24. 红果一打四，爱优腾芒集体沉默**
-`36氪 热榜` · — · **22小时前**
-https://www.36kr.com/p/3998964027412613
+**39. 日本央行7月会议纪要：委员们一致认为金融条件较为宽松。
 
-**25. 中国汽车横扫全球，为何拿不下越南？**
-`36氪 热榜` · — · **23小时前**
-https://www.36kr.com/p/3998658992394112
+一些委员表示，消费者物价出现上涨迹象，反映出进口成本上升。
 
-**26. Meta Muse为超级智能买单**
-`36氪 热榜` · — · **23小时前**
-https://www.36kr.com/p/3999313876734086
+多位委员表示，企业将不断上涨的原材料成本稳步传导出去，导致批发通胀居高不下。
 
-**27. 第一批“请3休13”的人，已经在焦虑酒店的神秘小虫子了**
-`36氪 热榜` · — · **23小时前**
-https://www.36kr.com/p/3999514065276804
+多位委员表示，中长期通胀预期在家庭和企业层面均有所上升。
 
-**28. 微软CEO回应XBOX裁员。据TechpowerUp报道，微软首席执行官萨提亚·纳德拉（Satya Nadella）针对XBOX正在实施的裁员表态，称很高兴看到（great to see）。此番言...**
-`虎嗅` · — · **2分钟前**
-https://www.huxiu.com/moment/1283832.html
+多位委员表示，消费品物价上涨范围可能从夏季开始扩大。
 
-**29. 中国移动、中国电信、中国联通，集中叫停。在三大运营商线下营业厅，不少消费者都碰到过“免费领手机”“办宽带送礼品”的宣传。看似是办套餐就能白拿手机，实际...**
-`虎嗅` · — · **5分钟前**
-https://www.huxiu.com/moment/1283831.html
+多位委员表示，近期潜在通胀率接近2%，需要聚焦于将物价涨幅稳定在该水平附近。
 
-**30. 中国人民解放军南部战区位黄岩岛周边海空域组织海空联合演训。9月27日，中国人民解放军南部战区位黄岩岛周边海空域组织海空联合演训，这是针对当前个别国家破坏...**
-`虎嗅` · — · **32分钟前**
-https://www.huxiu.com/moment/1283829.html
+一位委员表示，必须关注长期通胀预期能否稳定在2%左右。
 
-**31. 邓亚萍谈日本男单全军覆没：男团夺冠后兴奋过了头，能战胜国乒出乎他们的意料；张本智和对中国队做了充分的准备，单打他的心态不一样了。据看看新闻Knews：亚运...**
-`虎嗅` · — · **35分钟前**
-https://www.huxiu.com/moment/1283828.html
+一位委员表示，日本央行必须分阶段调整货币支持政策，以避免延迟加息。
 
-**32. 吴林逝世。近日，哈尔滨工业大学发布讣告： 中国共产党优秀党员、我国著名焊接专家、机器人技术专家、哈尔滨工业大学原党委书记吴林同志，于2026年9月23日因病医...**
-`虎嗅` · — · **37分钟前**
-https://www.huxiu.com/moment/1283827.html
+一位委员表示，市场似乎认为日本央行将大约每六个月加息一次，但实际上步伐可能更快。
 
-**33. 官方通报“教师被强制自费培训”：成立专项调查组。9月27日，南丹县小学教师教学能力夯基培训班调查组发布情况通报：9月26日，有媒体报道南丹县小学教师教学能力...**
-`虎嗅` · — · **1小时前**
-https://www.huxiu.com/moment/1283826.html
+一位委员表示，日本央行必须灵活调整政策利率，重点关注物价上涨风险。**
+`华尔街见闻快讯` · 资本市场 · **刚刚**
+https://wallstreetcn.com/livenews/3171113
 
-**34. 美国财长贝森特：土耳其和阿曼宣布停止马汉航空（Mahan Air）飞往本国的航班。阿联酋已全面暂停所有伊朗航空公司的航班，阿联酋和土耳其的顶级商业银行也已停止...**
-`虎嗅` · — · **1小时前**
-https://www.huxiu.com/moment/1283824.html
-
-**35. 伊朗外长：霍尔木兹海峡开放取决于伊方条件是否满足。当地时间27日，伊朗外长阿拉格齐表示，伊朗不会在既定条件上向美国让步，霍尔木兹海峡的开放取决于伊朗提出...**
-`虎嗅` · — · **2小时前**
-https://www.huxiu.com/moment/1283823.html
-
-**36. 巴西东北部发生客车翻车事故致7死13伤。当地时间25日晚，巴西东北部巴伊亚州发生一起客车翻车事故，造成至少7人死亡、13人受伤。**
-`虎嗅` · — · **2小时前**
-https://www.huxiu.com/moment/1283822.html
-
-**37. 沙特称霍尔木兹海峡须恢复至“战前状态”。沙特阿拉伯外交大臣费萨尔26日在第81届联合国大会一般性辩论发言中表示，霍尔木兹海峡必须恢复到2月28日之前的状态，...**
-`虎嗅` · — · **2小时前**
-https://www.huxiu.com/moment/1283821.html
-
-**38. 特朗普政府正试图收回国会为移民、少数族裔及儿童服务项目批准的近10亿美元资金。此举引发了强烈反对，其合法性也备受争议。**
-`虎嗅` · — · **2小时前**
-https://www.huxiu.com/moment/1283819.html
-
-**39. 伊朗外交部长阿拉格齐：与华盛顿的问题唯有通过公正的谈判解决，并确保我国人民的权利、满足其合理诉求。**
-`虎嗅` · — · **3小时前**
-https://www.huxiu.com/moment/1283818.html
-
-**40. 伊朗武装部队发言人：霍尔木兹海峡处于伊朗的控制之下。任何试图在伊朗指定航线之外通行的船只，均无法获得安全保障。**
-`虎嗅` · — · **3小时前**
-https://www.huxiu.com/moment/1283816.html
+**40. Show HN：Lofi Cities – 像素艺术城市夜景，搭配浏览器生成的 lofi 音乐**
+`Hacker News 前页` · 资本市场 · **5小时前**
+<sub>Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi</sub>
+> 文章链接：https://loficities.com/ 评论链接：https://news.ycombinator.com/item?id=49869574 点数：146 # 评论数：71
+https://loficities.com/
