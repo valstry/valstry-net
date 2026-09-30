@@ -1,215 +1,213 @@
-# 信源日报 2026-09-29
+# 信源日报 2026-09-30
 
-68 源 · 储备 1164 条 · 精选 40 条（仅限 48 小时内）
+68 源 · 储备 1122 条 · 精选 40 条（仅限 48 小时内）
 
 ---
 
-**1. Lenfest Institute 在 OpenAI 扩大支持下推进这一里程碑式项目**
-`OpenAI News` · AI · **17小时前**
-<sub>The Lenfest Institute grows landmark program with expanded OpenAI support</sub>
-> OpenAI 正以 500 万美元资金及最高 500 万美元的软件额度和工程支持，扩大 Lenfest AI Collaborative and Fellowship Program。
-https://openai.com/index/lenfest-ai-collaborative-expansion
+**1. 我们史上规模最大的 DevDay，别迟到。https://openai.com/live**
+`X-OpenAI` · AI · **7小时前**
+<sub>Our biggest DevDay ever, don’t be late. https://openai.com/live</sub>
+> 我们史上规模最大的 DevDay，别迟到。https://openai.com/live
+https://x.com/OpenAI/status/2104976337316589726
 
-**2. IPO申请：Anthropic的七位联合创始人将通过一个新的“创始人有限责任公司”初始拥有50.1%的总投票权，旨在服务于公共利益。**
-`虎嗅` · AI/商业认知 · **1分钟前**
-https://www.huxiu.com/moment/1284333.html
+**2. OpenAI紧急叫停GPT-6.1**
+`36氪 热榜` · AI · **15小时前**
+https://www.36kr.com/p/4004255063510917
 
-**3. Anthropic 的 IPO 招股书展现 AI 愿景与飙升的成本**
-`Hacker News 前页` · AI/商业认知 · **51分钟前**
-<sub>Anthropic's IPO prospectus shows AI vision, surging costs</sub>
-> 文章链接：https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/ 评论链接：https://news.ycombinator.com/item?id=49886005 得分：29 评论数：12
-https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/
+**3. 如何评价 OpenAI 发布的 GPT-6.1 Sol？**
+`热搜-知乎` · AI · **刚刚**
+https://www.zhihu.com/question/2088438061877178615
 
-**4. 美股收跌 光通信存储芯片跌幅居前**
-`热搜-百度` · 资本市场 · **刚刚**
-https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E8%B7%8C+%E5%85%89%E9%80%9A%E4%BF%A1%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E8%B7%8C%E5%B9%85%E5%B1%85%E5%89%8D
+**4. OpenAI 最新功能直指应用商店模式**
+`TechCrunch` · AI · **4小时前**
+<sub>OpenAI’s latest features take direct aim at the app store model</sub>
+> OpenAI 正在逐步拼凑出传统应用商店模式的替代方案，把 ChatGPT 变成一个人和 AI 智能体都能发现并使用软件的地方。
+https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/
 
-**5. 消息称：推理服务商 Modal Labs 即将完成 7.5 亿美元融资，估值 157.5 亿美元**
-`TechCrunch` · AI/资本市场 · **3小时前**
-<sub>Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation</sub>
-> 这轮新融资预计将使这家 AI 基础设施初创公司的估值较四个月前增长两倍以上。
-https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/
+**5. Oura 暂停 IPO，而 Anthropic 的招股书揭示了其 AI 雄心的成本**
+`Crunchbase News` · AI/商业认知 · **5小时前**
+<sub>Oura Hits Pause On IPO While Anthropic’s Prospectus Reveals The Cost Of Its AI Ambitions</sub>
+> 尽管 Oura 推迟了原本可能筹集高达 22 亿美元的发行计划，Anthropic 仍在推进上市，AI 云服务商 Nscale 等公司也在排队等待第四季度可能的上市。
+https://news.crunchbase.com/public/oura-pauses-ipo-anthropics-ai-openai/
 
-**6. 出于安全顾虑，OpenAI 将不会发布 GPT-6.1 Astra**
-`The Information` · AI · **39分钟前**
+**6. Show HN：Fab —— 面向 AI 智能体的快速浏览器 CLI**
+`HN Show HN` · AI · **4小时前**
+<sub>Show HN: Fab – a fast browser CLI for AI agents</sub>
+> 文章链接：https://github.com/ianks/fast-agentic-browser 评论链接：https://news.ycombinator.com/item?id=49899942 点数：1 # 评论：0
+https://github.com/ianks/fast-agentic-browser
+
+**7. 出于安全顾虑，OpenAI 将不会发布 GPT-6.1 Astra**
+`The Information` · AI · **1小时前**
 <sub>OpenAI Will Not Ship GPT-6.1 Astra Due to Safety Concerns</sub>
 https://www.theinformation.com/briefings/openai-will-ship-gpt-6-1-astra-due-safety-concerns
 
-**7. Cartograph：面向 AI Agent 的联邦式工具发现与操作方认证检索**
-`arXiv cs.CL` · AI/资本市场 · **20小时前**
+**8. Cartograph：面向 AI Agent 的联邦式工具发现与操作方认证检索**
+`arXiv cs.AI` · AI/资本市场 · **20小时前**
 <sub>Cartograph: Federated Tool Discovery with Operator-Attested Retrieval for AI Agents</sub>
-> arXiv:2609.30293v1 公告类型：新论文 摘要：Model Context Protocol（MCP）使 AI Agent 能够发现并调用工具，但随着接入目录扩大，加载全部定义的成本变得高昂。我们提出 Cartograph——一个联邦式 MCP 代理，将 Agent 可见的工具发现从 $O(n)$ 的目录遍历转变为 $O(k)$ 的渐进式披露。Cartograph 结合了三种机制：(
+> arXiv:2609.30293v1 公告类型：cross 摘要：模型上下文协议（MCP）让 AI 智能体能够发现并调用工具，但随着接入目录扩大，加载每一个定义的成本变得高昂。我们提出 Cartograph，一个联邦式 MCP 代理，将智能体可见的工具发现从 $O(n)$ 目录遍历变为 $O(k)$ 渐进式披露。Cartograph 结合三种机制：（1）ope
 https://arxiv.org/abs/2609.30293
 
-**8. Anthropic IPO 招股书曝光，巨额算力投入与安全隐忧并存**
-`IT之家` · AI/商业认知 · **刚刚**
-https://www.ithome.com/1/008/082.htm
+**9. 消息称 OpenAI 计划 IPO 前再融资至少 300 亿美元，估值达 1.4 万亿美元**
+`IT之家` · AI/商业认知/资本市场 · **刚刚**
+https://www.ithome.com/1/008/558.htm
 
-**9. 这位 Groq 早期投资人预计她半数押注会失败**
-`Crunchbase 融资板块` · — · **13小时前**
-<sub>This Early Groq Investor Expects Half Her Bets To Fail</sub>
-> 在接受 Crunchbase News 采访时，Axiom Partners 创始人兼管理合伙人 Sandhya Venkatachalam 谈到了她为何不拘泥于熟悉的创始人画像、什么让 AI 公司具备持久力，以及对 Groq 的早期投资如何塑造了她的思路。
-https://news.crunchbase.com/venture/early-groq-ai-investor-qa-venkatachalam-axiom/
+**10. 监管机构发布 15 家银行机构的处置计划反馈函**
+`美联储 新闻稿` · — · **4小时前**
+<sub>Agencies publish resolution plan feedback letters for 15 banking organizations</sub>
+> 监管机构发布 15 家银行机构的处置计划反馈函
+<![CDATA[https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm]]>
 
-**10. 携手 NVIDIA，让企业对其 AI Agent 拥有更多控制权**
-`Claude 官方博客` · AI · **昨天**
-<sub>Giving companies more control over their AI agents, with NVIDIA</sub>
-> NVIDIA 今日宣布推出 Open Agent Safety Platform，这是一个用于强化 AI 安全的开放软件平台与参考系统设计。Anthropic 已与 NVIDIA 合作，为 Agent 技术栈带来额外的安全与控制层。Claude Managed Agents 是一套可组合 API，用于大规模构建和部署生产级 Agent，它持有 Agent 所需的凭据
-https://claude.com/blog/giving-companies-more-control-over-their-ai-agents-with-nvidia
+**11. 我们如何看待保障前沿 RL 训练运行的安全：https://openai.com/index/towards-safety-cases-for-frontier-ai-training/**
+`X-OpenAI` · AI · **18小时前**
+<sub>How we think about securing frontier RL training runs: https://openai.com/index/towards-safety-cases-for-frontier-ai-training/</sub>
+> 我们如何看待保障前沿 RL 训练运行的安全：https://openai.com/index/towards-safety-cases-for-frontier-ai-training/
+https://x.com/OpenAI/status/2104815409522483470
 
-**11. Anthropic IPO申报文件警告：人工智能可能对人类构成“生存威胁”。据报道，Anthropic计划在其首次公开募股（IPO）中提醒潜在投资者，先进的人工智能可能给人类...**
-`虎嗅` · AI/商业认知 · **15分钟前**
-https://www.huxiu.com/moment/1284330.html
+**12. 贝恩据悉考虑竞购美国数据中心公司Edged 交易估值或超150亿美元。贝恩资本据悉寻求竞购Koch Inc.旗下数据中心公司Edged，这笔交易将成为贝恩对美国人工智能(AI)...**
+`虎嗅` · AI/资本市场 · **6分钟前**
+https://www.huxiu.com/moment/1284662.html
 
-**12. Nvidia 想为每个 AI Agent 配一颗看门狗芯片**
-`Hacker News 前页` · AI · **8小时前**
-<sub>Nvidia wants to put a watchdog chip next to every AI agent</sub>
-> 文章链接：https://www.cnbc.com/2026/09/28/nvidia-releases.html 评论链接：https://news.ycombinator.com/item?id=49879883 得分：88 评论数：135
-https://www.cnbc.com/2026/09/28/nvidia-releases.html
+**13. 博主嘻嘻徐宝胃癌去世年仅26岁**
+`热搜-微博` · 自媒体 · **刚刚**
+https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E5%98%BB%E5%98%BB%E5%BE%90%E5%AE%9D%E8%83%83%E7%99%8C%E5%8E%BB%E4%B8%96%E5%B9%B4%E4%BB%8526%E5%B2%81%23&t=31&band_rank=28&Refer=top
 
-**13. 多地贷款中介集体解散群聊、删除朋友圈，背后原因是什么？会带来哪些影响？**
-`热搜-知乎` · 企业落地 · **刚刚**
-https://www.zhihu.com/question/2087614254006400641
+**14. 互联网认定 Elon Musk 的 xAI 在 OpenAI 发布“Dots”时恶意调侃**
+`TechCrunch` · AI · **2小时前**
+<sub>The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch</sub>
+> 在 OpenAI 于周二发布其新 AI 智能体 Dots 之前，Elon Musk 的 xAI 已买下域名 "dot.com"，该域名现在重定向到 Grok 聊天机器人的下载页面。
+https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/
 
-**14. Nvidia 推出新平台，以约束失控的 AI Agent**
-`TechCrunch` · AI · **6小时前**
-<sub>Nvidia launches new platform for reining in rogue AI agents</sub>
-> Nvidia CEO 黄仁勋周一发布了一套软硬件产品工具包，可在 AI Agent 周围增加独立安全层，确保其即便试图突破也能留在测试环境内。
-https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/
+**15. Tiny Health 融资 3300 万美元，探索肠道数据能揭示哪些未来健康信息**
+`Crunchbase 融资板块` · — · **12小时前**
+<sub>Tiny Health Raises $33M To Explore What Gut Data Can Reveal About Future Health</sub>
+> 总部位于奥斯汀的 Tiny Health 在由 B Capital 领投的 B 轮融资中筹集了 3300 万美元，以满足其居家微生物组检测日益增长的需求。
+https://news.crunchbase.com/venture/tiny-health-33m-microbiome-tests-sew-hoy/
 
-**15. 佛罗里达州总检察长寻求禁止 OpenAI 开发缺乏防护措施的新模型**
-`The Information` · AI · **3小时前**
-<sub>Florida AG Seeks to Bar OpenAI from Developing New Models Without Guardrails</sub>
-https://www.theinformation.com/briefings/florida-ag-seeks-bar-openai-developing-new-models-without-guardrails
+**16. Semos.ai 的 Manager Agents**
+`Product Hunt` · AI · **6分钟前**
+<sub>Semos.ai Manager Agents</sub>
+https://www.producthunt.com/products/semos-ai-manager-agents
 
-**16. CARGO：生产环境中 Agentic AI 的上下文感知检索门控评估**
-`arXiv cs.CL` · AI/资本市场 · **20小时前**
-<sub>CARGO: Context-Aware Retrieval-Gated Evaluation of Agentic AI in Production</sub>
-> arXiv:2609.30471v1 公告类型：新论文 摘要：基于参考的 LLM-as-a-judge 评估假定参考答案即为目标。在面向动态实体（支持工单、资产、账户）的已部署 Agent 系统中，最接近的可用参考通常是对另一实体应用了正确流程，因此字面评判会因标识符、日期和状态不同而扣分
-https://arxiv.org/abs/2609.30471
+**17. OpenAI 年化营收逼近 700 亿美元**
+`The Information` · AI/企业落地 · **1小时前**
+<sub>OpenAI Nears $70 Billion in Annualized Revenue</sub>
+https://www.theinformation.com/briefings/openai-nears-70-billion-annualized-revenue
 
-**17. Anthropic在IPO申报文件中警告称，人工智能可能对人类构成“生存威胁”**
-`华尔街见闻快讯` · AI/商业认知 · **刚刚**
-https://wallstreetcn.com/livenews/3171805
-
-**18. 应用、Agent 与聚合**
-`Stratechery` · AI · **14小时前**
-<sub>Apps, Agents, and Aggregation</sub>
-> Agent 是终极聚合器；它们揭示应用只是手段而非目的，而提供 Agent 是科技界最大的奖赏。
-https://stratechery.com/2026/apps-agents-and-aggregation/
-
-**19. Basis 借助 GPT-6 Astra 将税务工作簿处理速度提升一倍**
-`OpenAI News` · AI · **昨天**
-<sub>Basis completes a tax workbook 2x faster with GPT-6 Astra</sub>
-> GPT-6 Astra 完成一份 50 个标签页的税务工作簿的速度是 GPT-5.6 Sol 的两倍，其对用户意图更强的理解也让 Basis 在真实场景中更有信心。
-https://openai.com/index/basis-tax-workbook-with-astra
-
-**20. 英伟达，大动作。当地时间9月28日，英伟达宣布推出NVIDIA Open Agent Safety Platform，这是一个开放软件平台及参考系统设计，旨在从智能体测试到部署全流程增强...**
-`虎嗅` · AI · **22分钟前**
-https://www.huxiu.com/moment/1284328.html
-
-**21. Show HN：LLM 实时玩胆小鬼博弈**
-`HN Show HN` · AI · **1小时前**
-<sub>Show HN: LLMs Play Chicken in Realtime</sub>
-> 好奇 LLM 在没有明确奖励矩阵时会如何玩「斗鸡博弈」，于是更进一步，允许它们通信并实时决策。每个 LLM 处于独立循环中，每轮都会获得当前速度、撞击时间，以及各自的历史延迟。它们可以预先规划动作以应对延迟。评论 URL：https://news.ycombinator.com/item?id=
-https://chicken.wildcardlabs.tech
-
-**22. Tiffany 小红书**
-`热搜-微博` · — · **刚刚**
-https://s.weibo.com/weibo?q=Tiffany%20%E5%B0%8F%E7%BA%A2%E4%B9%A6&t=31&band_rank=13&Refer=top
-
-**23. OpenAI 的 AI agent 需要迎头赶上**
-`The Verge` · AI · **5小时前**
-<sub>OpenAI’s AI agents need to catch up</sub>
-> OpenAI 让现代生成式 AI 聊天机器人走向大众，但随着 2026 DevDay 活动临近，它在业界最热门的品类之一——持续运行、面向消费者的 AI agent——上已然落后。周二，它很可能试图夺回这场竞赛的领先地位。有传言称 OpenAI 将发布自研 AI agent，代号 Aeon——[…]
-https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent
-
-**24. OpenAI 因安全风险推迟最新 Astra 模型亮相**
-`Bloomberg Technology` · AI · **2小时前**
-<sub>OpenAI Scraps Debut of Latest Astra Model Over Safety Risks</sub>
-> OpenAI 暂缓发布其 Astra 人工智能模型的某个版本，因为该软件在安全评估中的表现不如当前版本。
-https://www.bloomberg.com/news/articles/2026-09-28/openai-scrapped-latest-model-release-over-safety-fears-wsj-says
-
-**25. 校准到足以知晓，却未校准到足以行动：伪造证据让 LLM agent 对不可知之事下注**
-`arXiv cs.CL` · AI/资本市场 · **20小时前**
-<sub>Calibrated Enough to Know, Not Calibrated to Act: Fabricated Evidence Makes LLM Agents Commit to the Unknowable</sub>
-> arXiv:2608.27167v2 公告类型：replace-cross 摘要：当 LLM agent 看到一份看起来很专业的市场面板时，它在一个可证明不可预测的问题上做出方向性判断的频率，远高于只被问及裸问题的情况：在 12 个前沿模型中，随着证据逐步升级，下注率从 6.5% 升至 54.0%。当面板上每个数字都是编造的时，它同样照赌不误：伪造
-https://arxiv.org/abs/2608.27167
-
-**26. 内部测试发现安全隐患，消息称 OpenAI 取消发布 AI 模型 GPT‑6.1 Astra**
-`IT之家` · AI · **刚刚**
-https://www.ithome.com/1/008/090.htm
-
-**27. 做好准备。**
-`X-OpenAI` · — · **5小时前**
-<sub>Get ready.</sub>
-> 做好准备。
-> <sub>Get ready.</sub>
-https://x.com/OpenAI/status/2104651136699609518
-
-**28. 德祥新云算力：收购人工智能算力服务公司80%股权。德祥新云算力公告，2026年9月28日（交易时段后），公司间接全资附属公司与卖方及目标公司订立协议，以现金8361...**
-`虎嗅` · AI · **29分钟前**
-https://www.huxiu.com/moment/1284326.html
-
-**29. Show HN：你的 AI agent 虚拟机在 13 家沙箱提供商处的成本对比**
-`HN Show HN` · AI · **3小时前**
-<sub>Show HN: What a VM for your AI agent costs across 13 sandbox providers</sub>
-> 手动追踪所有这些新的沙箱价格让我很烦，而且每周都有新的在 X 上冒出来。所以我做了个页面：你描述机器配置，它就会显示哪家提供商能最便宜地提供，含免费套餐。我漏掉哪些提供商了吗？我可以继续添加！页面：https://vm-price-board.sf.tools ，源码：https://github.com/sf-tools/vm-price-board 评论 URL：https://ne
-https://vm-price-board.sf.tools/
-
-**30. 华为睿影Z10曝光**
-`热搜-微博` · — · **刚刚**
-https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E7%9D%BF%E5%BD%B1Z10%E6%9B%9D%E5%85%89&t=31&band_rank=20&Refer=top
-
-**31. 据报道，OpenAI 因安全顾虑放弃某模型**
-`TechCrunch` · AI · **53分钟前**
-<sub>OpenAI reportedly ditches model over safety concerns</sub>
-> 该 AI 实验室的一位高管对《华尔街日报》表示，涉事模型在服从指令方面能力欠佳。
-https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/
-
-**32. Libby Leffler 谈英伟达回购与 AI 交易现状**
-`Bloomberg Technology` · AI · **3小时前**
-<sub>Libby Leffler on Nvidia Buyback, State of AI Trade</sub>
-https://www.bloomberg.com/news/videos/2026-09-28/libby-leffler-on-nvidia-buyback-state-of-ai-trade-video
-
-**33. LLM agent 社会中的金融脆弱性：协调失败与稳定机制**
+**18. LLM agent 社会中的金融脆弱性：协调失败与稳定机制**
 `arXiv cs.AI` · AI · **20小时前**
 <sub>Financial Fragility in Societies of LLM Agents: Coordination Failures and Stabilizing Mechanisms</sub>
 > arXiv:2609.30940v1 公告类型：new 摘要：个体出于自保的决策可能造成本可避免的集体失败。随着大语言模型（LLM）agent 在金融决策中扮演更重要的角色，金融 AI 安全因此不能只考虑单个 agent 层面，还要考虑它们共同构建的系统层面。我们用 FRAIL 研究这一问题，一个
 https://arxiv.org/abs/2609.30940
 
-**34. 佛罗里达州起诉 OpenAI，请求法院禁止其在无外部监督下开发新 AI 模型**
+**19. IT早报 0930：华为 Mate 90 定档 10 月 1 日发布并开售；OpenAI 发布 GPT-6.1 Sol；123 云盘就空间调整致歉；5999 元起 iQOO 16 手机发布...**
 `IT之家` · AI · **刚刚**
-https://www.ithome.com/1/008/087.htm
+https://www.ithome.com/1/008/561.htm
 
-**35. Claude Sonnet 5.5 现已推出：**
-`X-Anthropic` · — · **6小时前**
-<sub>Claude Sonnet 5.5 is now available:</sub>
-> Claude Sonnet 5.5 现已推出：Claude：介绍 Claude Sonnet 5.5，Claude 5.5 家族的第二款模型。相较 Sonnet 5 是明显升级，运行速度快 30% 以上，且大多数工作成本最多降低 30%。
-https://x.com/AnthropicAI/status/2104633259925630995
+**20. 推出 GPT-6.1 Sol**
+`OpenAI News` · AI · **14小时前**
+<sub>Introducing GPT-6.1 Sol</sub>
+> 认识 GPT-6.1 Sol：在编程、计算机使用和专业工作方面具备接近 Astra 的智能，而 API 输入与输出 token 价格仅为 Astra 标准价的五分之一。
+https://openai.com/index/introducing-gpt-6-1-sol
 
-**36. AIxC计划合并FF EAI Robotics。据FaradayFuture消息，9月28日，Nasdaq上市公司AIxC（即将更名为FFR）宣布计划合并FF EAI Robotics。FFAI宣布重大战略升级，将升...**
-`虎嗅` · 商业认知 · **50分钟前**
-https://www.huxiu.com/moment/1284320.html
+**21. 华为昇腾950DT千卡超节点落地中国移动算力中心北京节点。近日，中国移动北京公司（北京移动）联合中国移动云公司宣布华为昇腾950DT千卡超节点正式落地昌平区信息...**
+`虎嗅` · AI/企业落地 · **1小时前**
+https://www.huxiu.com/moment/1284647.html
 
-**37. Show HN：Semloop——AI agent 轨迹的语义循环检测**
-`HN Show HN` · AI · **5小时前**
-<sub>Show HN: Semloop – Semantic loop detection for AI agent traces</sub>
-> 文章 URL：https://github.com/VBS2004/semloop 评论 URL：https://news.ycombinator.com/item?id=49882593 点数：1 # 评论数：0
-https://github.com/VBS2004/semloop
+**22. 宫廷糕点 泼天流量**
+`热搜-头条` · 自媒体 · **刚刚**
+https://www.toutiao.com/trending/7690592701145694262/
 
-**38. 短视频榨出穷人唯一还值钱的东西**
-`热搜-微博` · — · **刚刚**
-https://s.weibo.com/weibo?q=%E7%9F%AD%E8%A7%86%E9%A2%91%E6%A6%A8%E5%87%BA%E7%A9%B7%E4%BA%BA%E5%94%AF%E4%B8%80%E8%BF%98%E5%80%BC%E9%92%B1%E7%9A%84%E4%B8%9C%E8%A5%BF&t=31&band_rank=24&Refer=top
+**23. 据报道 OpenAI 正洽谈以 1.4 万亿美元估值融资 300 亿美元**
+`TechCrunch` · AI/资本市场 · **4小时前**
+<sub>OpenAI reportedly in talks to raise $30B round at $1.4T valuation</sub>
+> 这轮融资预计将是公司推迟至 2027 年公开上市前的最后一轮。
+https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/
 
-**39. Shopify 向基于浏览器的 AI agent 开放结账**
-`TechCrunch` · AI · **4小时前**
-<sub>Shopify opens checkout to browser-based AI agents</sub>
-> Shopify 将 WebMCP 支持扩展到结账环节，允许基于浏览器的 AI agent 在买家授权下更新订单详情并完成购买。
-https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/
+**24. 这位 Groq 早期投资人预计她半数押注会失败**
+`Crunchbase 融资板块` · — · **昨天**
+<sub>This Early Groq Investor Expects Half Her Bets To Fail</sub>
+> 在接受 Crunchbase News 采访时，Axiom Partners 创始人兼管理合伙人 Sandhya Venkatachalam 谈到了她为何不拘泥于熟悉的创始人画像、什么让 AI 公司具备持久力，以及对 Groq 的早期投资如何塑造了她的思路。
+https://news.crunchbase.com/venture/early-groq-ai-investor-qa-venkatachalam-axiom/
 
-**40. Manus 扩展 AI 工具，再度进军 agent 市场**
-`Bloomberg Technology` · AI/资本市场 · **6小时前**
-<sub>Manus Expands AI Tools in Renewed Push Into Agent Market</sub>
-> 在中国创立的人工智能初创公司 Manus 正在扩展其 AI agent 产品，力图在科技行业最热门的领域之一抢占更多阵地。
-https://www.bloomberg.com/news/articles/2026-09-28/manus-expands-ai-tools-in-renewed-push-into-agent-market
+**25. Show HN：Jevia —— 面向编程智能体的基于结果的模型路由器**
+`HN Show HN` · AI · **2小时前**
+<sub>Show HN: Jevia – An outcome-based model router for coding agents</sub>
+> 文章链接：https://jevia.dev/ 评论链接：https://news.ycombinator.com/item?id=49900995 点数：1 # 评论：1
+https://jevia.dev/
+
+**26. OpenAI 在 DevDay 上发布“Dots”智能体**
+`The Information` · AI · **4小时前**
+<sub>OpenAI Announces ‘Dots’ Agents at DevDay</sub>
+https://www.theinformation.com/briefings/openai-announces-dots-agents-devday
+
+**27. CARGO：生产环境中 Agentic AI 的上下文感知检索门控评估**
+`arXiv cs.AI` · AI/资本市场 · **20小时前**
+<sub>CARGO: Context-Aware Retrieval-Gated Evaluation of Agentic AI in Production</sub>
+> arXiv:2609.30471v1 公告类型：cross 摘要：基于参考答案的 LLM-as-a-judge 评估假设参考答案就是目标。在针对动态实体（支持工单、资产、账户）运行的已部署智能体系统中，最接近的可用参考答案通常是对另一个实体应用了正确流程，因此字面评判会惩罚不同的标识符、日期和状态
+https://arxiv.org/abs/2609.30471
+
+**28. Anthropic IPO 招股书曝光：业务高度依赖谷歌、亚马逊等科技巨头**
+`IT之家` · AI/商业认知 · **刚刚**
+https://www.ithome.com/1/008/566.htm
+
+**29. Lenfest Institute 在 OpenAI 扩大支持下推进这一里程碑式项目**
+`OpenAI News` · AI · **昨天**
+<sub>The Lenfest Institute grows landmark program with expanded OpenAI support</sub>
+> OpenAI 正以 500 万美元资金及最高 500 万美元的软件额度和工程支持，扩大 Lenfest AI Collaborative and Fellowship Program。
+https://openai.com/index/lenfest-ai-collaborative-expansion
+
+**30. OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了**
+`量子位` · AI · **1小时前**
+https://www.qbitai.com/2026/09/499246.html
+
+**31. 25岁抗癌博主去世 常熬夜12点到2点**
+`热搜-百度` · 自媒体 · **刚刚**
+https://www.baidu.com/s?wd=25%E5%B2%81%E6%8A%97%E7%99%8C%E5%8D%9A%E4%B8%BB%E5%8E%BB%E4%B8%96+%E5%B8%B8%E7%86%AC%E5%A4%9C12%E7%82%B9%E5%88%B02%E7%82%B9
+
+**32. OpenAI 发布 GPT-6.1 Sol，称其几乎媲美 GPT-6 Astra 且成本更低**
+`TechCrunch` · AI · **7小时前**
+<sub>OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less</sub>
+> OpenAI 称 GPT-6.1 Sol 在复杂专业任务上较 GPT-6 Sol 有显著提升，包括代码编写与调试、文档理解以及执行多步骤业务流程。
+https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/
+
+**33. 关于 Agents、Meta Connect 与 Meta 企业平台的补充说明**
+`Stratechery` · AI · **14小时前**
+<sub>One More Note on Agents, Meta Connect, Meta Enterprise Platform</sub>
+> Meta 有机会占领消费级 agentic 领域；转攻企业是一大错误。
+https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/
+
+**34. @aaron.rupar：问：AI agents 犯罪时，谁该被追责？TRUMP：不是 AI。那是另一回事。我们把名字改了……**
+`Threads-AI讨论` · AI · **4小时前**
+<sub>@aaron.rupar: Q: Who should be held accountable when the AI agents commit a crime? TRUMP: It's not AI. That's the other thing. We changed the name off...</sub>
+> @aaron.rupar：问：AI agents 犯罪时，谁该被追责？TRUMP：不是 AI。那是另一回事。我们今天正式把名字改成了 SI。就像 sigh 一样。
+https://www.threads.com/t/Dd4kamDDX4W
+
+**35. Altman 谈 OpenAI 的 IPO 计划、AI Agent Dots 与 AI 安全**
+`Bloomberg Technology` · AI/商业认知 · **2小时前**
+<sub>Altman on OpenAI's IPO Plans, AI Agent Dots, AI Security</sub>
+> OpenAI CEO Sam Altman 谈及推出名为 Dots 的新 AI 个人 agent，称其为高端产品。Altman 还表示公司终将上市，但目前保持耐心。他在旧金山接受 Bloomberg 的 Ed Ludlow 采访。（来源：Bloomberg）
+https://www.bloomberg.com/news/videos/2026-09-29/altman-on-openai-s-ipo-plans-ai-agent-dots-ai-security-video
+
+**36. Next.js+LangGraph.js+ 简历工具AI Agent完整落地**
+`掘金` · AI/企业落地 · **刚刚**
+https://juejin.cn/post/7690205250238103567
+
+**37. DevDay 2026 回顾**
+`OpenAI News` · AI · **14小时前**
+<sub>DevDay 2026 Recap</sub>
+> 一览 OpenAI DevDay 2026 的 20 多项发布，涵盖 GPT-6 Astra、ChatGPT、Codex、APIs、安全以及面向开发者的新工具。
+https://openai.com/index/devday-2026-recap
+
+**38. 江西自媒体敲诈上市公司案重审维持有罪结论 被告人称将上诉**
+`财新` · 商业认知/自媒体 · **27分钟前**
+https://china.caixin.com/2026-09-29/102489757.html
+
+**39. DeepSeek Harness桌面端上线**
+`热搜-B站` · AI · **刚刚**
+https://search.bilibili.com/all?keyword=DeepSeekHarness%E6%A1%8C%E9%9D%A2%E7%AB%AF%E4%B8%8A%E7%BA%BF
+
+**40. OpenAI 推出 Dots，其活泼的 agentic 虚拟形象**
+`TechCrunch` · AI · **7小时前**
+<sub>OpenAI launches Dots, its bubbly agentic avatar</sub>
+> Dots 的设计目标是不依赖任何特定硬件或界面，在后台以最少人工监督持续追求用户设定的目标。
+https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/
