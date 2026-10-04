@@ -1,214 +1,209 @@
-# 信源日报 2026-10-03
+# 信源日报 2026-10-04
 
-68 源 · 储备 1081 条 · 精选 40 条（仅限 48 小时内）
+68 源 · 储备 993 条 · 精选 40 条（仅限 48 小时内）
 
 ---
 
-**1. Chatham 借助 OpenAI 扩展其资本市场专业能力**
-`OpenAI News` · AI/资本市场 · **昨天**
-<sub>Chatham scales its capital markets expertise with OpenAI</sub>
-> Chatham Financial 使用 Codex 和 GPT-5.6 构建技术并重新设计工作流，将交易验证从 30 分钟缩短至 4 分钟以内。
-https://openai.com/index/chatham-financial
-
-**2. 美股收盘：三大指数集体收涨，纳指、英伟达盘中再创新高。美股三大指数集体收涨，纳指涨1.19%，盘中再创新高，本周累涨0.45%，周线三连涨；标普500指数涨0.73%，...**
-`虎嗅` · AI/资本市场 · **1小时前**
-https://www.huxiu.com/moment/1285395.html
-
-**3. Show HN：figma-server，解决 Figma 对 agent 不友好的方案**
-`HN Show HN` · AI · **3小时前**
-<sub>Show HN: figma-server, the solution to Figma's hostility towards agents</sub>
-> 最近关于使用 Figma MCP 闹得沸沸扬扬。你根本不需要它！直接用 figma-server 就行。它通过 CDP 让你的 agent 完全掌控 Figma。最新一代前沿模型（GPT-6、Opus-5.5、Fable-5.1）非常擅长 Figma 相关任务。评论 URL: https://news.ycombinator.com/item?id=49938648 得分：2 # 评论：0
-https://github.com/ctxrs/figma-server
-
-**4. 独家：Nvidia、SoftBank 在 OpenAI 最后一轮融资中完成 200 亿美元投资**
-`The Information` · AI · **4小时前**
-<sub>Exclusive: Nvidia, SoftBank Make Final $20 Billion Investment in OpenAI’s Last Round</sub>
-https://www.theinformation.com/briefings/exclusive-nvidia-softbank-make-final-20-billion-investment-openais-last-round
-
-**5. OpenAI 的 Dot agent 是能帮你订晚餐的企业软件**
-`The Verge` · AI · **6小时前**
-<sub>OpenAI’s Dot agent is enterprise software that can also order your dinner</sub>
-> 这是个上周才有的老故事：OpenAI 的新 agent 平台 Dots 里全是些能听你差遣的可爱小家伙。但与极其亲民的 Meta Muse 不同，Dots 用起来很像工作软件，只是恰好能帮你订个墨西哥卷饼——重点在“工作”。OpenAI 宣布……
-https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent
-
-**6. 通过零失配参考诊断 LLM 强化学习中的训练-推理失配**
-`arXiv cs.CL` · AI/个人成长 · **20小时前**
-<sub>Diagnosing Training Inference Mismatch in LLM Reinforcement Learning via a Zero-Mismatch Reference</sub>
-> arXiv:2605.14220v2 公告类型：replace-cross 摘要：现代 LLM RL 系统将 rollout 生成与策略优化分离。这两个阶段本应产生完全一致的 token 概率。然而，实现差异可能使它们在相同模型权重下对同一序列赋予不同值，从而引发训练-推理失配（TIM）。TIM 很难……
-https://arxiv.org/abs/2605.14220
-
-**7. 莫氏鸡煲总店员工从 180 人减至 30 多人，国庆假期上座率仅六成，为啥网红餐厅总难逃流量暴跌的命运？**
-`热搜-知乎` · 自媒体 · **刚刚**
-https://www.zhihu.com/question/2089354143802418288
-
-**8. 美联储理事会宣布批准 Fleur Capital Corporation 的申请**
-`美联储 新闻稿` · 资本市场 · **3小时前**
-<sub>Federal Reserve Board announces approval of application by Fleur Capital Corporation</sub>
-> 美联储理事会宣布批准 Fleur Capital Corporation 的申请
-<![CDATA[https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm]]>
-
-**9. Anthropic 的 IPO 文件勾勒出 AI 安全初创公司市场**
-`CB Insights 研究` · AI/商业认知/资本市场 · **昨天**
-<sub>Anthropic’s IPO filing maps the AI safety startup market</sub>
-> 据路透社报道，Anthropic 的 S-1 文件刚刚泄露，约 80 页的风险因素，包括亏损、算力成本和客户集中度等常见担忧。但其中一些更不寻常的风险因素关乎 AI 自身可能的行为，例如：…… 文章《Anthropic 的 IPO 文件勾勒出 AI 安全初创公司市场》首发于 CB Insights Research。
-https://www.cbinsights.com/research/newsletter-october-1-2026/
-
-**10. Anthropic 拟斥资 1 亿美元培训万名工程师，破解企业 AI 落地“人才荒”**
-`IT之家` · AI/企业落地 · **刚刚**
-https://www.ithome.com/1/009/376.htm
-
-**11. Anthropic 投资 1 亿美元培训 1 万名工程师，以解决企业 AI 人才缺口**
-`Anthropic 官方` · AI/企业落地 · **昨天**
-<sub>Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap</sub>
-> 这个首创的 Academy 以前沿部署工程师为培训对象，采用与 Anthropic 自家工程师相同的技能标准，首批学员来自 Accenture、Bain、Capgemini、Commonwealth Bank of Australia、Deloitte、McKinsey、Morgan Stanley、Novo Nordisk 等。今天我们推出 Claude Frontier Academy，以解决
-https://www.anthropic.com/news/claude-frontier-academy
-
-**12. 刚刚，GPT-6 Astra破解拿破仑百年悬案**
-`36氪 热榜` · AI · **23小时前**
-https://www.36kr.com/p/4007160336027525
-
-**13. Show HN：我在自己的编码 agent 历史记录中发现了 API 密钥，于是做了 Agent Scrub**
-`HN Show HN` · AI · **1小时前**
-<sub>Show HN: I found API keys in my coding agent history so I built Agent Scrub</sub>
-> 文章 URL: https://github.com/thesubtlety/agent-scrub 评论 URL: https://news.ycombinator.com/item?id=49939584 得分：1 # 评论：0
-https://github.com/thesubtlety/agent-scrub
-
-**14. OpenAI 解雇三名安全研究员**
-`The Information` · AI · **4小时前**
-<sub>OpenAI Fires Three Safety Researchers</sub>
-https://www.theinformation.com/briefings/openai-fires-three-safety-researchers
-
-**15. Apple 称因 AI agent 带来的新风险，将收紧 macOS“完全磁盘访问”控制**
-`TechCrunch` · AI · **6小时前**
-<sub>Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents</sub>
-> Apple 表示将针对 macOS 的“完全磁盘访问”权限新增控制措施，并警告称，能力日益增强的 AI agent 使用户文件、信息、邮件和浏览记录被广泛访问的风险更大。
-https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/
-
-**16. 你被录用了：LLM 协作中的战略模型选择**
-`arXiv cs.CL` · AI/资本市场 · **20小时前**
-<sub>You're Hired: Strategic Model Selection for LLM Collaboration</sub>
-https://arxiv.org/abs/2609.38816
-
-**17. 国庆多地高速服务区电车取号充电，充电 80% 需离场，服务区如何提高充电效率？新能源车出行如何避免充电难？**
-`热搜-知乎` · 个人成长 · **刚刚**
-https://www.zhihu.com/question/2089401439491547547
-
-**18. 美联储理事会宣布将其关于现代化 O 条例的提案的评论期延长至 11 月 4 日**
-`美联储 新闻稿` · 资本市场 · **4小时前**
-<sub>Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O</sub>
-> 美联储理事会宣布将其关于现代化 O 条例的提案的评论期延长至 11 月 4 日
-<![CDATA[https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm]]>
-
-**19. IPO 窗口正选择性开启；准备程度将决定谁能通过**
-`Crunchbase 融资板块` · 商业认知 · **昨天**
-<sub>The IPO Window Is Opening Selectively; Readiness Will Decide Who Gets Through</sub>
-> 2026 年 IPO 市场正选择性重启，利好那些在放缓期强化了财务报告、治理和运营的大公司，客座作者、Datasite 企业业务首席营收官 Mark Williams 写道，并解释了为何这种准备程度让企业拥有选择：上市、私募融资或出售。
-https://news.crunchbase.com/public/ipo-window-opening-readiness-required-williams-datasite/
-
-**20. 桌面 AI 超算新选择：英伟达 NVIDIA DGX Spark 64GB 内存版正式发布，4999 美元**
-`IT之家` · AI · **刚刚**
-https://www.ithome.com/1/009/359.htm
-
-**21. GPT-6 系列模型指南**
-`OpenAI News` · AI · **8小时前**
+**1. GPT-6 系列模型指南**
+`OpenAI News` · AI · **昨天**
 <sub>A model guide for the GPT-6 family</sub>
 > 了解初创公司如何选择 GPT-6 模型、调整推理强度、优化提示词与技能、协调工具，并为生产环境准备工作流。
 https://openai.com/index/practical-guide-building-gpt-6
 
-**22. 预计达109万人次！今天，深圳各口岸将迎来双向客流高峰。据深圳边检总站统计，国庆节假期，预计罗湖口岸、福田口岸、深圳湾口岸日均出入境客流量分别约25万人次...**
-`虎嗅` · 自媒体 · **11分钟前**
-https://www.huxiu.com/moment/1285408.html
+**2. 法国博主吐槽中国演员被偷相机**
+`热搜-微博` · 自媒体 · **刚刚**
+https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E5%8D%9A%E4%B8%BB%E5%90%90%E6%A7%BD%E4%B8%AD%E5%9B%BD%E6%BC%94%E5%91%98%E8%A2%AB%E5%81%B7%E7%9B%B8%E6%9C%BA&t=31&band_rank=1&Refer=top
 
-**23. Show HN：STUFFED —— 在线合作解谜平台游戏**
-`HN Show HN` · 资本市场 · **3小时前**
-<sub>Show HN: STUFFED – Online co-op puzzle platformer</sub>
-> 正在开发这款叫“STUFFED”的游戏，支持 2-8 名玩家。你们是逃离玩具工厂的毛绒玩具，只要有一人爆开，全队就得重来。操作：WASD/方向键：移动；E：抓取并投掷；空格：跳跃。非常欢迎任何反馈！评论链接：https://news.ycombinator.com/item?id=49938587 点数：2 评论数：0
-https://stuffed.studiod8.com
+**3. Show HN：AgentiLoop Agent —— 适用于 macOS 14.6 及以上版本的 Mac GUI Agent 循环**
+`HN Show HN` · AI · **1小时前**
+<sub>Show HN: AgentiLoop Agent Mac GUI Agent Loop for macOS 14.6 or Later</sub>
+> Agent! 最初于去年四月出现在 Hacker News 上，此后变化很大。最近开发出一项名为 Auto-Pilot 的新功能：给它一个目标，它就不会停下，直到目标达成。可以把它理解为强化版的任务。Agent 所做的是创建多重任务，每个任务称为一个 Cycle。默认情况下，由 /auto [goal] 触发的 Auto-Pilot 没有时间限制。Agent！
+https://agentiloop.ai/
 
-**24. OpenAI 聘请特朗普政府顶尖 AI 官员负责国家安全事务**
-`The Information` · AI · **5小时前**
-<sub>OpenAI Hires Top Trump AI Official to Work on National Security</sub>
-https://www.theinformation.com/articles/openai-hires-top-trump-ai-official-work-national-security
+**4. David Robinson，前OpenAI安全与政策负责人：SV缺乏以安全为中心的文化；实验室必须研究其他领域的安全方法；试错的时代已经结束。**
+`虎嗅` · AI · **4小时前**
+https://www.huxiu.com/moment/1285529.html
 
-**25. 苹果将限制 Mac 磁盘访问，因 AI agent“大幅”增加风险**
-`The Verge` · AI · **4小时前**
-<sub>Apple will limit Mac disk access as AI agents ‘substantially’ increase risk</sub>
-> 据 TechCrunch 早前报道，苹果将针对 AI agent 带来的风险，在 Mac 上对“完全磁盘访问权限”施加新限制。苹果在周五的更新中表示，正在推出新的管控措施，以“确保真正希望授予某款应用这种极高访问权限的用户只能……”
-https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents
+**5. 所有能住进你短信里的 AI agent**
+`TechCrunch` · AI · **10小时前**
+<sub>All the AI agents that can live in your text messages</sub>
+> 我们整理了一份最值得关注的、能住进你短信里的 AI agent 名单，从通用助手到面向家庭、旅行和工作的专用 agent。
+https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/
 
-**26. SEPAL：用于可靠 LLM 协作的分离专家对与答案级融合**
-`arXiv cs.CL` · AI/资本市场 · **20小时前**
-<sub>SEPAL: Separated Expert Pairs with Answer-Level Fusion for Reliable LLM Collaboration</sub>
-> arXiv:2609.39645v1 公告类型：new 摘要：多 agent 协作让大语言模型（LLM）通过审议与反馈提升问答表现。但共享讨论在纠错的同时也让各方暴露于同样的错误，可能侵蚀投票所需的多样性。自一致性（self-consistency）无需反馈即可提供采样多样性，而单对 Actor-Critic 协作……
-https://arxiv.org/abs/2609.39645
+**6. 独家：Nvidia、SoftBank 在 OpenAI 最后一轮融资中完成 200 亿美元投资**
+`The Information` · AI · **昨天**
+<sub>Exclusive: Nvidia, SoftBank Make Final $20 Billion Investment in OpenAI’s Last Round</sub>
+https://www.theinformation.com/briefings/exclusive-nvidia-softbank-make-final-20-billion-investment-openais-last-round
 
-**27. 多部门多措并举保障国庆公路出行**
-`热搜-微博` · — · **刚刚**
-https://s.weibo.com/weibo?q=%23%E5%A4%9A%E9%83%A8%E9%97%A8%E5%A4%9A%E6%8E%AA%E5%B9%B6%E4%B8%BE%E4%BF%9D%E9%9A%9C%E5%9B%BD%E5%BA%86%E5%85%AC%E8%B7%AF%E5%87%BA%E8%A1%8C%23&t=31&band_rank=3&Refer=top
+**7. 美联储理事会宣布批准 Fleur Capital Corporation 的申请**
+`美联储 新闻稿` · 资本市场 · **昨天**
+<sub>Federal Reserve Board announces approval of application by Fleur Capital Corporation</sub>
+> 美联储理事会宣布批准 Fleur Capital Corporation 的申请
+<![CDATA[https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm]]>
 
-**28. 美联储理事会与 Ontario Bancorporation, Inc. 发布执法行动**
-`美联储 新闻稿` · 资本市场 · **9小时前**
-<sub>Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.</sub>
-> 美联储理事会与 Ontario Bancorporation, Inc. 发布执法行动
-<![CDATA[https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm]]>
+**8. 美财长贝森特批评 Anthropic、OpenAI 等风险警告：危言耸听，光喊话不拿解决方案**
+`IT之家` · AI · **刚刚**
+https://www.ithome.com/1/009/596.htm
 
-**29. 独家：Homeward 融资 1.2 亿美元，在房市停滞之际帮助房主更快买卖房屋**
-`Crunchbase 融资板块` · 资本市场 · **昨天**
-<sub>Exclusive: Homeward Raises $120M To Help Homeowners Buy And Sell More Quickly As Housing Market Stalls</sub>
-> Crunchbase News 独家报道，帮助房主先买后卖或为房产获取现金报价的初创公司 Homeward 已完成 1.2 亿美元 D 轮融资。
-https://news.crunchbase.com/real-estate-property-tech/startup-homeward-raises-120m-buy-sell-homes-ai-financing/
+**9. 本周十大融资：几乎全都关于 AI**
+`Crunchbase 融资板块` · — · **昨天**
+<sub>The Week’s 10 Biggest Funding Rounds: Almost All About AI</sub>
+> 本周美国初创公司最大额融资榜单几乎全是 AI，包括金额最高的一笔——为日常任务开发 AI 助手的 Instinct 融资 10 亿美元——以及 Top 10 中的其余大部分。
+https://news.crunchbase.com/venture/biggest-funding-rounds-ai-cyber-real-estate-instinct/
 
-**30. 周六你需要知道的隔夜全球要闻：沙特计划多线进攻也门胡塞武装，G7将释放1亿桶能源，欧美股市全线上涨，纳指、英伟达盘中再创新高**
-`财联社` · AI/资本市场 · **刚刚**
-https://www.cls.cn/detail/2497452
-
-**31. 请关注 @DeepSeekHarness。我们刚发布了 macOS 和 Windows 的打包桌面版；Linux 用户可从 @deepseek-ai/ds 获取……**
-`X-DeepSeek` · AI · **17小时前**
+**10. 请关注 @DeepSeekHarness。我们刚发布了 macOS 和 Windows 的打包桌面版；Linux 用户可从 @deepseek-ai/ds 获取……**
+`X-DeepSeek` · AI · **昨天**
 <sub>Please check out @DeepSeekHarness. We just released packaged desktop versions for macOS and Windows; Linux users can get it from the @​deepseek-ai/ds...</sub>
 > 请关注 @DeepSeekHarness。我们刚发布了 macOS 和 Windows 的打包桌面版；Linux 用户可通过 npm 上的 @deepseek-ai/dsh 包获取。https://deepseek.com/harness DeepSeek Harness：DeepSeek Harness 桌面版现已在 macOS 和 Windows 上线。https://x.com/i/arti
 https://x.com/deepseek_ai/status/2105915715241062644
 
-**32. 美国、法国、德国、英国、意大利、日本、加拿大，达成新共识。新华社消息，法国总统府爱丽舍宫2日发布声明说，七国集团成员国将通过国际能源署协调释放1亿桶战略...**
-`虎嗅` · 商业认知 · **44分钟前**
-https://www.huxiu.com/moment/1285401.html
+**11. 七国集团将释放 1 亿桶战略石油储备，会带来哪些影响？**
+`热搜-知乎` · 商业认知 · **刚刚**
+https://www.zhihu.com/question/2089655246322495630
 
-**33. OpenAI 的 Dots**
-`Product Hunt` · AI · **4小时前**
-<sub>Dots by OpenAI</sub>
-https://www.producthunt.com/products/dots-by-openai
+**12. Show HN：ML News —— 以 ML 为重点、带 RSS 的 Hacker News 投影**
+`HN Show HN` · 个人成长 · **2小时前**
+<sub>Show HN: ML News – ML-Focused Hacker News Projection with RSS</sub>
+> 我的动机来自 Reddit 的 RSS 公告 [0]，需要为 r/MachineLearning 找个替代品 [0] https://news.ycombinator.com/item?id=49912499 评论链接：https://news.ycombinator.com/item?id=49948326 点数：1 # 评论：0
+https://mlnews.online/
 
-**34. 中国的 token 转售商如何催生 Anthropic 灰色市场**
-`The Information` · AI/资本市场 · **11小时前**
+**13. 国庆出游用AI，第一批人已经被坑惨了**
+`36氪 热榜` · AI · **21小时前**
+https://www.36kr.com/p/4009478235295881
+
+**14. OpenAI 的 Dot agent 是能帮你订晚餐的企业软件**
+`The Verge` · AI · **昨天**
+<sub>OpenAI’s Dot agent is enterprise software that can also order your dinner</sub>
+> 这是个上周才有的老故事：OpenAI 的新 agent 平台 Dots 里全是些能听你差遣的可爱小家伙。但与极其亲民的 Meta Muse 不同，Dots 用起来很像工作软件，只是恰好能帮你订个墨西哥卷饼——重点在“工作”。OpenAI 宣布……
+https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent
+
+**15. AI agent 正在失控，新型法律战即将登场**
+`The Information` · AI · **9小时前**
+<sub>AI Agents Are Going Rogue. Novel Legal Battles Are Next</sub>
+https://www.theinformation.com/articles/ai-agents-going-rogue-novel-legal-battles-next
+
+**16. 美联储理事会宣布将其关于现代化 O 条例的提案的评论期延长至 11 月 4 日**
+`美联储 新闻稿` · 资本市场 · **昨天**
+<sub>Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O</sub>
+> 美联储理事会宣布将其关于现代化 O 条例的提案的评论期延长至 11 月 4 日
+<![CDATA[https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm]]>
+
+**17. Anthropic 被曝密会宗教领袖讨论 Claude 意识问题，OpenAI 奥尔特曼发声批评**
+`IT之家` · AI · **刚刚**
+https://www.ithome.com/1/009/585.htm
+
+**18. 投资人能成就也能毁掉你的创业公司。创始人的股权结构表上真正需要谁**
+`Crunchbase 融资板块` · — · **昨天**
+<sub>Your Investors Can Make Or Break Your Startup. Here’s Who Founders Actually Need On Their Cap Table</sub>
+> 对初创公司创始人来说，目标不应是凑一张谁愿意投就填谁的股权结构表，而应刻意围绕能带来不同形式价值的投资人来构建。客座作者、Black Operator Ventures 合伙人 Antonia Dean 分享了创始人在投资人身上应关注的三个要点。
+https://news.crunchbase.com/venture/startups-choosing-right-investors-dean-black-operator/
+
+**19. 同一个模型、同样的权重，在一个 agent harness 中得分 62%，在另一个中只有 33%。@adithya_s_k 和 @huggingface 团队刚发布了……**
+`X-HuggingFace` · AI · **昨天**
+<sub>The same model, with the same weights, scores 62% in one agent harness and 33% in another. @adithya_s_k and the @huggingface team just released the ul...</sub>
+> 同一个模型、同样的权重，在一个 agent harness 中得分 62%，在另一个中只有 33%。@adithya_s_k 和 @huggingface 团队刚发布了多 harness RL 的终极指南，这是今年最实用的 RL 文章之一，而且全部开源！诀窍很简单：别碰 harness，把它指向代理而不是模型。这个代理能说全部四种 API 格式，编码年……
+https://x.com/huggingface/status/2106034221005312448
+
+**20. 苹果将为受影响用户免费更换新机**
+`热搜-微博` · — · **刚刚**
+https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B0%86%E4%B8%BA%E5%8F%97%E5%BD%B1%E5%93%8D%E7%94%A8%E6%88%B7%E5%85%8D%E8%B4%B9%E6%9B%B4%E6%8D%A2%E6%96%B0%E6%9C%BA%23&t=31&band_rank=2&Refer=top
+
+**21. OpenAI 安全负责人离职，警告这家 AI 公司文化已“崩坏”**
+`Hacker News 前页` · AI · **2小时前**
+<sub>OpenAI safety leader quits, warning AI company's culture is 'broken'</sub>
+> 文章链接：https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken 评论链接：https://news.ycombinator.com/item?id=49948332 点数：68 # 评论：24
+https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken
+
+**22. 女掌门人带队，3年吸金21亿，河南爆火景区要IPO了**
+`36氪 热榜` · 商业认知 · **22小时前**
+https://www.36kr.com/p/4008744797442177
+
+**23. OpenAI 安全员工辞职，称公司“文化已崩坏”**
+`TechCrunch` · AI · **8小时前**
+<sub>OpenAI safety employee resigns, claiming the company’s ‘culture is broken’</sub>
+> 用他自己的话说，David Robinson 是“个老套的角色”：一家领先 AI 公司的员工，在辞职时发出严厉警告。
+https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/
+
+**24. 中国的 token 转售商如何催生 Anthropic 灰色市场**
+`The Information` · AI/资本市场 · **昨天**
 <sub>How China’s Token Resellers Create an Anthropic Gray Market</sub>
 https://www.theinformation.com/articles/chinas-token-resellers-create-anthropic-gray-market
 
-**35. Sanders 提出法案，禁止联邦政府使用 Flock**
-`TechCrunch` · 资本市场 · **10分钟前**
-<sub>Sanders introduces bill to ban the federal government from using Flock</sub>
-> 该拟议立法将适用于所有自动车牌识别系统。
-https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/
+**25. 美联储理事会与 Ontario Bancorporation, Inc. 发布执法行动**
+`美联储 新闻稿` · 资本市场 · **昨天**
+<sub>Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.</sub>
+> 美联储理事会与 Ontario Bancorporation, Inc. 发布执法行动
+<![CDATA[https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm]]>
 
-**36. 学会销售：面向多产品市场中策略性大语言模型 agent 的强化学习**
-`arXiv cs.AI` · AI/资本市场/个人成长 · **20小时前**
-<sub>Learning to Sell: Reinforcement Learning for Strategic Large Language Model Agents in Multi-Product Markets</sub>
-https://arxiv.org/abs/2609.33289
+**26. OpenAI 前安全部门员工：AI 模型迭代部署太激进，公司的文化已经崩坏**
+`IT之家` · AI · **刚刚**
+https://www.ithome.com/1/009/581.htm
 
-**37. 王一博连官方直播都无法近身**
+**27. 航海与海洋初创公司融资升温**
+`Crunchbase 融资板块` · — · **昨天**
+<sub>Nautical And Marine Startups See Stepped-Up Funding</sub>
+> 据 Crunchbase 数据，过去一年风投为海洋相关初创公司的大额融资投入了近 30 亿美元，涵盖从国防科技到清洁能源等多个领域。投资最集中的方向包括自主航行船舶、水上机器人、电动船艇和海洋数据。
+https://news.crunchbase.com/venture/nautical-marine-startups-funding-grows-defense-robots-clean-energy-saronic/
+
+**28. Agent 说它搞定了。数据库不同意。**
+`HuggingFace Blog` · AI · **1小时前**
+<sub>The Agent Said It Was Done. The Database Disagreed.</sub>
+https://huggingface.co/blog/microsoft/thinkingbox
+
+**29. 国庆黄金周释放文旅消费活力**
 `热搜-微博` · — · **刚刚**
-https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%BF%9E%E5%AE%98%E6%96%B9%E7%9B%B4%E6%92%AD%E9%83%BD%E6%97%A0%E6%B3%95%E8%BF%91%E8%BA%AB%23&t=31&band_rank=17&Refer=top
+https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E9%BB%84%E9%87%91%E5%91%A8%E9%87%8A%E6%94%BE%E6%96%87%E6%97%85%E6%B6%88%E8%B4%B9%E6%B4%BB%E5%8A%9B%23&t=31&band_rank=3&Refer=top
 
-**38. 核能初创融资上升，但该行业的公开市场转趋看空**
-`Crunchbase 融资板块` · 资本市场 · **昨天**
-<sub>Nuclear Startup Funding Is Up, But The Sector’s Public Markets Take A Bearish Turn</sub>
-> Crunchbase 数据显示，2026 年迄今，投资者已向专注裂变与聚变核能技术及基础设施开发的公司投入超 60 亿美元。这远超此前任何可比时期，包括去年创下纪录的水平。
-https://news.crunchbase.com/clean-tech-and-energy/nuclear-startup-funding-up-public-markets-bearish/
+**30. [OpenAI] macOS 上 ChatGPT 客户端长期无法使用**
+`V2EX 最新` · AI/企业落地 · **27分钟前**
+https://www.v2ex.com/t/1246331#reply1
 
-**39. 美股收盘：三大指数集体收涨 纳指、英伟达盘中再创新高**
-`财联社` · AI/资本市场 · **刚刚**
-https://www.cls.cn/detail/2497440
+**31. 1.8万一枚、平替几十元，智能戒指是智商税还是真风口？**
+`36氪 热榜` · 商业认知 · **23小时前**
+https://www.36kr.com/p/4009334243774592
 
-**40. Albertsons Companies 如何由内而外重塑零售**
-`OpenAI News` · AI · **昨天**
-<sub>How Albertsons Companies is reimagining retail from the inside out</sub>
-> Albertsons Cos. 正使用 ChatGPT Enterprise 和 OpenAI API，帮助团队更快工作，并让数百万顾客的食品杂货购物更轻松。
-https://openai.com/index/albertsons-reimagining-retail
+**32. Apple 称因 AI agent 带来的新风险，将收紧 macOS“完全磁盘访问”控制**
+`TechCrunch` · AI · **昨天**
+<sub>Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents</sub>
+> Apple 表示将针对 macOS 的“完全磁盘访问”权限新增控制措施，并警告称，能力日益增强的 AI agent 使用户文件、信息、邮件和浏览记录被广泛访问的风险更大。
+https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/
+
+**33. OpenAI 员工离职，呼吁采取核级别的安全防护**
+`Bloomberg Technology` · AI · **11小时前**
+<sub>OpenAI Employee Quits With Call for Nuclear-Level Safeguards</sub>
+> 一名专注 AI 安全的 OpenAI 员工已离职，并警告顶尖人工智能公司在缓解该技术风险方面做得不够，加入了越来越多从行业内部发出警报的员工行列。
+https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards
+
+**34. 半年翻倍！OpenAI再融300亿，估值冲到1.4万亿**
+`掘金` · AI/资本市场 · **刚刚**
+https://juejin.cn/post/7691223664160112703
+
+**35. 记者手记：欧洲的主权 AI 推进既需要资本，也需要客户**
+`Crunchbase 融资板块` · — · **昨天**
+<sub>Reporter’s Notebook: Europe’s Sovereign AI Push Needs Customers As Well As Capital</sub>
+> Crunchbase News 研究主管 Gené Teare 在阿姆斯特丹的 HumanX 上主持了多场座谈，并与构建欧洲和中东 AI 生态的领导者交流。以下是她与 Axelera AI CEO Fabrizio Del Maffeo 及 AI71 CPTO Mehdi Ghissassi 对话的片段。
+https://news.crunchbase.com/ai/humanx-amsterdam-europe-sovereign-ai-user-push/
+
+**36. 2.1.289**
+`Claude Code 更新日志` · — · **昨天**
+https://code.claude.com/docs/en/changelog#2-1-289
+
+**37. 新能源电车还有多少想象空间**
+`热搜-微博` · — · **刚刚**
+https://s.weibo.com/weibo?q=%E6%96%B0%E8%83%BD%E6%BA%90%E7%94%B5%E8%BD%A6%E8%BF%98%E6%9C%89%E5%A4%9A%E5%B0%91%E6%83%B3%E8%B1%A1%E7%A9%BA%E9%97%B4&t=31&band_rank=17&Refer=top
+
+**38. Show HN：Cliproxy-rs，CLIProxyAPI 大模型订阅代理的 Rust 移植版**
+`HN Show HN` · AI · **1小时前**
+<sub>Show HN: Cliproxy-rs, a Rust port of the CLIProxyAPI LLM subscription proxy</sub>
+> 文章链接：https://github.com/vayungodara/cliproxy-rs 评论链接：https://news.ycombinator.com/item?id=49948441 得分：1 # 评论数：0
+https://github.com/vayungodara/cliproxy-rs
+
+**39. OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开**
+`量子位` · AI · **19小时前**
+https://www.qbitai.com/2026/10/501368.html
+
+**40. OpenAI 一名安全员工离职并发出警告**
+`The Verge` · AI · **10小时前**
+<sub>An OpenAI safety employee has quit and is sounding the alarm</sub>
+> David Robinson 曾在 OpenAI 负责撰写伴随每次重大模型发布的安全报告。本周，他辞去职务，并在 The Atlantic 发表评论文章公开表态。如果你对这些人突然纷纷现身、警告 AI 有多危险感到有些 cynicism，也可以理解……
+https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm
