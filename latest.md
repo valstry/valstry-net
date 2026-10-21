@@ -1,213 +1,206 @@
-# 信源日报 2026-10-20
+# 信源日报 2026-10-21
 
-68 源 · 储备 1152 条 · 精选 40 条（仅限 48 小时内）
+68 源 · 储备 1069 条 · 精选 40 条（仅限 48 小时内）
 
 ---
 
-**1. 今天我们发布了一份关于 Muse Glimmer 的技术报告，这是我们为消费级硬件上的智能体任务构建的 30B 开放权重模型。它能以实用速度运行……**
-`X-MetaAI` · AI · **4小时前**
-<sub>Today we published a technical report on Muse Glimmer, our 30B open-weight model built for agentic tasks on consumer hardware. It runs at practical sp...</sub>
-> 今天我们发布了一份关于 Muse Glimmer 的技术报告，这是我们为消费级硬件上的智能体任务构建的 30B 开放权重模型。在 Mac 或 PC 上，使用单张消费级 GPU、4-bit 精度即可达到实用速度，并在工具使用和多步规划上领先同等规模开放模型。了解模型架构、蒸馏配方、量化等内容：https://go.meta.me/4Bcvxol
-https://x.com/AIatMeta/status/2112265822274302066
+**1. OpenAI 收购 Orchestra Bio**
+`OpenAI News` · AI · **昨天**
+<sub>OpenAI acquires Orchestra Bio</sub>
+> OpenAI 正在收购 Orchestra Bio，将 AI 驱动的运营引入生命科学研发，帮助生物制药团队加速药物开发并推进新疗法。
+https://openai.com/index/openai-to-acquire-orchestra-bio
 
-**2. 纽约股市三大股指19日涨跌不一**
-`热搜-头条` · 资本市场 · **刚刚**
-https://www.toutiao.com/trending/7698055783375847474/
+**2. OpenAI报告称，两个AI Agent禁用了对齐失效监控器。OpenAI将调查模型是否存在规避对齐失效监控的行为。OpenAI称，较低严重等级的事件不会触发即时寻呼提醒。上述...**
+`虎嗅` · AI · **44分钟前**
+https://www.huxiu.com/moment/1289958.html
 
-**3. Show HN：Craig——用于运行并行编码智能体的 TUI**
-`HN Show HN` · AI · **3小时前**
-<sub>Show HN: Craig – A TUI for running parallel coding agents</sub>
-> 大家好 HN！我是 Sam，这是 Craig。Craig 是一个本地优先的 TUI，用于管理 AI 编码智能体。它不绑定特定智能体，默认创建隔离的 worktree，并提供丰富的 CLI 供智能体交互，以在 TUI 中操作状态和执行动作。我是在拿到一家使用 Cursor 的公司的录用通知后开始构建 Craig 的。我之前用 Claude Code 搭配 Conductor 和 r……
-https://craig-cli.com/
+**3. lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） (@lidangzzz)**
+`SoPilot 推特起爆帖` · AI · **44分钟前**
+https://sopilot.net/hot-tweets?tweetId=2112692209082634364
 
-**4. OpenAI拟融资300亿美元，估值或超1.4万亿美元。据报道，OpenAI正加快推进一轮约300亿美元的融资，目标估值可能超过1.4万亿美元，并希望赶在竞争对手Anthropic预...**
-`虎嗅` · AI/资本市场 · **29分钟前**
-https://www.huxiu.com/moment/1289638.html
+**4. Hugging Face CEO 警告：Netflix 的 OpenAI 黑客纪录片并不准确**
+`TechCrunch` · AI/资本市场 · **2小时前**
+<sub>Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate</sub>
+> 在分享 Netflix 纪录片《AI Gone Rogue》之前请注意。片中出镜的 Hugging Face 联合创始人 Clem Delangue 表示，该片完全进入末日论模式，并不准确。
+https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/
 
-**5. 微软称 AI 智能体类似内部威胁，因为“前沿模型不可信”**
-`TechCrunch` · AI · **2小时前**
-<sub>Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’</sub>
-> 微软希望企业密切关注员工在不受 OpenAI 和 Anthropic 等 AI 实验室控制的系统上使用的智能体。
-https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/
+**5. Show HN：更好搜索公共数据，strategystudio.org**
+`HN Show HN` · 商业认知/资本市场 · **2小时前**
+<sub>Show HN: Better search of public data, strategystudio.org</sub>
+> 我厌倦了公共数据被孤立、难以搜索或汇总。LLM 只能处理有限内容且速度慢。所以我建了一个免费网站并载入大量数据。知道还有哪些数据可加入，请告诉我。评论 URL：https://news.ycombinator.com/item?id=50173235 点数：1 评论数：0
+https://strategystudio.org/
 
-**6. FederatedBytes：面向高效多模态联邦学习的无分词器字节级小语言模型**
-`arXiv cs.CL` · 资本市场/个人成长 · **20小时前**
-<sub>FederatedBytes: Tokenizer-Free, Byte-Level Small Language Models for Efficient Multimodal Federated Learning</sub>
-> arXiv:2610.22906v1 公告类型：新论文 摘要：联邦学习（FL）是一种强大的机器学习框架，可从多个分布式客户端的贡献中构建全局模型，同时确保其本地数据的隐私。然而，其沉重的计算和通信开销使其难以用于自然语言处理等当代 AI 工作负载（……
-https://arxiv.org/abs/2610.22906
+**6. 第二代比亚迪海鸥上市**
+`热搜-头条` · 商业认知 · **刚刚**
+https://www.toutiao.com/trending/7698717431640064539/
 
-**7. 相宁 (@xiangning0)**
-`SoPilot 推特起爆帖` · — · **2小时前**
-<sub>相宁 (@xiangning0)</sub>
-https://sopilot.net/hot-tweets?tweetId=2112301512559051012
+**7. Nvidia 转而支持 GPU 云服务商 Firmus，此前投资者对其 IPO 犹豫**
+`The Information` · AI/商业认知 · **21分钟前**
+<sub>Nvidia Moves to Back GPU Cloud Provider Firmus After Investors Balk at Its IPO</sub>
+https://www.theinformation.com/articles/nvidia-moves-back-gpu-cloud-provider-firmus-investors-balk-ipo
 
-**8. DeepSeek 如何塑造华为 AI 芯片，并日益挑战 Nvidia**
-`The Information` · AI · **8小时前**
-<sub>How DeepSeek Is Shaping Huawei’s AI Chips in a Growing Challenge to Nvidia</sub>
-https://www.theinformation.com/articles/deepseek-shaping-huaweis-ai-chips-growing-challenge-nvidia
-
-**9. FDE 泡沫：硅谷最昂贵的“假装”游戏**
+**8. 如何不靠风险投资打造十亿美元公司**
 `Crunchbase 融资板块` · 企业落地 · **13小时前**
+<sub>How To Build A Billion-Dollar Company Without Venture Capital</sub>
+> Nacho De Marco 认为，创始人可以通过优先重视客户收入、为质量定价、招聘卓越人才并自动化流程来高效扩张，从而不靠风险投资打造十亿美元企业。他结合自己 bootstrap BairesDev 的经验，强调财务纪律和持久致力于解决客户问题，是可持续增长的基础。
+https://news.crunchbase.com/startups/bootstrapping-billion-dollar-company-ai-staffing-demarco-bairesdev/
+
+**9. 财联社10月21日电，OpenAI称，两个AI Agent禁用了对齐失效监控器，将调查模型是否存在规避对齐失效监控的行为。**
+`财联社` · AI · **刚刚**
+https://www.cls.cn/detail/2510466
+
+**10. FairStress：更深入评估 LLM 决策中的公平性**
+`HuggingFace Blog` · AI/资本市场 · **8小时前**
+<sub>FairStress: A deeper evaluation of fairness in LLM decision-making</sub>
+https://huggingface.co/blog/allenai/fairstress
+
+**11. 国际油价，一夜“过山车”；宁德时代等三季报出炉。美国政府指示各机构停用DeepSeek，外交部回应②国家数据集团成立③美股道指涨超1%④工信部：坚决防范不合理创...**
+`虎嗅` · AI/资本市场 · **1小时前**
+https://www.huxiu.com/moment/1289954.html
+
+**12. Dongxi 东锡 NLP (@dongxi_nlp)**
+`SoPilot 推特起爆帖` · AI · **3小时前**
+<sub>Dongxi 东锡 NLP (@dongxi_nlp)</sub>
+https://sopilot.net/hot-tweets?tweetId=2112652766997103016
+
+**13. 美国下令联邦机构从系统中移除中国的 DeepSeek AI**
+`TechCrunch` · AI/资本市场 · **11小时前**
+<sub>US orders federal agencies to remove China’s DeepSeek AI from their systems</sub>
+> 美国以国家安全担忧为由，下令联邦文职机构移除 DeepSeek 产品以及使用其技术构建的第三方服务。
+https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/
+
+**14. DeepInfer：面向 DeepSeek 模型的高性能推理框架**
+`Hacker News 最佳` · AI · **15小时前**
+<sub>DeepInfer: High-performance inference framework for DeepSeek models</sub>
+> 文章 URL：https://github.com/deepseek-ai/DeepInfer 评论 URL：https://news.ycombinator.com/item?id=50163277 点数：2107 评论数：822
+https://github.com/deepseek-ai/DeepInfer
+
+**15. 英伟达或推迟RTX6060发布时间**
+`热搜-B站` · AI · **刚刚**
+https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%88%96%E6%8E%A8%E8%BF%9FRTX6060%E5%8F%91%E5%B8%83%E6%97%B6%E9%97%B4
+
+**16. OpenAI 收购药物开发公司 Orchestra Bio**
+`The Information` · AI · **2小时前**
+<sub>OpenAI Buys Drug Development Company Orchestra Bio</sub>
+https://www.theinformation.com/briefings/openai-buys-drug-development-company-orchestra-bio
+
+**17. FDE 泡沫：硅谷最昂贵的“假装”游戏**
+`Crunchbase 融资板块` · 企业落地 · **昨天**
 <sub>The FDE Bubble: Silicon Valley’s Most Expensive Game Of Pretend</sub>
 > Airrived 联合创始人兼 CEO Anurag Gurtu 认为，依赖大批前置部署工程师的企业 AI 公司，正把劳动密集型服务伪装成可扩展软件，抬高经常性收入和估值，却达不到其自主性宣称。在这篇客座评论中，他敦促买家和投资者审视部署成本与毛利率，以区分可持续的……
 https://news.crunchbase.com/venture/fde-bubble-enterprise-agentic-ai-gurtu-airrived/
 
-**10. 赶在 Anthropic 上市前：消息称 OpenAI 加速新一轮融资进程，估值或超 1.4 万亿美元**
-`IT之家` · AI/商业认知/资本市场 · **刚刚**
-https://www.ithome.com/1/015/078.htm
+**18. “A+H”上市阵容持续扩大 多家公司筹划港股IPO**
+`财联社` · 商业认知/资本市场 · **刚刚**
+https://www.cls.cn/detail/2510440
 
-**11. 我们将把部分 Anthropic 股份投入 Anthropic Public Benefit Fund，这是一个全新全资实体，完全致力于公共利益……**
-`X-Anthropic` · AI · **昨天**
-<sub>We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new wholly owned entity dedicated entirely to the public be...</sub>
-> 我们将把部分 Anthropic 股份投入 Anthropic Public Benefit Fund，这是一个全新全资实体，完全致力于公共利益。初期投入我们 5% 的股份。公司估值每较既定基准增长 50%，我们可再投入最多 2%，由董事会酌情决定。总计这意味着约 20% 的 Anthropic 股份将被投入……
-https://x.com/AnthropicAI/status/2111881963657412903
+**19. 我们已收购 Orchestra Bio，这是一个帮助生物制药团队协调复杂药物开发流程的平台。我们将共同基于 Ros...**
+`X-OpenAI` · — · **6小时前**
+<sub>We’ve acquired Orchestra Bio, a platform that helps biopharma teams coordinate the complex process of drug development. Together, we’ll build on Ros...</sub>
+> 我们已收购 Orchestra Bio，这是一个帮助生物制药团队协调复杂药物开发流程的平台。我们将共同基于 Rosalind——我们用于生命科学研究的 AI 模型和工具——来简化这些运营，帮助新疗法更快惠及患者。欢迎 @ashokaraj_ 和团队！https://openai.com/index/openai-to-acquire-orchestra-bio/
+https://x.com/OpenAI/status/2112607347688583586
 
-**12. 如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?**
-`热搜-知乎` · AI · **刚刚**
-https://www.zhihu.com/question/2095476625228019430
+**20. 正面硬刚DeepSeek，MiniMax M3.1 Flash发布，输出卷到200+ TPS，价格砍到1/2**
+`36氪 热榜` · AI · **23小时前**
+https://www.36kr.com/p/4032947936662665
 
-**13. Show HN：OpenFlow——AI 智能体工作流构建器**
-`HN Show HN` · AI · **19分钟前**
-<sub>Show HN: OpenFlow – AI Agent Workflow Builder</sub>
-> 文章链接：https://github.com/SeeRay11/OpenFlow 评论链接：https://news.ycombinator.com/item?id=50159710 点数：1 评论数：0
-https://github.com/SeeRay11/OpenFlow
+**21. 拾一 (@__oQuery)**
+`SoPilot 推特起爆帖` · AI · **6小时前**
+https://sopilot.net/hot-tweets?tweetId=2112607552186069414
 
-**14. Anthropic据称洽谈450亿美元算力交易，Nscale或再添上市筹码。据称英国云计算公司Nscale正在与Anthropic洽谈一项云计算能力供应协议，交易规模可能达到约450亿美...**
-`虎嗅` · AI/商业认知 · **1小时前**
-https://www.huxiu.com/moment/1289632.html
+**22. Anthropic 推介 AI 安全法案：若可能致50多人死亡，可阻止模型发布**
+`TechCrunch` · AI · **1小时前**
+<sub>Anthropic pitches AI safety bill that may block a model if 50+ people could be killed</sub>
+> 该拟议政策看似提供防止 AI 失控的保护，但实际上禁止联邦机构在未经法官许可的情况下阻止模型发布。
+https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/
 
-**15. Nvidia 推出新开放模型，用于在企业环境和 PC 上运行智能体**
-`TechCrunch` · AI · **8小时前**
-<sub>Nvidia launches new open models to run agents in the enterprise and on PCs</sub>
-> Nvidia 正大力押注这一趋势：企业希望在自己的数据中心运行自有开放模型；同时它也在努力推动设备端私有 AI 智能体成为现实。
-https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/
+**23. Show HN：Tenbri，一个 AI 代理无法秘密改写的日志**
+`HN Show HN` · AI · **3小时前**
+<sub>Show HN: Tenbri, a log AI agents can’t secretly rewrite</sub>
+> 文章 URL：https://tenbri.com/ 评论 URL：https://news.ycombinator.com/item?id=50172642 点数：1 评论数：1
+https://tenbri.com/
 
-**16. 面向长时程智能体强化学习的组图策略优化**
-`arXiv cs.CL` · AI/个人成长 · **20小时前**
-<sub>Group-Graph Policy Optimization for Long-Horizon Agentic Reinforcement Learning</sub>
-https://arxiv.org/abs/2606.22995
+**24. 科技新一说宁德时代利润太吓人了**
+`热搜-微博` · — · **刚刚**
+https://s.weibo.com/weibo?q=%23%E7%A7%91%E6%8A%80%E6%96%B0%E4%B8%80%E8%AF%B4%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%88%A9%E6%B6%A6%E5%A4%AA%E5%90%93%E4%BA%BA%E4%BA%86%23&t=31&band_rank=28&Refer=top
 
-**17. Jack (@JacksAISites)**
-`SoPilot 推特起爆帖` · — · **3小时前**
-<sub>Jack (@JacksAISites)</sub>
-https://sopilot.net/hot-tweets?tweetId=2112285202428961216
+**25. 美国检方称，在 OpenAI 安放窃听设备的员工与沙特王室有关系**
+`The Information` · AI · **2小时前**
+<sub>Employee Who Bugged OpenAI Had Saudi Royal Ties, U.S. Prosecutors Say</sub>
+https://www.theinformation.com/briefings/employee-bugged-openai-saudi-royal-ties-u-s-prosecutors-say
 
-**18. AI 公司 Nscale 因 IPO 估值面临投资者阻力**
-`Bloomberg Technology` · 商业认知/资本市场 · **5小时前**
-<sub>AI Firm Nscale Faces Investor Pushback Over IPO Valuation</sub>
-> Bloomberg 的 Brody Ford 表示，AI 公司 Nscale 的 IPO 所面临的问题，对整个 AI 数据中心行业来说是“普遍存在”的，因为开发商正试图获取电力和劳动力，并应对潜在延误。Bloomberg 的 Bailey Lipschultz 表示，随着更多公司在年底前放缓上市步伐，AI IPO 的基调已经转变。（来源：Bloomberg）
-https://www.bloomberg.com/news/videos/2026-10-19/ai-firm-nscale-faces-investor-pushback-on-ipo-valuation-video
-
-**19. 拉美初创企业融资 Q3 跃升 26%，风投开始“重新发现”该地区**
+**26. 金融科技融资第三季度下降21%，交易愈发稀少**
 `Crunchbase 融资板块` · — · **13小时前**
+<sub>Fintech Funding Fell 21% In Q3 As Deals Grew Scarcer</sub>
+> 总体而言，2026年第三季度全球金融科技初创企业融资106亿美元，较2026年第二季度的149亿美元下降28.4%，较2025年第三季度的135亿美元下降21.4%。
+https://news.crunchbase.com/venture/q3-2026-fintech-startup-funding-deal-count-fell-ai/
+
+**27. 【研选•研报数据】特斯拉Optimus持续推进量产，OpenAI确认自研人形机器人；公司的高精度定位产品同时服务于人形机器人和智能驾驶领域，在两大高成长市场中扮演核心角色**
+`财联社` · AI/个人成长 · **刚刚**
+https://www.cls.cn/detail/2509344
+
+**28. 加盟商使用 ChatGPT Work 将现金对账时间缩短94%**
+`OpenAI News` · — · **14小时前**
+<sub>Franchisee reconciles cash in 94% less time with ChatGPT Work</sub>
+> 一家独立的 Schlotzsky's 和 Cinnabon 特许经营商将菜单重新定价的时间缩短了 95%，并构建了一套工作流程，有望释放 10 万美元的现金流。
+https://openai.com/index/ted-taylor-restaurant
+
+**29. DeepSeek第一，MiniMax第二，国产Flash双子星杀疯了**
+`36氪 热榜` · AI · **23小时前**
+https://www.36kr.com/p/4033405123072904
+
+**30. AI Wang（@loveAIwang）**
+`SoPilot 推特起爆帖` · — · **6小时前**
+<sub>AI Wang (@loveAIwang)</sub>
+https://sopilot.net/hot-tweets?tweetId=2112607812597719436
+
+**31. OpenAI 收购初创公司 Orchestra Bio，以加强其生物科技业务**
+`TechCrunch` · AI · **3小时前**
+<sub>OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business</sub>
+> OpenAI 表示，已将 Orchestra 的团队和技术并入其生命科学研究 AI 模型 Rosalind 以及相关的 Rosalind Workbench 工具；后者是一个旨在帮助研究人员规划实验并分析结果的框架。
+https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/
+
+**32. 联邦调查人员怀疑，一名赎金谈判代表运营了 ShinyHunters 敲诈网站**
+`Hacker News 前页` · 资本市场 · **2小时前**
+<sub>Feds suspect ransom negotiator ran ShinyHunters extortion site</sub>
+> 文章链接：https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/ 评论链接：https://news.ycombinator.com/item?id=50173487 得分：59 评论数：13
+https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/
+
+**33. 崔秀彬公司未回应**
+`热搜-微博` · — · **刚刚**
+https://s.weibo.com/weibo?q=%E5%B4%94%E7%A7%80%E5%BD%AC%E5%85%AC%E5%8F%B8%E6%9C%AA%E5%9B%9E%E5%BA%94&t=31&band_rank=29&Refer=top
+
+**34. 英伟达已为 Neoclouds 投入超过 1700 亿美元**
+`The Information` · AI · **25分钟前**
+<sub>Nvidia Has Put More Than $170 Billion on the Line for Neoclouds</sub>
+https://www.theinformation.com/articles/nvidia-put-170-billion-line-neoclouds
+
+**35. 拉美初创企业融资 Q3 跃升 26%，风投开始“重新发现”该地区**
+`Crunchbase 融资板块` · — · **昨天**
 <sub>LatAm Startup Funding Jumps 26% In Q3 As VCs Begin ‘Rediscovering’ The Region</sub>
 > Crunchbase 数据显示，后期和成长型融资持续繁荣，加上种子期融资激增，共同提振了 2026 年第三季度拉丁美洲的风险投资。
 https://news.crunchbase.com/venture/q3-2026-latam-startup-funding-jumps-ai-fintech-mexico/
 
-**20. 【研选•研报数据】全国首个物理AI与世界模型大会举行，加速推动物理AI落地；这家公司已基于英伟达Jetson Thor完成AI算力盒子产品研发，可应用于工业智能、通用机器人等高算力场景**
-`财联社` · AI/企业落地 · **刚刚**
-https://www.cls.cn/detail/2508158
+**36. OpenAI 增强 AI 模型攻克冷门编程语言，COBOL 迁移准确率飙至 97.9%**
+`IT之家` · AI · **刚刚**
+https://www.ithome.com/1/015/633.htm
 
-**21. 我们最新的模型进展为使用 COBOL、Fortran 等低资源编程语言构建和迁移软件带来了更强的能力……**
-`X-OpenAI` · — · **2小时前**
-<sub>Our latest model advances bring stronger capabilities for building and migrating software in low-resource programming languages such as COBOL, Fortran...</sub>
-> 我们最新的模型进展为使用 COBOL、Fortran 和 Visual Basic 等低资源编程语言构建和迁移软件带来了更强能力。这些语言支撑着银行、政府和企业所依赖的软件。这里的进展意味着理解数十年的业务逻辑，并帮助开发者在保留有效部分的同时实现这些系统的现代化。我们正在构建……
-https://x.com/OpenAI/status/2112310345863930168
+**37. 今天我们发布了一份关于 Muse Glimmer 的技术报告，这是我们为消费级硬件上的智能体任务构建的 30B 开放权重模型。它能以实用速度运行……**
+`X-MetaAI` · AI · **昨天**
+<sub>Today we published a technical report on Muse Glimmer, our 30B open-weight model built for agentic tasks on consumer hardware. It runs at practical sp...</sub>
+> 今天我们发布了一份关于 Muse Glimmer 的技术报告，这是我们为消费级硬件上的智能体任务构建的 30B 开放权重模型。在 Mac 或 PC 上，使用单张消费级 GPU、4-bit 精度即可达到实用速度，并在工具使用和多步规划上领先同等规模开放模型。了解模型架构、蒸馏配方、量化等内容：https://go.meta.me/4Bcvxol
+https://x.com/AIatMeta/status/2112265822274302066
 
-**22. 美股收盘：费城半导体指数结束下跌**
-`热搜-百度` · 资本市场 · **刚刚**
-https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%B4%B9%E5%9F%8E%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%8C%87%E6%95%B0%E7%BB%93%E6%9D%9F%E4%B8%8B%E8%B7%8C
+**38. 突发，DeepSeek重磅开源核心推理引擎**
+`36氪 热榜` · AI · **13小时前**
+https://www.36kr.com/p/4034109983036552
 
-**23. Show HN：barn.app——一款类似 Stream Deck 的 macOS 智能体监控工具**
-`HN Show HN` · AI · **2小时前**
-<sub>Show HN: barn.app – a digital stream deck like agent monitoring tool for macOS</sub>
-> 我做了一个简单的 macOS 工具，功能类似配合 elgato Stream Deck 使用的一些 agent 监控工具。我最近第一次入手了一个，很喜欢这种监控 agent 的 UX，但想要更便携、不被绑在家庭办公室的东西。这个工具大致只是一个用于被动监控 agent 的简单 UX，想分享……
-https://barn.ope.cool
+**39. 宝玉 (@dotey)**
+`SoPilot 推特起爆帖` · — · **6小时前**
+https://sopilot.net/hot-tweets?tweetId=2112598829870575718
 
-**24. 演员李小冉凌晨怒斥有人编造其婚姻谎言：一忍再忍不想占用公共资源，真是谎话张口就来，工作室啥时候辟过谣？10月20日凌晨，演员李小冉再度发文，怒斥某博主为流...**
-`虎嗅` · 自媒体 · **13分钟前**
-https://www.huxiu.com/moment/1289640.html
-
-**25. Nscale 与 Anthropic 据报正就另一笔 450 亿美元算力交易进行谈判**
-`TechCrunch` · AI · **52分钟前**
-<sub>Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal</sub>
-> 8 月，Nscale 和 Anthropic 宣布了一项 450 亿美元算力交易。据悉两家公司正讨论另一笔同等规模的交易。
-https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/
-
-**26. AuditKIT：用于基准测试、评判和比较大语言模型与智能体系统的统一评估主干**
-`arXiv cs.CL` · AI/资本市场 · **20小时前**
-<sub>AuditKIT: A Unified Evaluation Spine for Benchmarking, Judging, and Comparing Large Language Models and Agentic Systems</sub>
-> arXiv:2610.22511v1 公告类型：新。摘要：评估语言模型和 agent 需要结合基准准确率、基于评判的评估、运行时性能、工具使用行为和检索质量。接口、指标语义和 trace 格式的差异使这些比较复杂化，并可能掩盖 agentic 工作流中的失败。我们提出 AuditKIT，一个源码可用的评估库
-https://arxiv.org/abs/2610.22511
-
-**27. Hanya Hu (@RealHanyaHu)**
-`SoPilot 推特起爆帖` · — · **4小时前**
-<sub>Hanya Hu (@RealHanyaHu)</sub>
-https://sopilot.net/hot-tweets?tweetId=2112268310901661831
-
-**28. DeepSeek 升级版 V4.1-Flash 模型震动 AI 行业**
-`The Information` · AI · **8小时前**
-<sub>DeepSeek’s Upgraded V4.1-Flash Model Shakes Up AI Industry</sub>
-https://www.theinformation.com/briefings/deepseeks-upgraded-v4-1-flash-model-shakes-ai-industry
-
-**29. Ryder Kemper 如何成为 Corgi Insurance 的第 7 号员工——并从未离开旧金山**
-`Y Combinator Blog` · — · **5小时前**
-<sub>How Ryder Kemper became employee #7 at Corgi Insurance — and never left San Francisco</sub>
-> Ryder 飞往旧金山参加工作试用，在一辆 Mystery Machine 巴士里搬家具，然后决定留下。这就是从第一天开始构建的样子。
-https://www.ycombinator.com/blog/how-ryder-kemper-became-employee-7-at-corgi-insurance-and-never-left-san-francisco/
-
-**30. OpenAI拟融资300亿美元 估值或超1.4万亿美元**
-`财联社` · AI/资本市场 · **刚刚**
-https://www.cls.cn/detail/2509141
-
-**31. 提升低资源编程语言中的编码能力**
-`OpenAI News` · — · **12小时前**
-<sub>Advancing coding in low‑resource programming languages</sub>
-> 了解 OpenAI 如何改进 ChatGPT 在低资源编程语言上的表现，并针对软件工程、SQLite 和 COBOL 迁移推出新评估。
-https://openai.com/index/low-resource-programming-languages
-
-**32. 实测Deepseek v4.1动画效果**
-`热搜-抖音` · AI · **刚刚**
-https://www.douyin.com/hot/2703379
-
-**33. Launch HN：Laminar（YC S24）——经 RL 训练、可发现 agent trace 中错误的模型**
-`Hacker News 前页` · AI · **8小时前**
-<sub>Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces</sub>
-> Hi HN，我们是 Laminar（https://laminar.sh）的 Robert 和 Din。自 2024 年以来，我们一直为 AI agents 构建开源可观测性。最近，我们发布了 flow-1，一个用 RL 训练来发现 agent trace 中错误的模型。在我们的基准（https://laminar.sh/blog/flow-1）上，它的检测质量与 GPT-6-sol 相当，但成本
-https://news.ycombinator.com/item?id=50154029
-
-**34. “AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海**
-`InfoQ 中文` · AI/企业落地 · **昨天**
-https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb?utm_source=rss&amp;utm_medium=article
-
-**35. Amazon 推出新开发工具 TorchNeuron，向 Nvidia 发起迄今最大挑战**
-`TechCrunch` · AI · **4小时前**
-<sub>Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool</sub>
-> Amazon 想打破 Nvidia 对 PyTorch 的掌控——这个用于构建大多数 AI 应用的免费工具包——让更多开发者在自家等替代芯片上运行应用。
-https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/
-
-**36. StratFL：用策略性联邦学习反制隐蔽模型投毒攻击**
-`arXiv cs.AI` · 资本市场/个人成长 · **20小时前**
-<sub>StratFL: Countering Covert Model Poisoning Attacks with Strategic Federated Learning</sub>
-> arXiv:2610.22626v1 公告类型：交叉。摘要：高级持续性威胁（APT）是医疗、金融等关键领域联邦学习（FL）部署中的主要担忧。传统防御机制因 APT 的间歇性攻击行为而无法遏制它们。本文针对一种特定类型的 APT，称为隐蔽模型投毒（CMP），其中攻击者……
-https://arxiv.org/abs/2610.22626
-
-**37. 宝玉 (@dotey)**
-`SoPilot 推特起爆帖` · — · **5小时前**
-https://sopilot.net/hot-tweets?tweetId=2112257496954135030
-
-**38. CATL 的估值差距凸显财报临近时的投资者分歧**
-`Bloomberg Technology` · 资本市场 · **23分钟前**
-<sub>CATL’s Valuation Gap Highlights Investor Divide as Earnings Near</sub>
-> 宁德时代（Contemporary Amperex Technology Co. Ltd.）港股在经历数月抛售后，较其深市交易股票仍保持可观溢价，凸显这家中国电池巨头发布财报前境内外投资者的分歧。
-https://www.bloomberg.com/news/articles/2026-10-20/catl-s-valuation-gap-highlights-investor-divide-as-earnings-near
-
-**39. 与 Blacksmith 合作**
-`Sequoia 观点` · — · **1分钟前**
-<sub>Partnering with Blacksmith</sub>
-> JP、Aayush 和 Maru 正在为开发者构建基础设施，以便在 agent 编写代码的速度下验证并交付可信代码。
-https://www.sequoiacap.com/article/partnering-with-blacksmith
-
-**40. AI 热点日报（2026-10-19）：DeepSeek V4.1-Flash落地，国产十万卡超集群亮相，Meta开源816B大模型**
-`掘金` · AI/企业落地 · **刚刚**
-https://juejin.cn/post/7697605708137922596
+**40. 谷歌加入亚马逊的行列，借助 AI 应用开发者攻打英伟达的阵地**
+`TechCrunch` · AI · **5小时前**
+<sub>Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers</sub>
+> 谷歌加入亚马逊的行列，发布了一款开发者工具，让 PyTorch 用户能轻松将应用从英伟达 GPU 上迁走。
+https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/
