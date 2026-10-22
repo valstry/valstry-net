@@ -1,206 +1,211 @@
-# 信源日报 2026-10-21
+# 信源日报 2026-10-22
 
-68 源 · 储备 1069 条 · 精选 40 条（仅限 48 小时内）
+68 源 · 储备 1159 条 · 精选 40 条（仅限 48 小时内）
 
 ---
 
-**1. OpenAI 收购 Orchestra Bio**
-`OpenAI News` · AI · **昨天**
-<sub>OpenAI acquires Orchestra Bio</sub>
-> OpenAI 正在收购 Orchestra Bio，将 AI 驱动的运营引入生命科学研发，帮助生物制药团队加速药物开发并推进新疗法。
-https://openai.com/index/openai-to-acquire-orchestra-bio
+**1. OpenAI 模型即将登陆 Google Cloud。我们将把前沿模型和 Codex 智能体工作流引入 Google Cloud 的 Model Garden，让企业……**
+`X-OpenAI` · AI · **5小时前**
+<sub>OpenAI models are coming to Google Cloud. We're bringing our frontier models and Codex agentic workflows to Google Cloud's Model Garden, so enterprise...</sub>
+> OpenAI 模型即将登陆 Google Cloud。我们将把前沿模型和 Codex 智能体工作流引入 Google Cloud 的 Model Garden，让企业能在现有构建环境中使用我们的技术。https://openai.com/index/openai-models-google-cloud/
+https://x.com/OpenAI/status/2112988118471295323
 
-**2. OpenAI报告称，两个AI Agent禁用了对齐失效监控器。OpenAI将调查模型是否存在规避对齐失效监控的行为。OpenAI称，较低严重等级的事件不会触发即时寻呼提醒。上述...**
-`虎嗅` · AI · **44分钟前**
-https://www.huxiu.com/moment/1289958.html
+**2. lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） (@lidangzzz)**
+`SoPilot 推特起爆帖` · AI · **2小时前**
+https://sopilot.net/hot-tweets?tweetId=2113030613431091331
 
-**3. lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） (@lidangzzz)**
-`SoPilot 推特起爆帖` · AI · **44分钟前**
-https://sopilot.net/hot-tweets?tweetId=2112692209082634364
+**3. 中金：AI4S重塑新药研发智能范式，建议持续关注三类企业。中金公司研报指出，AI for Science（AI4S，人工智能驱动科学研究）热度持续升温，生物医药是核心落地场...**
+`虎嗅` · AI/企业落地 · **33分钟前**
+https://www.huxiu.com/moment/1290321.html
 
-**4. Hugging Face CEO 警告：Netflix 的 OpenAI 黑客纪录片并不准确**
-`TechCrunch` · AI/资本市场 · **2小时前**
-<sub>Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate</sub>
-> 在分享 Netflix 纪录片《AI Gone Rogue》之前请注意。片中出镜的 Hugging Face 联合创始人 Clem Delangue 表示，该片完全进入末日论模式，并不准确。
-https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/
+**4. Show HN：我开发了一款免费 Mac 应用，可为 AI 智能体标注屏幕**
+`HN Show HN` · AI · **4小时前**
+<sub>Show HN: I made a free Mac app to annotate screen for AI agents</sub>
+> HN 的大家好，我是 Nika。我为自己开发了一款工具，用户可在屏幕上绘制以标注重点，作为 AI 智能体截图输入更简单的指示。评论 URL：https://news.ycombinator.com/item?id=50186893 积分：1 # 评论：0
+https://www.trylasso.online
 
-**5. Show HN：更好搜索公共数据，strategystudio.org**
-`HN Show HN` · 商业认知/资本市场 · **2小时前**
-<sub>Show HN: Better search of public data, strategystudio.org</sub>
-> 我厌倦了公共数据被孤立、难以搜索或汇总。LLM 只能处理有限内容且速度慢。所以我建了一个免费网站并载入大量数据。知道还有哪些数据可加入，请告诉我。评论 URL：https://news.ycombinator.com/item?id=50173235 点数：1 评论数：0
-https://strategystudio.org/
+**5. 腾讯姚顺雨想把DeepSeek卷到加班**
+`热搜-头条` · AI · **刚刚**
+https://www.toutiao.com/trending/7697961005829668883/
 
-**6. 第二代比亚迪海鸥上市**
-`热搜-头条` · 商业认知 · **刚刚**
-https://www.toutiao.com/trending/7698717431640064539/
+**6. DeepSeek 开源其高毛利 AI 推理背后的框架**
+`The Information` · AI/商业认知 · **7分钟前**
+<sub>DeepSeek Open-Sources Framework Behind Its High-Margin AI Inference</sub>
+https://www.theinformation.com/briefings/deepseek-open-sources-framework-behind-high-margin-ai-inference
 
-**7. Nvidia 转而支持 GPU 云服务商 Firmus，此前投资者对其 IPO 犹豫**
-`The Information` · AI/商业认知 · **21分钟前**
-<sub>Nvidia Moves to Back GPU Cloud Provider Firmus After Investors Balk at Its IPO</sub>
-https://www.theinformation.com/articles/nvidia-moves-back-gpu-cloud-provider-firmus-investors-balk-ipo
+**7. 亚马逊封堵 AI 智能体，沃尔玛则铺开欢迎地毯**
+`TechCrunch` · AI · **5小时前**
+<sub>While Amazon blocks AI agents, Walmart rolls out the welcome mat</sub>
+> 当亚马逊阻止 AI 智能体在其网站购物时，沃尔玛采取相反做法，推出新技术让 AI 智能体代客户购物，并对支出和交易审批进行管控。
+https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/
 
-**8. 如何不靠风险投资打造十亿美元公司**
-`Crunchbase 融资板块` · 企业落地 · **13小时前**
+**8. 经验记忆何时能帮助闭环 LLM 驾驶智能体？基于重采样预热池、Token 匹配填充项和经审计基线的受控评估**
+`arXiv cs.CL` · AI/资本市场 · **20小时前**
+<sub>When Does Experience Memory Help Closed-Loop LLM Driving Agents? A Controlled Evaluation with Resampled Warmup Pools, Token-Matched Fillers, and Audited Baselines</sub>
+> arXiv:2610.27714v1 公告类型：交叉。摘要：经验记忆何时能帮助闭环 LLM 驾驶智能体？已发表的性能提升无法说明这一点，因为我们发现最关键的两个因素——预热池包含哪些经验，以及注入的 token 会对提示词产生什么影响——在它们中均未得到控制。我们通过在一个经审计的 HighwayEnv 测试平台（1Hz、gpt-4o-……）上的受控评估来回答。
+https://arxiv.org/abs/2610.27714
+
+**9. 如何不靠风险投资打造十亿美元公司**
+`Crunchbase 融资板块` · 企业落地 · **昨天**
 <sub>How To Build A Billion-Dollar Company Without Venture Capital</sub>
 > Nacho De Marco 认为，创始人可以通过优先重视客户收入、为质量定价、招聘卓越人才并自动化流程来高效扩张，从而不靠风险投资打造十亿美元企业。他结合自己 bootstrap BairesDev 的经验，强调财务纪律和持久致力于解决客户问题，是可持续增长的基础。
 https://news.crunchbase.com/startups/bootstrapping-billion-dollar-company-ai-staffing-demarco-bairesdev/
 
-**9. 财联社10月21日电，OpenAI称，两个AI Agent禁用了对齐失效监控器，将调查模型是否存在规避对齐失效监控的行为。**
-`财联社` · AI · **刚刚**
-https://www.cls.cn/detail/2510466
+**10. 24 小时为你在线打工：Anthropic 推出 Claude Duet AI 智能体，迎战 Meta 和 OpenAI**
+`IT之家` · AI · **刚刚**
+https://www.ithome.com/1/016/169.htm
 
-**10. FairStress：更深入评估 LLM 决策中的公平性**
-`HuggingFace Blog` · AI/资本市场 · **8小时前**
-<sub>FairStress: A deeper evaluation of fairness in LLM decision-making</sub>
-https://huggingface.co/blog/allenai/fairstress
+**11. OpenAI 模型帮助研究人员——作为我们“Patch the Planet”计划的一部分——发现了 PHP 中的关键安全漏洞，PHP 是一种开源编程……**
+`X-OpenAI` · AI · **10小时前**
+<sub>OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-source progra...</sub>
+https://x.com/OpenAI/status/2112907856018309586
 
-**11. 国际油价，一夜“过山车”；宁德时代等三季报出炉。美国政府指示各机构停用DeepSeek，外交部回应②国家数据集团成立③美股道指涨超1%④工信部：坚决防范不合理创...**
-`虎嗅` · AI/资本市场 · **1小时前**
-https://www.huxiu.com/moment/1289954.html
-
-**12. Dongxi 东锡 NLP (@dongxi_nlp)**
+**12. 兴雨 (@YxzRainy)**
 `SoPilot 推特起爆帖` · AI · **3小时前**
-<sub>Dongxi 东锡 NLP (@dongxi_nlp)</sub>
-https://sopilot.net/hot-tweets?tweetId=2112652766997103016
+https://sopilot.net/hot-tweets?tweetId=2113019575327772946
 
-**13. 美国下令联邦机构从系统中移除中国的 DeepSeek AI**
-`TechCrunch` · AI/资本市场 · **11小时前**
-<sub>US orders federal agencies to remove China’s DeepSeek AI from their systems</sub>
-> 美国以国家安全担忧为由，下令联邦文职机构移除 DeepSeek 产品以及使用其技术构建的第三方服务。
-https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/
+**13. 科技股火力全开，纳指领涨美股。中办、国办：全面实施“人工智能+”行动，推动人工智能全方位赋能千行百业②泽连斯基：愿在保留至少75%领土控制权的基础上达成和...**
+`虎嗅` · AI/资本市场 · **1小时前**
+https://www.huxiu.com/moment/1290313.html
 
-**14. DeepInfer：面向 DeepSeek 模型的高性能推理框架**
-`Hacker News 最佳` · AI · **15小时前**
+**14. Show HN：AI 智能体安全审计控制台——15 分钟离线审计**
+`HN Show HN` · AI · **5小时前**
+<sub>Show HN: AI Agent Security Audit Console – offline audit in 15 min</sub>
+> 文章 URL：https://theaioperatorstore.gumroad.com/l/uszyx 评论 URL：https://news.ycombinator.com/item?id=50185936 积分：1 # 评论：0
+https://theaioperatorstore.gumroad.com/l/uszyx
+
+**15. 传字节阿里腾讯花 350 亿美元订购英伟达工作站 GPU，大厂为何转向采购该显卡？**
+`热搜-知乎` · AI · **刚刚**
+https://www.zhihu.com/question/2096010997483967669
+
+**16. OpenAI 将把模型引入 Google Cloud**
+`The Information` · AI · **7分钟前**
+<sub>OpenAI to Bring Models to Google Cloud</sub>
+https://www.theinformation.com/briefings/openai-bring-models-google-cloud
+
+**17. OpenAI 最新 AI 模型即将登陆 Google Cloud 和 Antigravity**
+`Ars Technica` · AI · **5小时前**
+<sub>OpenAI's latest AI models are coming to Google Cloud and Antigravity</sub>
+> Google Cloud 将在未来几周上线 GPT 6.1 Astra、Sol 和 Luna。
+https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/
+
+**18. 数据在智能体强化学习中如何扩展：规律与合成策略**
+`arXiv cs.CL` · AI/资本市场/个人成长 · **20小时前**
+<sub>How Data Scales in Agentic Reinforcement Learning: Laws and Synthesis Strategies</sub>
+> arXiv:2610.23946v2 公告类型：替代交叉。摘要：预训练扩展定律将训练数据视为一维量：token 数量。智能体强化学习（RL）继承了这种标量抽象，但现代合成流水线现在以不同成本独立生成任务、环境和轨迹，使数据变成一种结构……
+https://arxiv.org/abs/2610.23946
+
+**19. “奇怪且可能无法投资”：Reach Capital 如何识别其风投赢家**
+`Crunchbase 融资板块` · — · **13小时前**
+<sub>‘Weird And Maybe Uninvestable’: How Reach Capital Spots Its Venture Winners</sub>
+> Crunchbase News 采访了 Reach Capital 合伙人 James Kim，谈及 Reach 的教育根基如何影响其更广泛战略、它在 AI 检测公司 GPTZero 中看到了什么，以及为何其一些最佳投资最初让团队内部产生分歧。我们还讨论了持股比例和二级交易如何塑造该公司返还资本的方式。
+https://news.crunchbase.com/venture/ai-edtech-healthcare-reach-capital-qa-kim/
+
+**20. 财联社10月22日电，美股股指期货跌幅扩大，其中纳指期货跌幅扩大至0.5%。**
+`财联社` · 资本市场 · **刚刚**
+https://www.cls.cn/detail/2511631
+
+**21. OpenAI 模型即将登陆 Google Cloud**
+`OpenAI News` · AI · **12小时前**
+<sub>OpenAI models are coming to Google Cloud</sub>
+> OpenAI 与 Google Cloud 将把前沿模型和 Codex 工作流引入 Gemini 的 Model Garden，并通过 Google Cloud Marketplace 提供。
+https://openai.com/index/openai-models-google-cloud
+
+**22. 美研芒格君 (@Kay2289123)**
+`SoPilot 推特起爆帖` · AI · **4小时前**
+https://sopilot.net/hot-tweets?tweetId=2113003435515957515
+
+**23. OpenAI：更新我们的使用政策，自2026年11月20日起生效，以明确安全模型开发和人工智能敏感用途的相关规则。**
+`虎嗅` · AI · **2小时前**
+https://www.huxiu.com/moment/1290304.html
+
+**24. DeepInfer：面向 DeepSeek 模型的高性能推理框架**
+`Hacker News 最佳` · AI · **昨天**
 <sub>DeepInfer: High-performance inference framework for DeepSeek models</sub>
-> 文章 URL：https://github.com/deepseek-ai/DeepInfer 评论 URL：https://news.ycombinator.com/item?id=50163277 点数：2107 评论数：822
+> 文章 URL：https://github.com/deepseek-ai/DeepInfer 评论 URL：https://news.ycombinator.com/item?id=50163277 积分：2300 # 评论：881
 https://github.com/deepseek-ai/DeepInfer
 
-**15. 英伟达或推迟RTX6060发布时间**
-`热搜-B站` · AI · **刚刚**
-https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%88%96%E6%8E%A8%E8%BF%9FRTX6060%E5%8F%91%E5%B8%83%E6%97%B6%E9%97%B4
+**25. 我国微堆技术迈入商业化阶段**
+`热搜-B站` · 企业落地 · **刚刚**
+https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E5%BE%AE%E5%A0%86%E6%8A%80%E6%9C%AF%E8%BF%88%E5%85%A5%E5%95%86%E4%B8%9A%E5%8C%96%E9%98%B6%E6%AE%B5
 
-**16. OpenAI 收购药物开发公司 Orchestra Bio**
-`The Information` · AI · **2小时前**
-<sub>OpenAI Buys Drug Development Company Orchestra Bio</sub>
-https://www.theinformation.com/briefings/openai-buys-drug-development-company-orchestra-bio
+**26. AI 安全倡导者称 OpenAI、Anthropic 应限制研发算力**
+`The Information` · AI · **10小时前**
+<sub>OpenAI, Anthropic Should Cap Compute for R&D, Say AI Safety Advocates</sub>
+https://www.theinformation.com/articles/openai-anthropic-cap-compute-r-d-say-ai-safety-advocates
 
-**17. FDE 泡沫：硅谷最昂贵的“假装”游戏**
-`Crunchbase 融资板块` · 企业落地 · **昨天**
-<sub>The FDE Bubble: Silicon Valley’s Most Expensive Game Of Pretend</sub>
-> Airrived 联合创始人兼 CEO Anurag Gurtu 认为，依赖大批前置部署工程师的企业 AI 公司，正把劳动密集型服务伪装成可扩展软件，抬高经常性收入和估值，却达不到其自主性宣称。在这篇客座评论中，他敦促买家和投资者审视部署成本与毛利率，以区分可持续的……
-https://news.crunchbase.com/venture/fde-bubble-enterprise-agentic-ai-gurtu-airrived/
+**27. 成立一年的 AI 实验室 Flapping Airplanes 以 60 亿美元估值融资 10 亿美元**
+`TechCrunch` · 资本市场 · **3小时前**
+<sub>Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation</sub>
+> 在完成1.8亿美元种子轮融资仅9个月后，Flapping Airplanes 又获得了10亿美元A轮融资，其使命是构建“不吞下半个互联网”的AI模型。
+https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/
 
-**18. “A+H”上市阵容持续扩大 多家公司筹划港股IPO**
-`财联社` · 商业认知/资本市场 · **刚刚**
-https://www.cls.cn/detail/2510440
+**28. 通过偏好优化教AI智能体打策略性扑克**
+`arXiv cs.CL` · AI/资本市场 · **20小时前**
+<sub>Teaching AI Agent to Play Poker Strategically Through Preference Optimization</sub>
+> arXiv:2610.27028v1 公告类型：交叉 摘要：扑克智能体可以走出合法的一步，却仍是策略上的劣着。我们探究紧凑型AI智能体能否在隐藏信息下表现出策略性行为，以及偏好优化能否超越静态策略和零样本策略。我们首先评估一个静态基线以及三个冻结语言模型：SmallThinker、Qwen3 和 Gem
+https://arxiv.org/abs/2610.27028
 
-**19. 我们已收购 Orchestra Bio，这是一个帮助生物制药团队协调复杂药物开发流程的平台。我们将共同基于 Ros...**
-`X-OpenAI` · — · **6小时前**
-<sub>We’ve acquired Orchestra Bio, a platform that helps biopharma teams coordinate the complex process of drug development. Together, we’ll build on Ros...</sub>
-> 我们已收购 Orchestra Bio，这是一个帮助生物制药团队协调复杂药物开发流程的平台。我们将共同基于 Rosalind——我们用于生命科学研究的 AI 模型和工具——来简化这些运营，帮助新疗法更快惠及患者。欢迎 @ashokaraj_ 和团队！https://openai.com/index/openai-to-acquire-orchestra-bio/
-https://x.com/OpenAI/status/2112607347688583586
-
-**20. 正面硬刚DeepSeek，MiniMax M3.1 Flash发布，输出卷到200+ TPS，价格砍到1/2**
-`36氪 热榜` · AI · **23小时前**
-https://www.36kr.com/p/4032947936662665
-
-**21. 拾一 (@__oQuery)**
-`SoPilot 推特起爆帖` · AI · **6小时前**
-https://sopilot.net/hot-tweets?tweetId=2112607552186069414
-
-**22. Anthropic 推介 AI 安全法案：若可能致50多人死亡，可阻止模型发布**
-`TechCrunch` · AI · **1小时前**
-<sub>Anthropic pitches AI safety bill that may block a model if 50+ people could be killed</sub>
-> 该拟议政策看似提供防止 AI 失控的保护，但实际上禁止联邦机构在未经法官许可的情况下阻止模型发布。
-https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/
-
-**23. Show HN：Tenbri，一个 AI 代理无法秘密改写的日志**
-`HN Show HN` · AI · **3小时前**
-<sub>Show HN: Tenbri, a log AI agents can’t secretly rewrite</sub>
-> 文章 URL：https://tenbri.com/ 评论 URL：https://news.ycombinator.com/item?id=50172642 点数：1 评论数：1
-https://tenbri.com/
-
-**24. 科技新一说宁德时代利润太吓人了**
-`热搜-微博` · — · **刚刚**
-https://s.weibo.com/weibo?q=%23%E7%A7%91%E6%8A%80%E6%96%B0%E4%B8%80%E8%AF%B4%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%88%A9%E6%B6%A6%E5%A4%AA%E5%90%93%E4%BA%BA%E4%BA%86%23&t=31&band_rank=28&Refer=top
-
-**25. 美国检方称，在 OpenAI 安放窃听设备的员工与沙特王室有关系**
-`The Information` · AI · **2小时前**
-<sub>Employee Who Bugged OpenAI Had Saudi Royal Ties, U.S. Prosecutors Say</sub>
-https://www.theinformation.com/briefings/employee-bugged-openai-saudi-royal-ties-u-s-prosecutors-say
-
-**26. 金融科技融资第三季度下降21%，交易愈发稀少**
-`Crunchbase 融资板块` · — · **13小时前**
+**29. 金融科技融资第三季度下降21%，交易愈发稀少**
+`Crunchbase 融资板块` · — · **昨天**
 <sub>Fintech Funding Fell 21% In Q3 As Deals Grew Scarcer</sub>
 > 总体而言，2026年第三季度全球金融科技初创企业融资106亿美元，较2026年第二季度的149亿美元下降28.4%，较2025年第三季度的135亿美元下降21.4%。
 https://news.crunchbase.com/venture/q3-2026-fintech-startup-funding-deal-count-fell-ai/
 
-**27. 【研选•研报数据】特斯拉Optimus持续推进量产，OpenAI确认自研人形机器人；公司的高精度定位产品同时服务于人形机器人和智能驾驶领域，在两大高成长市场中扮演核心角色**
-`财联社` · AI/个人成长 · **刚刚**
-https://www.cls.cn/detail/2509344
+**30. 纳指期货跌幅扩大至超过0.5%，标普股指期货跌0.3%，道指期货跌0.2%。
 
-**28. 加盟商使用 ChatGPT Work 将现金对账时间缩短94%**
-`OpenAI News` · — · **14小时前**
-<sub>Franchisee reconciles cash in 94% less time with ChatGPT Work</sub>
-> 一家独立的 Schlotzsky's 和 Cinnabon 特许经营商将菜单重新定价的时间缩短了 95%，并构建了一套工作流程，有望释放 10 万美元的现金流。
-https://openai.com/index/ted-taylor-restaurant
+当前（美股盘后），IBM跌超3.4%，特斯拉跌超2.9%，NBIS跌超2.4%，英特尔跌1.6%，闪迪跌1.5%，SK海力士ADR跌1.4%，AMD、美光、希捷科技至少跌约1%，Pinterest涨0.1%，奈飞涨0.2%，Meta涨2%。**
+`华尔街见闻快讯` · 资本市场 · **刚刚**
+https://wallstreetcn.com/livenews/3183019
 
-**29. DeepSeek第一，MiniMax第二，国产Flash双子星杀疯了**
-`36氪 热榜` · AI · **23小时前**
-https://www.36kr.com/p/4033405123072904
+**31. 用数千个AI智能体在生物数据中挖掘新线索**
+`OpenAI News` · AI · **19小时前**
+<sub>Using thousands of AI agents to uncover new leads in biological data</sub>
+> 看看 OpenAI、PerturbAI 和 Scripps Research 如何利用分布式AI智能体，从数百万个脑细胞的数据中挖掘有前景的研究线索。
+https://openai.com/index/scaling-ai-research-for-complex-biological-data
 
-**30. AI Wang（@loveAIwang）**
-`SoPilot 推特起爆帖` · — · **6小时前**
-<sub>AI Wang (@loveAIwang)</sub>
-https://sopilot.net/hot-tweets?tweetId=2112607812597719436
+**32. 宝玉 (@dotey)**
+`SoPilot 推特起爆帖` · AI · **3小时前**
+https://sopilot.net/hot-tweets?tweetId=2113014531853365681
 
-**31. OpenAI 收购初创公司 Orchestra Bio，以加强其生物科技业务**
-`TechCrunch` · AI · **3小时前**
-<sub>OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business</sub>
-> OpenAI 表示，已将 Orchestra 的团队和技术并入其生命科学研究 AI 模型 Rosalind 以及相关的 Rosalind Workbench 工具；后者是一个旨在帮助研究人员规划实验并分析结果的框架。
-https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/
+**33. OpenAI：更新后的使用政策要求模型路由器和AI网关在提供访问权限前必须获得OpenAI的审查与批准。**
+`虎嗅` · AI · **2小时前**
+https://www.huxiu.com/moment/1290305.html
 
-**32. 联邦调查人员怀疑，一名赎金谈判代表运营了 ShinyHunters 敲诈网站**
-`Hacker News 前页` · 资本市场 · **2小时前**
-<sub>Feds suspect ransom negotiator ran ShinyHunters extortion site</sub>
-> 文章链接：https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/ 评论链接：https://news.ycombinator.com/item?id=50173487 得分：59 评论数：13
-https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/
+**34. 智能体宠物**
+`Product Hunt` · AI · **1小时前**
+<sub>Agent Pets</sub>
+https://www.producthunt.com/products/agent-pets
 
-**33. 崔秀彬公司未回应**
+**35. 宇树机器人展示举起汽车救人**
 `热搜-微博` · — · **刚刚**
-https://s.weibo.com/weibo?q=%E5%B4%94%E7%A7%80%E5%BD%AC%E5%85%AC%E5%8F%B8%E6%9C%AA%E5%9B%9E%E5%BA%94&t=31&band_rank=29&Refer=top
+https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B1%95%E7%A4%BA%E4%B8%BE%E8%B5%B7%E6%B1%BD%E8%BD%A6%E6%95%91%E4%BA%BA&t=31&band_rank=5&Refer=top
 
-**34. 英伟达已为 Neoclouds 投入超过 1700 亿美元**
-`The Information` · AI · **25分钟前**
-<sub>Nvidia Has Put More Than $170 Billion on the Line for Neoclouds</sub>
-https://www.theinformation.com/articles/nvidia-put-170-billion-line-neoclouds
+**36. OpenAI 呼吁加州州长纽森加强AI监管**
+`The Information` · AI · **7分钟前**
+<sub>OpenAI Asks Gov. Newsom to Strengthen AI Regulations</sub>
+https://www.theinformation.com/briefings/openai-asks-gov-newsom-strengthen-ai-regulations
 
-**35. 拉美初创企业融资 Q3 跃升 26%，风投开始“重新发现”该地区**
-`Crunchbase 融资板块` · — · **昨天**
-<sub>LatAm Startup Funding Jumps 26% In Q3 As VCs Begin ‘Rediscovering’ The Region</sub>
-> Crunchbase 数据显示，后期和成长型融资持续繁荣，加上种子期融资激增，共同提振了 2026 年第三季度拉丁美洲的风险投资。
-https://news.crunchbase.com/venture/q3-2026-latam-startup-funding-jumps-ai-fintech-mexico/
+**37. 法律AI初创公司 Legora 完成5.5亿美元E轮融资，估值88亿美元**
+`TechCrunch` · 资本市场 · **5小时前**
+<sub>Legal AI startup Legora raises $550M Series E at $8.8B valuation</sub>
+> 法律AI初创公司 Legora 周三宣布完成5.5亿美元E轮融资，估值达88亿美元。
+https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/
 
-**36. OpenAI 增强 AI 模型攻克冷门编程语言，COBOL 迁移准确率飙至 97.9%**
-`IT之家` · AI · **刚刚**
-https://www.ithome.com/1/015/633.htm
+**38. 面向医学影像的隐私保护个性化联邦学习（PPP-FL）**
+`arXiv cs.AI` · AI/资本市场/个人成长 · **20小时前**
+<sub>Privacy-Preserving Personalized Federated Learning (PPP-FL) for Medical Imaging</sub>
+> arXiv:2610.27470v1 公告类型：交叉 摘要：联邦学习（FL）是一种分布式机器学习范式，它通过将原始数据保留在本地设备上，降低传输成本、缓解跨境数据共享限制并增强隐私。FL系统中的客户端训练本地模型并仅共享更新，由中心服务器聚合。这种设置虽然限制了直接数据
+https://arxiv.org/abs/2610.27470
 
-**37. 今天我们发布了一份关于 Muse Glimmer 的技术报告，这是我们为消费级硬件上的智能体任务构建的 30B 开放权重模型。它能以实用速度运行……**
-`X-MetaAI` · AI · **昨天**
-<sub>Today we published a technical report on Muse Glimmer, our 30B open-weight model built for agentic tasks on consumer hardware. It runs at practical sp...</sub>
-> 今天我们发布了一份关于 Muse Glimmer 的技术报告，这是我们为消费级硬件上的智能体任务构建的 30B 开放权重模型。在 Mac 或 PC 上，使用单张消费级 GPU、4-bit 精度即可达到实用速度，并在工具使用和多步规划上领先同等规模开放模型。了解模型架构、蒸馏配方、量化等内容：https://go.meta.me/4Bcvxol
-https://x.com/AIatMeta/status/2112265822274302066
+**39. 当初创公司被收购，员工的股权计划可能一夜之间改变**
+`Crunchbase News` · — · **13小时前**
+<sub>When A Startup Sells, Its Employees’ Equity Plans Can Change Overnight</sub>
+> 初创公司被收购可能重塑员工的财务和职业，个人结局取决于多种条件。客座作者、From-Honig家族办公室联席CEO兼管理合伙人 Ron Honig 建议，在做出重大人生改变之前，员工应明确自己的奖励权利、收益何时到位，以及税后所得现实中能支撑什么。
+https://news.crunchbase.com/ma/acquired-startup-employees-equity-plans-from-honig/
 
-**38. 突发，DeepSeek重磅开源核心推理引擎**
-`36氪 热榜` · AI · **13小时前**
-https://www.36kr.com/p/4034109983036552
-
-**39. 宝玉 (@dotey)**
-`SoPilot 推特起爆帖` · — · **6小时前**
-https://sopilot.net/hot-tweets?tweetId=2112598829870575718
-
-**40. 谷歌加入亚马逊的行列，借助 AI 应用开发者攻打英伟达的阵地**
-`TechCrunch` · AI · **5小时前**
-<sub>Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers</sub>
-> 谷歌加入亚马逊的行列，发布了一款开发者工具，让 PyTorch 用户能轻松将应用从英伟达 GPU 上迁走。
-https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/
+**40. vllm-project /      vllm**
+`GitHub Trending` · AI · **刚刚**
+<sub>vllm-project /      vllm</sub>
+> 面向大语言模型的高吞吐、高内存效率推理与服务引擎
+https://github.com/vllm-project/vllm
