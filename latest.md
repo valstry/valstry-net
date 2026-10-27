@@ -1,201 +1,211 @@
-# 信源日报 2026-10-26
+# 信源日报 2026-10-27
 
-68 源 · 储备 1049 条 · 精选 40 条（仅限 48 小时内）
+68 源 · 储备 1139 条 · 精选 40 条（仅限 48 小时内）
 
 ---
 
-**1. lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） (@lidangzzz)**
+**1. Anthropic 已就其拟议 IPO 向 SEC 提交 S-1 注册声明。阅读更多：https://www.anthropic.com/news/s1-sec 法律免责……**
+`X-Anthropic` · AI/商业认知 · **11小时前**
+<sub>Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO. Read more: https://www.anthropic.com/news/s1-sec Legal dis...</sub>
+> Anthropic 已就其拟议 IPO 向 SEC 提交 S-1 注册声明。阅读更多：https://www.anthropic.com/news/s1-sec 法律免责声明：与这些证券相关的注册声明已提交 SEC，但尚未生效。在注册声明生效之前，不得出售这些证券，也不得接受购买要约。
+https://x.com/AnthropicAI/status/2114705042817110293
+
+**2. 如何看待 Anthropic 提交 IPO 申请，将以「ANT」为代码登陆纳斯达克？会给 AI 行业带来哪些改变？**
+`热搜-知乎` · AI/商业认知 · **刚刚**
+https://www.zhihu.com/question/2098146460403615476
+
+**3. Max For AI (@MaxForAI)**
 `SoPilot 推特起爆帖` · AI · **4小时前**
-https://sopilot.net/hot-tweets?tweetId=2114442888239337625
+<sub>Max For AI (@MaxForAI)</sub>
+https://sopilot.net/hot-tweets?tweetId=2114804371955548246
 
-**2. A股指数调整10月26日落地**
-`热搜-抖音` · 企业落地/资本市场 · **刚刚**
-https://www.douyin.com/hot/2712069
+**4. 关于 Anthropic IPO 申报的一些观察**
+`Crunchbase News` · AI/商业认知 · **4小时前**
+<sub>Some Observations About Anthropic’s IPO Filing</sub>
+> 在今日提交的 S-1 文件中——这可能是有史以来最大 IPO 的前奏——Anthropic 详细披露了收益、增长、关键利益相关方及未来风险。文件长达 335 页，绝非轻松读物。不过，在初步浏览中，我们重点列出一些更有趣的披露。
+https://news.crunchbase.com/public/anthropic-ipo-filing-ai-earnings-growth-risks/
 
-**3. ABF，被疯抢。英伟达近日宣布与多家供应链伙伴合作扩大制造产能，其中未来三年产品基板产能将提至目前2.5倍，推动AI算力基础设施扩张，供应链竞争延伸至先进封装...**
-`虎嗅` · AI · **21分钟前**
-https://www.huxiu.com/moment/1291274.html
+**5. OpenAI“招安”孙宇晨**
+`36氪 热榜` · AI · **14小时前**
+https://www.36kr.com/p/4042458701910919
 
-**4. OpenAI 和 Anthropic 几个月内将 LLM 价格下调至多 80%。为什么？**
-`Hacker News 前页` · AI · **3小时前**
-<sub>OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?</sub>
-> 文章链接：https://minimaxir.com/2026/10/cheap-llms/ 评论链接：https://news.ycombinator.com/item?id=50236102 点数：97 # 评论：119
-https://minimaxir.com/2026/10/cheap-llms/
+**6. Anthropic 的 IPO 文件揭示其留住企业客户的策略**
+`TechCrunch` · AI/商业认知/资本市场 · **7小时前**
+<sub>Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked</sub>
+> Anthropic 的 S-1 显示，在其 10 万美元以上客户中，超过一半现在同时使用 Claude Platform 和第一方应用；这一交叉销售打法令人想起 Amazon，正让企业客户更具黏性。
+https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/
 
-**5. 被迫选边时，Grok 的 AI 模型选择共和党，OpenAI 的则选民主党。**
-`TechCrunch` · AI · **昨天**
-<sub>Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.</sub>
-> 一项新研究发现，Grok 的 AI 压倒性地推荐共和党候选人，而 OpenAI 的 GPT 偏向民主党；在近 500 场选举中，这两个 AI 模型在超过 90% 的选战里意见相左。
-https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/
+**7. AllModels**
+`Product Hunt` · AI · **1小时前**
+<sub>AllModels</sub>
+https://www.producthunt.com/products/allmodels-io
 
-**6. Anthropic 的利润率是 OpenAI 的机会**
-`The Information` · AI/商业认知 · **昨天**
+**8. Anthropic 的利润率是 OpenAI 的机会**
+`The Information` · AI/商业认知 · **2小时前**
 <sub>Anthropic’s Margin is OpenAI’s Opportunity</sub>
 https://www.theinformation.com/articles/anthropics-margin-openais-opportunity
 
-**7. 财联社10月26日电，据报道，Anthropic旗下的人工智能模型Claude在未经人工许可的情况下，访问了公开可获取的美国佐治亚州选民数据。**
-`财联社` · AI · **刚刚**
-https://www.cls.cn/detail/2514542
+**9. 面向 Actor-Critic 智能体的金融上下文丰富策略：一种用于股票交易的深度强化学习方法**
+`arXiv cs.AI` · AI/商业认知/资本市场 · **20小时前**
+<sub>Financial Context-Rich Strategy for Actor-Critic based Agents: A Deep Reinforcement Learning Approach for Stock Trading</sub>
+> arXiv:2610.32237v1 公告类型：新论文 摘要：在现代金融市场中，超过四分之三的大宗交易由基于先进交易策略的算法交易执行，以实现比传统人类交易员更高的精度和速度。传统策略侧重价格指标，不足以捕捉现实世界事件带来的市场动态……
+https://arxiv.org/abs/2610.32237
 
-**8. 郭宇 guoyu.eth（@turingou）**
-`SoPilot 推特起爆帖` · — · **4小时前**
-<sub>郭宇 guoyu.eth (@turingou)</sub>
-https://sopilot.net/hot-tweets?tweetId=2114448821162000526
-
-**9. 英伟达老显卡算力被破解了吗**
-`热搜-B站` · AI · **刚刚**
-https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%80%81%E6%98%BE%E5%8D%A1%E7%AE%97%E5%8A%9B%E8%A2%AB%E7%A0%B4%E8%A7%A3%E4%BA%86%E5%90%97
-
-**10. 79天，最大芯片IPO告吹**
-`36氪 热榜` · 商业认知 · **21小时前**
-https://www.36kr.com/p/4040669401715848
-
-**11. Show HN：Glitchrupt——当你的 AI 智能体需要你注意时，让桌面出现故障特效**
-`HN Show HN` · AI · **2小时前**
-<sub>Show HN: Glitchrupt: Glitch your desktop when your AI agent needs your attention</sub>
-> 我老是错过 AI 智能体找我注意的请求，于是我让它做了个东西，把整个屏幕搞出故障效果，就像《蜘蛛侠：平行宇宙》里的画面故障。评论链接：https://news.ycombinator.com/item?id=50236627 点数：1 # 评论：0
-https://github.com/elbee19/glitchrupt
-
-**12. Grok 发布其 AI 生成《奥德赛》的前七分钟**
-`TechCrunch` · 资本市场 · **3小时前**
-<sub>Grok releases the first seven minutes of its AI-generated ‘Odyssey’</sub>
-> 画面看着还行——只要你不追求艺术性、灵感或人文关怀。
-https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/
-
-**13. 抛售之后，亚洲最繁忙的财报周将 AI 热潮推到聚光灯下**
-`Bloomberg Technology` · 资本市场/个人成长 · **1小时前**
-<sub>Asia’s Busiest Earnings Week Puts AI Boom in Focus After Selloff</sub>
-> 亚洲最繁忙的财报周将对 AI 交易构成重大考验，投资者希望看到证据：数百亿美元投资正转化为利润，增长正扩散到科技行业之外。
-https://www.bloomberg.com/news/articles/2026-10-25/asia-s-busiest-earnings-week-puts-ai-boom-in-focus-after-selloff
-
-**14. 猫王音乐版权方起诉 Anthropic，指控其未经授权用 274 首歌曲训练 AI 模型**
+**10. OpenAI 低成本新模型 GPT-6.1 Terra 深夜炸场：每项任务成本仅 Claude Opus 5.5 九分之一，更快更准确**
 `IT之家` · AI · **刚刚**
-https://www.ithome.com/1/017/731.htm
+https://www.ithome.com/1/018/200.htm
 
-**15. AI Fun（@ai_funss）**
-`SoPilot 推特起爆帖` · — · **6小时前**
-<sub>AI Fun (@ai_funss)</sub>
-https://sopilot.net/hot-tweets?tweetId=2114413096244830507
+**11. GPT-6.1 Sol 助力 CodeRabbit 加强复杂代码库的安全性**
+`OpenAI News` · AI · **10小时前**
+<sub>GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases</sub>
+> CodeRabbit 使用 GPT-6.1 Sol 调查复杂代码库中的安全风险。其安全智能体帮助开发者审查发现的问题和拟议修复方案。
+https://openai.com/index/gpt-6-1-sol-coderabbit-code-security
 
-**16. DeepSeek到底怎么得罪了美国**
-`热搜-头条` · AI · **刚刚**
-https://www.toutiao.com/trending/7700471897347067435/
+**12. 史上最大IPO 史上最亏AI公司**
+`热搜-百度` · AI/商业认知 · **刚刚**
+https://www.baidu.com/s?wd=%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO+%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BA%8FAI%E5%85%AC%E5%8F%B8
 
-**17. 多家科创板龙头企业晒账本：AI产业链景气正变成利润。从AI算力芯片、存储和高速互联，到创新药、介入医疗器械，企业以业绩增长、订单储备、研发投入和产能建设，...**
-`虎嗅` · AI · **35分钟前**
-https://www.huxiu.com/moment/1291270.html
+**13. 投资TALK君 (@TJ_Research)**
+`SoPilot 推特起爆帖` · 企业落地 · **2小时前**
+<sub>投资TALK君 (@TJ_Research)</sub>
+https://sopilot.net/hot-tweets?tweetId=2114845384367358453
 
-**18. Show HN：AgentTrust——面向 AI 智能体的零信任安全与人工审批**
-`HN Show HN` · AI · **3小时前**
-<sub>Show HN: AgentTrust – Zero-trust security and human approvals for AI agents</sub>
-> 文章链接：https://github.com/SRN0129/Agenttrust 评论链接：https://news.ycombinator.com/item?id=50235909 点数：2 # 评论：0
-https://github.com/SRN0129/Agenttrust
+**14. 当增长势头变成个人风险：Joonko 认罪协议对创始人意味着什么**
+`Crunchbase 融资板块` · — · **13小时前**
+<sub>When Traction Becomes Personal Exposure: What The Joonko Guilty Plea Means For Founders</sub>
+> 关于客户、收入和 AI 能力的虚假陈述可能使创始人承担个人证券欺诈责任，而 D&O 保险对已成立的违规行为保护有限。特邀作者 Founder Shield 的 Kyle Jeziorski 分享创始人需密切关注的三个保单条款。
+https://news.crunchbase.com/startups/personal-exposure-securities-fraud-joonko-jeziorski-founder-shield/
 
-**19. 以下是最出色的、能住进你短信里的 AI 智能体**
-`TechCrunch` · AI · **昨天**
-<sub>Here are the top AI agents that can live in your text messages</sub>
-> 我们整理了一份最值得关注的、能住进你短信里的 AI agent 名单，从通用助手到面向家庭、旅行和工作的专用 agent。
-https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/
+**15. OpenAI宣布AI取得三项科学突破，涉及数学猜想、计算机算法及千禧年难题。OpenAI宣布，其AI模型在数学、计算机科学和物理学领域取得三项重大突破，展现出AI独立发...**
+`虎嗅` · AI · **2小时前**
+https://www.huxiu.com/moment/1291566.html
 
-**20. 市场寄望大型科技公司兑现 AI 回报**
-`Bloomberg Technology` · 资本市场 · **12小时前**
-<sub>Markets Look to Big Tech for AI Payoff</sub>
-> 在 Bloomberg This Weekend 节目中，MetLife Investment Management 首席市场策略师 Drew Matus 分析 AI 投资如何驱动市场、企业支出和美国经济部分领域，而投资者正从大型科技公司财报中寻找支出将带来回报的证据。Matus 与主持人 David Gura 和 Christina Ruffini 对话，讨论科技投资上升带来的风险，以及市场所需
-https://www.bloomberg.com/news/videos/2026-10-25/markets-look-to-big-tech-for-ai-payoff-video
+**16. Anthropic 正式提交公开上市申请**
+`TechCrunch` · AI/企业落地 · **9小时前**
+<sub>Anthropic officially files for its public debut</sub>
+> Anthropic 已正式提交 IPO 申请，披露收入飙升、亏损扩大、企业采用强劲，以及一种旨在保留创始人控制权和 AI 安全使命的特殊治理结构。
+https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/
 
-**21. TauricResearch / TradingAgents**
-`GitHub Trending` · AI · **刚刚**
-<sub>TauricResearch /      TradingAgents</sub>
-> TradingAgents：多智能体 LLM 金融交易框架
-https://github.com/TauricResearch/TradingAgents
+**17. Show HN：AgentReel——20 分钟从 500 个片段剪成 1 个成片**
+`HN Show HN` · AI · **1小时前**
+<sub>Show HN: AgentReel – from 500 Clips to 1 Cut in 20 min</sub>
+> 文章链接：https://agentreel.co 评论链接：https://news.ycombinator.com/item?id=50252342 点数：2 评论数：0
+https://agentreel.co
 
-**22. 夏清风（浇朋友） (@xiaqingfeng666)**
-`SoPilot 推特起爆帖` · — · **7小时前**
-https://sopilot.net/hot-tweets?tweetId=2114406673964228658
+**18. OpenAI 推出更便宜的 Terra 模型，正值 Anthropic 价格战之际**
+`The Information` · AI/企业落地 · **3小时前**
+<sub>OpenAI Unveils Cheaper Terra Model Amid Anthropic Pricing Battle</sub>
+https://www.theinformation.com/briefings/openai-unveils-cheaper-terra-model-amid-anthropic-pricing-battle
 
-**23. 拼多多的商业壁垒（护城河）是什么？**
-`热搜-知乎` · 商业认知 · **刚刚**
-https://www.zhihu.com/question/414761725
+**19. 车联网联邦学习中的干净标签投毒攻击与防御博弈**
+`arXiv cs.AI` · 资本市场/个人成长 · **20小时前**
+<sub>Clean-label Poisoning Attack and Defense Game for Federated Learning in Vehicular Networks</sub>
+> arXiv:2610.32765v1 公告类型：交叉 摘要：本文研究车联网中基于联邦学习（FL）的干净标签投毒攻击与防御之间的交互。用于异常检测的基本安全消息（BSM）分类被建模为动态拓扑车联网上的分布式学习问题。作为 FL 的关键威胁，特征空间干净标签攻……
+https://arxiv.org/abs/2610.32765
 
-**24. 卢拉赢得大选，巴西及新兴市场资产或将迎来冲击。Polymarket 和 Kalshi 预测市场的押注者严重误判巴西总统大选结果，目前卢拉被预判赢得选举。巴西雷亚尔期货下...**
-`虎嗅` · 资本市场 · **17分钟前**
-https://www.huxiu.com/moment/1291275.html
+**20. Anthropic 招股书披露生态打法：打造高粘性企业客户体系**
+`IT之家` · AI/企业落地 · **刚刚**
+https://www.ithome.com/1/018/198.htm
 
-**25. Show HN：面向编码智能体的 3D 网格试验场（three.js + manifold-3d）**
-`HN Show HN` · AI · **29分钟前**
-<sub>Show HN: A 3D mesh playground for coding agents (three.js + manifold-3d)</sub>
-> 最近 GPT-6/Gemini 发布时，很多 3D 演示都用 blender-mcp（https://github.com/ahujasid/blender-mcp ）。这很酷，但你得在本地安装 Blender 并配置插件，才能试一句 prompt 或分享一次运行。我做了个浏览器端的 3D 网格试验场，你可以在一个标签页里通过 MCP 接入自己的编码智能体（或直接在浏览器内运行）。它基于 thre
-https://sketchagent.dev/s/yfYU6LhT
+**21. Fanatics 和 OpenAI 如何简化球迷体验**
+`OpenAI News` · AI · **17小时前**
+<sub>How Fanatics and OpenAI streamline the fan experience</sub>
+> Fanatics 使用 OpenAI 通过 Shop the Look 帮助球迷搭配比赛日穿搭。在约 30,000 件 MLB 商品上的测试显示互动率提高 10%。
+https://openai.com/index/fanatics-streamline-fan-experience
 
-**26. 《网络自私》作者在著作重见天日之际抨击技术自由意志主义**
-`TechCrunch` · — · **4小时前**
-<sub>‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead</sub>
-> “那是十二岁小孩的世界观。”
-https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/
+**22. 美股三大指数集体收涨**
+`热搜-百度` · 资本市场 · **刚刚**
+https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E6%B6%A8
 
-**27. Anthropic 的重大揭晓**
-`The Information` · AI · **2小时前**
-<sub>Anthropic’s Big Reveal</sub>
-https://www.theinformation.com/articles/anthropics-big-reveal
+**23. 宝玉 (@dotey)**
+`SoPilot 推特起爆帖` · AI · **5小时前**
+https://sopilot.net/hot-tweets?tweetId=2114790675279413738
 
-**28. AI“专属保险”：全国首个人工智能应用风险综合保障方案正式发布**
-`IT之家` · AI · **刚刚**
-https://www.ithome.com/1/017/726.htm
+**24. 加州初创公司 2026 年迄今融资额已超过美国以往任何单年总额**
+`Crunchbase 融资板块` · — · **13小时前**
+<sub>California Startups Have Raised More So Far In 2026 Than The Entire US Ever Has In A Single Year</sub>
+> 加州公司今年已吸纳全美初创融资的四分之三以上。根据 Crunchbase 数据，这似乎是创纪录的份额。别忘了：今年还剩两个月。
+https://news.crunchbase.com/venture/california-startups-most-us-funding-2026-openai-anthropic/
 
-**29. 机器人老板们烧香、磕头、翻旧账**
-`热搜-百度` · 商业认知 · **刚刚**
-https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%80%81%E6%9D%BF%E4%BB%AC%E7%83%A7%E9%A6%99%E3%80%81%E7%A3%95%E5%A4%B4%E3%80%81%E7%BF%BB%E6%97%A7%E8%B4%A6
+**25. Anthropic申请上市，或成“史上最大IPO”**
+`财新` · AI/商业认知 · **1小时前**
+https://finance.caixin.com/2026-10-27/102497623.html
 
-**30. 中央气象台：孟湾风暴将影响西藏南部，网传“气旋撞击喜马拉雅”说法不实。日前，自媒体“气旋风暴追踪”等账号发布视频消息称，10月26日至31日孟加拉湾将生成热...**
-`虎嗅` · 自媒体 · **1小时前**
-https://www.huxiu.com/moment/1291259.html
+**26. Anthropic IPO 文件中的五个奇怪细节**
+`The Verge` · AI/商业认知 · **7小时前**
+<sub>Five weird details from Anthropic’s IPO filing</sub>
+> Anthropic 终于向 SEC 提交了 S-1 招股书。这份文件旨在让投资者深入了解其业务内情，从高管薪酬、IPO 募资数十亿美元的使用计划，到可能阻碍其雄心的风险。文件超过 300 页，有很多内容可 […]
+https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details
 
-**31. Show HN：我做了个 AI 智能体，趁我睡觉时到 Telegram 上找客户**
-`HN Show HN` · AI · **2小时前**
-<sub>Show HN: I built an AI agent to find customers on Telegram while I sleep</sub>
-> 文章链接：https://opensparta.com/en 评论链接：https://news.ycombinator.com/item?id=50236396 点数：2 # 评论：0
-https://opensparta.com/en
+**27. Show HN：在一个模拟市场上，用一个晚上玩转十年选股**
+`HN Show HN` · 资本市场 · **3小时前**
+<sub>Show HN: Play ten years of stock picking in an evening, on a simulated market</sub>
+https://stockpickersgame.com
 
-**32. 宾夕法尼亚州将要求AI生成的广告加注标签**
-`The Verge` · 资本市场 · **昨天**
-<sub>Pennsylvania will require labels on AI-generated ads</sub>
-> 周四，宾夕法尼亚州州长乔什·夏皮罗签署了《人工智能欺骗性广告法》，要求对AI生成的广告进行披露。该法律要求任何广告——无论是静态图像、视频、音频还是文字——只要“经过人工智能显著修改或生成”，就必须以相同格式包含标签[…]
-https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act
+**28. Anthropic 的 IPO 为华尔街和 AI 热潮带来决定性时刻**
+`Bloomberg Technology` · AI/商业认知 · **1小时前**
+<sub>Anthropic’s IPO Sets Up Defining Moment for Wall Street and AI Boom</sub>
+> Anthropic PBC 的首次公开募股揭示了数万亿美元 AI 热潮商业模式的鲜明两极：惊人的增长，伴随需求的不确定性，以及继续开发该技术所需的支出。这家初创公司周一公开提交了 IPO 文件，有望成为首家专注构建 AI 软件的美国大型公司，从而[……]
+https://www.bloomberg.com/news/articles/2026-10-26/anthropic-s-ipo-sets-up-defining-moment-for-wall-street-and-ai-boom
 
-**33. AI支出担忧恐将淹没大型科技公司的强劲财报**
-`Bloomberg Technology` · 资本市场 · **11小时前**
-<sub>AI Spending Fears Threaten to Swamp Big Tech’s Strong Earnings</sub>
-> 全球三家最大且最重要的科技公司预计将在本周公布财报时展现出稳健增长。
-https://www.bloomberg.com/news/articles/2026-10-25/ai-spending-fears-threaten-to-swamp-big-tech-s-strong-earnings
+**29. 可复现评估：生产环境代理中安全提示压缩的基础**
+`arXiv cs.AI` · AI/资本市场 · **20小时前**
+<sub>Reproducible Evaluation as the Substrate for Safe Prompt Compression in Production Agents</sub>
+> arXiv:2610.31972v1 公告类型：新 摘要：评估基于实时、可变企业数据行动的对话代理很难：重放会话会随后端状态变化而漂移，今天构建的基准也会在其描述的数据变化时悄然过时。我们提出一种用于生产对话代理的离线评估工具，尽管其操作的是实时数据，仍保持可复现。
+https://arxiv.org/abs/2610.31972
 
-**34. 【点金互动易】人形机器人+液冷，布局灵巧手驱动的腱绳及护套材料并已小批量销售，这家公司通过收购切入AI算力液冷散热赛道，打造第二增长曲线**
-`财联社` · AI · **刚刚**
-https://www.cls.cn/detail/2514481
+**30. Anthropic向美国SEC提交上市文件后，预测市场交易者认为其今年IPO几乎已成定局**
+`华尔街见闻快讯` · AI/商业认知 · **刚刚**
+https://wallstreetcn.com/livenews/3186516
 
-**35. 强烈建议给家里老人用苹果手机**
-`热搜-微博` · — · **刚刚**
-https://s.weibo.com/weibo?q=%E5%BC%BA%E7%83%88%E5%BB%BA%E8%AE%AE%E7%BB%99%E5%AE%B6%E9%87%8C%E8%80%81%E4%BA%BA%E7%94%A8%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&t=31&band_rank=13&Refer=top
+**31. Ultrafast 如何在 OpenAI 将事件调查从数小时缩短到数分钟**
+`OpenAI News` · AI · **17小时前**
+<sub>How Ultrafast cut incident investigation from hours to minutes at OpenAI</sub>
+> 了解 OpenAI 工程师如何使用 Codex Ultrafast 在数分钟内调查事件。探索更快的安全分析、代码重构和日常工作流。
+https://openai.com/index/openai-cut-incident-investigation
 
-**36. 聚焦存储、算力等领域 前三季度深圳相关新增中长期贷款超千亿元**
-`财新` · AI · **17分钟前**
-https://finance.caixin.com/2026-10-25/102497147.html
+**32. 博主谈综艺offer8：临床不是秀场**
+`热搜-头条` · 自媒体 · **刚刚**
+https://www.toutiao.com/trending/7700944444228374052/
 
-**37. AgentGrid.io**
-`Product Hunt` · AI · **5分钟前**
-<sub>AgentGrid.io</sub>
-https://www.producthunt.com/products/agentgrid-io
+**33. Alan Chen (@alanchen)**
+`SoPilot 推特起爆帖` · — · **2小时前**
+<sub>Alan Chen (@alanchen)</sub>
+https://sopilot.net/hot-tweets?tweetId=2114845009099014276
 
-**38. Apollo经济学家称AI对多数公司带来“零财务回报”**
-`TechCrunch` · — · **7小时前**
-<sub>AI delivers ‘zero financial payoff’ to most companies, Apollo economist says</sub>
-> “尽管人工智能领域投入巨大且备受炒作，但这项技术除科技行业外，并未给美国企业带来任何财务回报。”
-https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/
+**34. 互联网的终结**
+`Stratechery` · — · **14小时前**
+<sub>The End of the Internet</sub>
+> 任何人都能托管服务器的旧互联网已经结束，但这只是多年来早已酝酿的终结的最后一击。不过，未来比看上去更光明。
+https://stratechery.com/2026/the-end-of-the-internet/
 
-**39. 一家Neocloud的风暴将至**
-`The Information` · — · **8小时前**
-<sub>A Neocloud’s Gathering Storm</sub>
-https://www.theinformation.com/articles/neoclouds-gathering-storm
+**35. 巴西股市六年多来首次触发熔断机制。当地时间10月26日，巴西金融市场出现剧烈波动，主要股指大幅下跌，巴西证券交易所启动熔断机制。这是巴西股市自2020年3月以...**
+`虎嗅` · 资本市场 · **4小时前**
+https://www.huxiu.com/moment/1291560.html
 
-**40. 【研选•研报数据】OpenAI确认下场自研人形机器人，从投资Figure转向自建整机；公司前瞻性布局具身智能与人形机器人前沿领域，持续推进联合测试与小批量供货**
-`财联社` · AI · **刚刚**
-https://www.cls.cn/detail/2512966
+**36. OpenAI 宣布三项重大科学发现及与学术界合作的新方式**
+`The Verge` · AI · **44分钟前**
+<sub>OpenAI announces three big science discoveries and a new way to work with academics</sub>
+> 在声称包含长期数学问题解决方案的数百篇手稿大规模发布后不到一个月，OpenAI 又带来数学、计算机科学和物理学领域的另外三项“重大”发现。这次不同之处在于，OpenAI 选择让外部专家——其称之为“牧羊人”——指导相关成果[……]
+https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics
+
+**37. @xnyeisha：我在看《The Coldest Winter Ever》电影，这 AI 玩意儿太离谱了。Midnight 和我 12 岁读这本书时想象的一样帅😂……**
+`Threads-AI讨论` · AI · **3小时前**
+<sub>@xnyeisha: i'm watching The Coldest Winter Ever movie & this AI sht is crazy. Midnight is fine as my 12 yr old self imagined when i read the book😂...</sub>
+> @xnyeisha：我在看《The Coldest Winter Ever》电影，这 AI 玩意儿太离谱了。Midnight 和我 12 岁读这本书时想象的一样帅😂🙈 ▓▓。
+https://www.threads.com/t/De-NpnlHNEz
+
+**38. Anthropic 的 IPO 揭示了 AI 热潮的什么：实时问答**
+`Bloomberg Technology` · AI/商业认知 · **3小时前**
+<sub>What Anthropic’s IPO Reveals About the AI Boom: Live Q&A</sub>
+> Anthropic 的 IPO 难得地展示了前沿 AI 业务的内情。Bloomberg 记者将于美国东部时间 10 月 27 日周二下午 1 点在互动直播问答中回答你的问题。
+https://www.bloomberg.com/sessions/2026-10-27/live-q-amp-a-what-anthropic-s-ipo-reveals-about-the-ai-boom
+
+**39. 超越最终结果：量化多代理 LLM 交互中的主张级信息动态**
+`arXiv cs.CL` · AI · **20小时前**
+<sub>Beyond Final Outcomes: Quantifying Claim-Level Information Dynamics in Multi-Agent LLM Interaction</sub>
+https://arxiv.org/abs/2610.32333
+
+**40. IT早报 1027：人类史上最大 IPO 之 Anthropic 提交 IPO 申请；5499 元起苹果 iPad mini 8 发布；奥迪中国四环与字母标分家；多所高校将通过数字人民币发工资...**
+`IT之家` · AI/商业认知 · **刚刚**
+https://www.ithome.com/1/018/205.htm
