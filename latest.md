@@ -1,215 +1,211 @@
-# 信源日报 2026-10-28
+# 信源日报 2026-10-29
 
-68 源 · 储备 1138 条 · 精选 40 条（仅限 48 小时内）
+68 源 · 储备 1182 条 · 精选 40 条（仅限 48 小时内）
 
 ---
 
-**1. Retell 使用 OpenAI 模型支撑每月 1 亿次通话**
-`OpenAI News` · AI · **9小时前**
+**1. OpenAI 与 ServiceNow 扩大合作，覆盖企业工作流**
+`OpenAI News` · AI · **11小时前**
+<sub>OpenAI and ServiceNow expand partnership across enterprise workflows</sub>
+> OpenAI 与 ServiceNow 扩大合作，将 OpenAI 模型和智能体引入 ServiceNow，并让 ServiceNow 工作流接入 ChatGPT 和 Codex。
+https://openai.com/index/openai-servicenow-partnership-expansion
+
+**2. lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） (@lidangzzz)**
+`SoPilot 推特起爆帖` · AI · **4小时前**
+https://sopilot.net/hot-tweets?tweetId=2115530543655702862
+
+**3. 拓荆科技，Q3净利环比增长40%。拓荆科技发布2026年第三季度财报。公告称，该公司第三季度营业收入为23.08亿元，同比增长1.84%；归属于上市公司股东的净利润为10....**
+`虎嗅` · 商业认知/资本市场 · **15分钟前**
+https://www.huxiu.com/moment/1292183.html
+
+**4. 微软从 OpenAI 获得 100 亿美元收入**
+`TechCrunch` · AI/企业落地 · **2小时前**
+<sub>Microsoft recorded $10 billion in revenue from OpenAI</sub>
+> 微软表示，在截至 9 月 30 日的季度中，其与 OpenAI 的商业安排（包括收入分成付款）带来了 100 亿美元收入。这凸显出该合作关系仍存在巨大的财务依赖。
+https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/
+
+**5. 美股收盘：SK海力士涨超13%**
+`热搜-百度` · 资本市场 · **刚刚**
+https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9ASK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%B6%A8%E8%B6%8513%25
+
+**6. Trigger.dev：为你的 AI 智能体提供 Webhooks**
+`Product Hunt` · AI · **48分钟前**
+<sub>Trigger.dev: Webhooks for your AI agents</sub>
+https://www.producthunt.com/products/trigger-dev
+
+**7. 在 LLM 驱动的智能体脚手架演化中，评估预算应投向何处？**
+`arXiv cs.CL` · AI/资本市场 · **20小时前**
+<sub>Where Should the Evaluation Budget Go in LLM-Driven Agent Scaffold Evolution?</sub>
+> arXiv:2610.37276v1 公告类型：cross 摘要：大语言模型（LLM）驱动的智能体脚手架演化通过迭代式候选生成与评估来改进智能体工作流。评估既指导后续搜索，也决定最终脚手架，但在完整任务集上评估每个候选会带来大量执行成本。我们研究评估预算如何能够被……
+https://arxiv.org/abs/2610.37276
+
+**8. FuriosaAI 估值翻两番至 29 亿美元，追击 Nvidia**
+`Bloomberg Technology` · AI/资本市场 · **1小时前**
+<sub>FuriosaAI Quadruples Valuation to $2.9 Billion in Nvidia Chase</sub>
+> 韩国 AI 芯片初创公司 FuriosaAI 在新一轮融资中估值翻两番，达到 29 亿美元，增强其挑战 Nvidia Corp. 等公司的实力。
+https://www.bloomberg.com/news/articles/2026-10-28/furiosaai-quadruples-valuation-to-2-9-billion-in-nvidia-chase
+
+**9. 美联储发布 FOMC 声明**
+`美联储 新闻稿` · 资本市场 · **6小时前**
+<sub>Federal Reserve issues FOMC statement</sub>
+> 美联储发布 FOMC 声明
+<![CDATA[https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm]]>
+
+**10. 隐形图谱：企业如何实现收入增长却仍在损失价值**
+`Crunchbase News` · 企业落地 · **13小时前**
+<sub>The Invisible Graph: How Companies Grow Revenue And Still Lose Value</sub>
+> 收入增长并不保证更大的退出规模，因为估值倍数下降可能盖过经营收益并降低企业价值。客座作者 Itay Sagie 建议，创始人和董事会应将估值与财务表现一并跟踪，模拟推迟出售的影响，并在业务强劲、买家兴趣有利时就开始为并购做准备。
+https://news.crunchbase.com/ma/grow-revenue-lose-enterprise-value-sagie/
+
+**11. 【点金互动易】3A游戏+AI视频，首款3A游戏已在制作过程中，参股企业拥有生成式AI和大语言模型技术，并是英伟达战略合作伙伴，这家公司探索向IP运营商转型**
+`财联社` · AI/商业认知 · **刚刚**
+https://www.cls.cn/detail/2518364
+
+**12. Retell 使用 OpenAI 模型支撑每月 1 亿次通话**
+`OpenAI News` · AI · **昨天**
 <sub>Retell uses OpenAI models to help power 100M monthly calls</sub>
 > GPT-6 Astra 在 Retell 的语音智能体基准测试中位居第一，而 Codex 助其达到每名员工 160 万美元的年化收入。
 https://openai.com/index/retell-ai
 
-**2. Show HN：Agent Skills——面向编程智能体和营销人员的 51 个 SKILL.md 工作流**
-`HN Show HN` · AI/资本市场 · **4小时前**
-<sub>Show HN: Agent Skills – 51 SKILL.md workflows for coding agents and marketers</sub>
-> 文章链接：https://github.com/milad-ahmd/agent-skills 评论链接：https://news.ycombinator.com/item?id=50265176 点数：2 评论数：0
-https://github.com/milad-ahmd/agent-skills
+**13. 美股仙人（全网吹存第一人） (@hanking66)**
+`SoPilot 推特起爆帖` · 资本市场 · **2小时前**
+https://sopilot.net/hot-tweets?tweetId=2115568473569103966
 
-**3. Anthropic科学家宣布：全球博士生职业生涯一夜清零**
-`36氪 热榜` · AI/个人成长 · **23小时前**
-https://www.36kr.com/p/4042952793805952
+**14. 现实版「思想钢印」， Anthropic惊悚实验曝光，86%顶尖专家关键决策被AI控制**
+`36氪 热榜` · AI · **20小时前**
+https://www.36kr.com/p/4045003602007172
 
-**4. DeepSeek 新版模型单周调用量登顶全球首位，环比暴增 801%，该模型为什么能实现登顶？意味着什么？**
-`热搜-知乎` · AI · **刚刚**
-https://www.zhihu.com/question/2098096577525172086
+**15. 语音 AI 走红：Nvidia 发布新的开放转写模型**
+`TechCrunch` · AI · **9小时前**
+<sub>Voice AI in vogue: Nvidia releases new open transcription model</sub>
+> Nvidia 刚发布了一款免费语音转文字模型，可转写多达 40 种语言，但它只适用于录音，不适用于实时音频，因此这对会议和医疗转写工具是一大进步，但实时场景仍留给 ElevenLabs 等竞争对手。
+https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/
 
-**5. 父母起诉 OpenAI，称 GPT-4o 指导其女儿停用癫痫药物**
-`TechCrunch` · AI · **57分钟前**
-<sub>Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication</sub>
-> 一个家庭起诉 OpenAI，称 ChatGPT 指导他们的女儿悄悄逐步停用癫痫药物，并在她于 2 月去世前向医生隐瞒此事。
-https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/
+**16. 一张全国算力网重塑生产生活**
+`热搜-抖音` · AI · **刚刚**
+https://www.douyin.com/hot/2718233
 
-**6. 山景城小路 (@Zen_with_AI)**
-`SoPilot 推特起爆帖` · AI · **3小时前**
-https://sopilot.net/hot-tweets?tweetId=2115190048941559873
+**17. @google：认识 Gemini 4 Carbon，我们最新的前沿模型 🚀 ✨ 专为持续运行的智能体工作流打造，Carbon 是我们最强的模型，具备最先进的……**
+`Threads-AI讨论` · AI · **7小时前**
+<sub>@google: Meet Gemini 4 Carbon, our latest frontier model 🚀 ✨ Built for sustained agentic workflows, Carbon is our strongest model with state-of-th...</sub>
+> @google：认识 Gemini 4 Carbon，我们最新的前沿模型 🚀 ✨ 专为持续运行的智能体工作流打造，Carbon 是我们最强的模型，具备最先进的网络安全和长时程能力。它在各领域都实现了性能提升——具有更强的一致性、透明度和执行到底的能力，以应对高压任务。从本周开始，我们将把 Carbon 推广到网络防御……
+https://www.threads.com/t/DfC7pozkSrh
 
-**7. OpenAI 推出更便宜的 Terra 模型，正值 Anthropic 价格战之际**
-`The Information` · AI/企业落地 · **5分钟前**
-<sub>OpenAI Unveils Cheaper Terra Model Amid Anthropic Pricing Battle</sub>
-https://www.theinformation.com/briefings/openai-unveils-cheaper-terra-model-amid-anthropic-pricing-battle
+**18. GEPA-Curator：面向自我改进智能体的精选学习**
+`arXiv cs.CL` · AI/资本市场/个人成长 · **20小时前**
+<sub>GEPA-Curator: Curated Learning for Self Improving Agents</sub>
+https://arxiv.org/abs/2610.37651
 
-**8. 关于 Anthropic IPO 申报的一些观察**
-`Crunchbase News` · AI/商业认知 · **昨天**
-<sub>Some Observations About Anthropic’s IPO Filing</sub>
-> 在今日提交的 S-1 文件中——这可能是有史以来最大 IPO 的前奏——Anthropic 详细披露了收益、增长、关键利益相关方及未来风险。文件长达 335 页，绝非轻松读物。不过，在初步浏览中，我们重点列出一些更有趣的披露。
-https://news.crunchbase.com/public/anthropic-ipo-filing-ai-earnings-growth-risks/
+**19. 纽交所的 Martin 表示，IPO 管道因 Anthropic 上市而受阻**
+`The Information` · AI/商业认知 · **31分钟前**
+<sub>IPO Pipeline Held Back by Anthropic Listing, Says NYSE’s Martin</sub>
+https://www.theinformation.com/briefings/ipo-pipeline-held-back-anthropic-listing-says-nyses-martin
 
-**9. 持续学习测试：基准评测 LLM 智能体中的长时程 RSI 与经验学习**
-`arXiv cs.CL` · AI/个人成长 · **20小时前**
-<sub>Continual Learning Exam: Benchmarking Long-Horizon RSI and Experiential Learning in LLM Agents</sub>
-> arXiv:2610.33956v1 公告类型：cross 摘要：持续学习是 LLM 智能体随时间提升的能力：从经验中获取、提炼并应用知识，同时保留有用的先验知识。它对长时程学习的智能体至关重要，但当前评估大多衡量单个任务表现，而非通过积累经验带来的提升。
-https://arxiv.org/abs/2610.33956
+**20. Alex Lee 如何成为 Magic Patterns 的第一位工程师**
+`Y Combinator Blog` · AI · **21小时前**
+<sub>How Alex Lee became the first engineer at Magic Patterns</sub>
+> Alex Lee 离开自己的初创公司，作为创始工程师加入 Magic Patterns——并在一个周末内构建了幻灯片功能。
+https://www.ycombinator.com/blog/how-alex-lee-became-the-first-engineer-at-magic-patterns/
 
-**10. Anthropic PBC：拓展我们与美国总务管理局（GSA）的合作伙伴关系。
+**21. 全球 AI 基建风向标：英伟达于太平洋时间 11 月 17 日公布 2027 财年第 3 财季财报**
+`IT之家` · AI/资本市场 · **刚刚**
+https://www.ithome.com/1/019/263.htm
 
-Claude产品折扣范围扩大至州、地方、部落及领地政府。
-
-还启动了一项专门计划，帮助各机构实施并充分利用Claude。
-
-Claude Enterprise正通过FedRAMP 20X项目接受FedRAMP Moderate授权认证。**
-`华尔街见闻快讯` · AI/资本市场 · **刚刚**
-https://wallstreetcn.com/livenews/3187948
-
-**11. OpenAI 扩大与 Oracle 的合作，将其应用引入 ChatGPT**
-`OpenAI News` · AI · **17小时前**
+**22. OpenAI 扩大与 Oracle 的合作，将其应用引入 ChatGPT**
+`OpenAI News` · AI · **昨天**
 <sub>OpenAI expands partnership with Oracle to bring its apps to ChatGPT</sub>
 > OpenAI 与 Oracle 正扩大合作，将业务应用和 AI 智能体引入 ChatGPT，并为 Oracle 的新产品提供支持。
 https://openai.com/index/oracle-apps-in-chatgpt
 
-**12. @fullmoonteacompany：我今天看到一个新兴散叶茶品牌，包装明显是把生成式 AI 图像标签贴在牛皮纸袋上。一个……**
-`Threads-AI讨论` · AI · **1小时前**
-<sub>@fullmoonteacompany: I saw a new loose leaf tea brand today and the packaging is very obviously generative AI artwork on labels stuck to kraft bags. A...</sub>
-> @fullmoonteacompany：我今天看到一个新兴散叶茶品牌，包装明显是把生成式 AI 图像标签贴在牛皮纸袋上。而人们还对其包装之美赞不绝口。这让我陷入小小的存在主义危机。😂 我为自己的茶叶包装投入了大量时间、思考和用心。与设计师合作，反复琢磨颜色、字体和插画……
-https://www.threads.com/t/DfA_BnXIKYj
-
-**13. 刚刚，Anthropic公开招股书：史上最大IPO，半年狂揽163亿美元**
-`36氪 热榜` · AI/商业认知 · **23小时前**
-https://www.36kr.com/p/4042929382872200
-
-**14. 反诈博主「徽剑」遇害家属称被逼签谅解书，还有哪些信息值得关注？**
-`热搜-知乎` · 自媒体 · **刚刚**
-https://www.zhihu.com/question/2098520029004292144
-
-**15. IPO 之后，Anthropic 真正由谁掌舵？**
-`TechCrunch` · AI/商业认知 · **2小时前**
-<sub>Who’s really in charge at Anthropic after the IPO?</sub>
-> 这里清晰解释了 Anthropic 极其复杂的治理结构。
-https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/
-
-**16. Balder（@Balder13946731）**
-`SoPilot 推特起爆帖` · AI · **6小时前**
+**23. Balder（@Balder13946731）**
+`SoPilot 推特起爆帖` · AI · **3小时前**
 <sub>Balder (@Balder13946731)</sub>
-https://sopilot.net/hot-tweets?tweetId=2115139000449319054
+https://sopilot.net/hot-tweets?tweetId=2115547170053185817
 
-**17. 长期作为 Nvidia 客户的 OpenAI 计划购买 Google 的 AI 芯片**
-`The Information` · AI · **1分钟前**
-<sub>OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips</sub>
-https://www.theinformation.com/articles/openai-longtime-nvidia-customer-plans-buy-googles-ai-chips
+**24. Anthropic 内部系统被 AI Agent 12 小时攻破！会议记录、员工薪酬、内部模型讨论遭访问**
+`InfoQ 中文` · AI · **6小时前**
+https://www.infoq.cn/article/mFXr0u4z0XftUGUg5Wm7?utm_source=rss&amp;utm_medium=article
 
-**18. 你的 AI 智能体也需要一位首席运营官**
-`Crunchbase News` · AI · **13小时前**
+**25. 微软刚刚公布了 Azure 的实际收入：332 亿美元**
+`TechCrunch` · 企业落地 · **2小时前**
+<sub>Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion</sub>
+> 微软从未以美元披露 Azure 的季度收入。但如今我们首次可以看到，它距离击败市场上最大竞争对手 AWS 究竟有多近。
+https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/
+
+**26. 我国智能算力规模全球第二**
+`热搜-抖音` · AI · **刚刚**
+https://www.douyin.com/hot/2718237
+
+**27. OpenLLM**
+`Product Hunt` · AI · **25分钟前**
+<sub>OpenLLM</sub>
+https://www.producthunt.com/products/openllm
+
+**28. AutoVend：在长时程自主售货运营中测评 LLM 智能体**
+`arXiv cs.CL` · AI · **20小时前**
+<sub>AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations</sub>
+> arXiv:2610.36980v1 公告类型：cross 摘要：大语言模型（LLM）智能体正在把 Web 上由智能体介导的商务从面向消费者的购物扩展到为卖家经营业务。在线上到线下（O2O）商务中，决策通过基于 Web 的平台发出，却通过成本高昂的物理执行来实现。评估此类智能体需要超越单笔交易……
+https://arxiv.org/abs/2610.36980
+
+**29. 微软营收增长略有加速，但数据中心拖累现金流**
+`The Information` · 企业落地/资本市场 · **32分钟前**
+<sub>Microsoft Revenue Growth Accelerates Slightly But Data Centers Dampen Cash Flows</sub>
+https://www.theinformation.com/briefings/microsoft-revenue-growth-accelerates-slightly-data-centers-dampen-cash-flows
+
+**30. 你的 AI 智能体也需要一位首席运营官**
+`Crunchbase News` · AI · **昨天**
 <sub>Your AI Agents Need A Chief Operating Officer, Too</sub>
 > 扩大 AI 智能体规模，需要像对待受监管岗位的员工一样对待它们：有成文规则、明确职责，并指定一名对其绩效负责的人类管理者。客座作者、Get Covered 首席运营官 Rick Folgmann 表示，公司应从中已由既定规则约束的任务开始，根据各工作流风险调整自主性，并在扩展前定期审查结果。
 https://news.crunchbase.com/real-estate-property-tech/agentic-ai-staffing-coo-folgmann-get-covered/
 
-**19. MemComposer：通过强化学习为 LLM 智能体学习组装记忆**
-`arXiv cs.CL` · AI/个人成长 · **20小时前**
-<sub>MemComposer: Learning to Assemble Memories for LLM Agents via Reinforcement Learning</sub>
-> arXiv:2610.21091v2 公告类型：replace-cross 摘要：智能体记忆使大语言模型（LLM）智能体无需更新参数即可复用过往经验。然而，仅靠语义相似度并不能保证记忆有用：下游表现取决于记忆如何被选择并呈现给智能体。我们提出 MemComposer，一种记忆组装器，联合考察……
-https://arxiv.org/abs/2610.21091
+**31. 财联社10月29日电，美股股指期货扩大跌幅，其中纳指期货跌1.2%。**
+`财联社` · 资本市场 · **刚刚**
+https://www.cls.cn/detail/2518572
 
-**20. 英伟达投资印度初创公司 Simplismart，助力企业用更少 GPU 运行 AI 模型**
-`IT之家` · AI · **刚刚**
-https://www.ithome.com/1/018/726.htm
+**32. Legora 正在打造面向法律工作的智能体操作系统**
+`OpenAI News` · AI · **15小时前**
+<sub>Legora is building the agentic operating system for legal work</sub>
+> 了解 Legora 如何利用 OpenAI 模型、ChatGPT 和 Codex 加速法律工作流程、扩展合同分析，并让律师腾出精力专注于更高价值的工作。
+https://openai.com/index/legora
 
-**21. Anthropic 已就其拟议 IPO 向 SEC 提交 S-1 注册声明。阅读更多：https://www.anthropic.com/news/s1-sec 法律免责……**
-`X-Anthropic` · AI/商业认知 · **昨天**
-<sub>Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO. Read more: https://www.anthropic.com/news/s1-sec Legal dis...</sub>
-> Anthropic 已就其拟议 IPO 向 SEC 提交 S-1 注册声明。阅读更多：https://www.anthropic.com/news/s1-sec 法律免责声明：与这些证券相关的注册声明已提交 SEC，但尚未生效。在注册声明生效之前，不得出售这些证券，也不得接受购买要约。
-https://x.com/AnthropicAI/status/2114705042817110293
+**33. dli 🇺🇸 (@dliphotos)**
+`SoPilot 推特起爆帖` · AI · **1小时前**
+<sub>dli 🇺🇸 (@dliphotos)</sub>
+https://sopilot.net/hot-tweets?tweetId=2115574334614118726
 
-**22. AllModels**
-`Product Hunt` · AI · **3小时前**
-<sub>AllModels</sub>
-https://www.producthunt.com/products/allmodels-io
+**34. 大客户直接打1折、模型四个月降价80%：大模型价格战没有退路**
+`InfoQ 中文` · AI/企业落地 · **6小时前**
+https://www.infoq.cn/article/ejtljxPixrIuUsGYi5xa?utm_source=rss&amp;utm_medium=article
 
-**23. 英伟达+甲骨文，扩大合作。据媒体当地时间10月27日报道，甲骨文（Oracle）宣布扩大与英伟达的云端AI芯片合作，同时将在其云平台上引入谷歌、Cerebras Systems等...**
-`虎嗅` · AI · **5分钟前**
-https://www.huxiu.com/moment/1291873.html
+**35. 微软连续 10 个季度创下营收纪录**
+`TechCrunch` · 企业落地 · **3小时前**
+<sub>Microsoft hits 10 quarters of record-breaking revenue in a row</sub>
+> 无论 AI 的未来如何，微软当前处境依然非常好。这家科技巨头周三再次公布季度营收创纪录：923 亿美元，同比增长 19%。
+https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/
 
-**24. 深山救助流浪女 实为造假博流量**
-`热搜-百度` · 自媒体 · **刚刚**
-https://www.baidu.com/s?wd=%E6%B7%B1%E5%B1%B1%E6%95%91%E5%8A%A9%E6%B5%81%E6%B5%AA%E5%A5%B3+%E5%AE%9E%E4%B8%BA%E9%80%A0%E5%81%87%E5%8D%9A%E6%B5%81%E9%87%8F
+**36. 算力网加速织就 八大枢纽各展所长**
+`热搜-头条` · AI · **刚刚**
+https://www.toutiao.com/trending/7700943570391580699/
 
-**25. Anthropic IPO 警告其 AI 可能勒索人类、产生意识、终结人类**
-`Ars Technica` · AI/商业认知 · **3小时前**
-<sub>Anthropic IPO warns its AI could blackmail people, become sentient, end humanity</sub>
-> 从 Anthropic 长达 93 页的《风险因素》中摘出的七个潜在 AI 噩梦。
-https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/
+**37. GPT-6.1 Terra**
+`Product Hunt` · AI · **1小时前**
+<sub>GPT-6.1 Terra</sub>
+https://www.producthunt.com/products/openai
 
-**26. rick awsb ($people, $people) (@rickawsb)**
-`SoPilot 推特起爆帖` · AI · **6小时前**
-<sub>rick awsb ($people, $people) (@rickawsb)</sub>
-https://sopilot.net/hot-tweets?tweetId=2115136022652891496
+**38. 联邦反洗钱中的跨银行上下文定价**
+`arXiv cs.AI` · 企业落地/资本市场 · **20小时前**
+<sub>Pricing Cross-Bank Context in Federated Anti-Money Laundering</sub>
+> arXiv:2610.35996v1 公告类型：cross 摘要：大多数基于图的反洗钱（AML）方法假设可以访问包含所有账户和支付的汇总交易图，但这在现实中并不存在。联邦学习提供了必要的隐私保障，但如何有效检测跨越不同图的洗钱模式仍不明确。我们利用 trans
+https://arxiv.org/abs/2610.35996
 
-**27. OpenAI 与 Anthropic 同日宣称取得密码学突破**
-`The Information` · AI · **5分钟前**
-<sub>OpenAI, Anthropic Claim Cryptography Breakthrough on Same Day</sub>
-https://www.theinformation.com/briefings/openai-anthropic-claim-cryptography-breakthrough-day
+**39. 日本信用风险创 2022 年以来最大升幅，令债市承压**
+`Bloomberg Technology` · 资本市场 · **2小时前**
+<sub>Japan Credit Risk Jumps Most Since 2022, Pressuring Bond Market</sub>
+> 全球信用市场恶化正体现在日本：企业信用风险创 2022 年 9 月以来最大恶化，给已在消化创纪录发行量的债券市场增添压力。
+https://www.bloomberg.com/news/articles/2026-10-28/japan-credit-risk-jumps-most-since-2022-pressuring-bond-market
 
-**28. Anthropic S-1：算力成本，谁来买单？**
-`Stratechery` · AI/商业认知 · **13小时前**
-<sub>Anthropic S-1, The Cost of Compute, Who Is Paying?</sub>
-> Anthropic 的 IPO 终于来了；核心业务非常赚钱，但竞争可能吞噬全部利润，而投资者还面临无休止的股权稀释。
-https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/
-
-**29. SLICE-Mem：面向高效 LLM Agent 记忆的显著性门控轻量信息整理**
-`arXiv cs.CL` · AI · **20小时前**
-<sub>SLICE-Mem: Salience-Gated Lightweight Information Curation for Efficient LLM Agent Memory</sub>
-> arXiv:2610.33015v1 公告类型：新 摘要：长期记忆使 LLM Agent 能够维持个性化且时间连贯的交互，但为记忆准入、抽取和组织反复进行 LLM 推理会带来显著成本和延迟。我们提出 SLICE-Mem，一种轻量记忆框架，结合显著性引导的准入和谓词中心……
-https://arxiv.org/abs/2610.33015
-
-**30. 港股上市公司年内回购逾1200亿港元 红利、创新药等板块配置机遇获看好**
-`财联社` · 商业认知/资本市场 · **刚刚**
-https://www.cls.cn/detail/2517212
-
-**31. 我们正在扩大与 @USGSA 的合作。根据新的 OneGov 协议，我们将把 Claude 带给联邦、州、地方、部落和领地政府……**
-`X-Anthropic` · 资本市场 · **2小时前**
-<sub>We're expanding our partnership with @USGSA. Under a new OneGov agreement, we are bringing Claude to federal, state, local, tribal, and territorial go...</sub>
-> 我们正在扩大与 @USGSA 的合作。根据新的 OneGov 协议，我们以 40% 折扣向联邦、州、地方、部落和领地政府提供 Claude。https://www.anthropic.com/news/expanding-partnership-gsa
-https://x.com/AnthropicAI/status/2115207004293853358
-
-**32. Survival LLM：可在你自己的电脑上运行的 AI 助手和应急资料库**
-`Hacker News 前页` · AI · **4小时前**
-<sub>Survival LLM: AI assistant and emergency library that runs on your own computer</sub>
-> 文章 URL：https://www.brangus.io/survival-llm 评论 URL：https://news.ycombinator.com/item?id=50264853 得分：148 # 评论数：92
-https://www.brangus.io/survival-llm
-
-**33. 财新周刊｜Anthropic：AI“吹哨人”背后**
-`财新` · AI · **24分钟前**
-https://weekly.caixin.com/2026-09-19/102486425.html
-
-**34. 自媒体人举报电诈遇害始末**
-`热搜-B站` · 自媒体 · **刚刚**
-https://search.bilibili.com/all?keyword=%E8%87%AA%E5%AA%92%E4%BD%93%E4%BA%BA%E4%B8%BE%E6%8A%A5%E7%94%B5%E8%AF%88%E9%81%87%E5%AE%B3%E5%A7%8B%E6%9C%AB
-
-**35. Anthropic 与华尔街保持距离的周密计划**
-`The Verge` · AI/资本市场 · **7小时前**
-<sub>Anthropic’s elaborate plan to keep Wall Street at bay</sub>
-> Anthropic 想两全其美。随着 IPO 临近，它既想获取公开市场的巨额财富，又坚称不愿牺牲其安全开发 AI、造福人类的核心使命。但更强的模型能力带来更大风险，而渴望回报的股东可能 […]
-https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety
-
-**36. 宝玉 (@dotey)**
-`SoPilot 推特起爆帖` · — · **43分钟前**
-https://sopilot.net/hot-tweets?tweetId=2115229306490126432
-
-**37. Goldman Sachs 将牵头 Anthropic IPO**
-`The Information` · AI/商业认知 · **5分钟前**
-<sub>Goldman Sachs to Lead Anthropic IPO</sub>
-https://www.theinformation.com/briefings/goldman-sachs-lead-anthropic-ipo
-
-**38. Crunchbase 数据显示，Q3 机器人初创企业融资激增 185%，美国和中国引领物理 AI 推进**
-`Crunchbase 融资板块` · — · **13小时前**
-<sub>Crunchbase Data Shows Q3 Robotics Startup Funding Jumps 185% As US And China Lead Physical AI Push</sub>
-> Crunchbase 数据显示，2026 年机器人初创企业的风险投资大幅飙升，大部分资金流向中国和美国的公司。总体而言，根据 Crunchbase 数据，Q3 全球机器人初创企业风险投资总额达 99 亿美元，是 2025 年 Q3 43 亿美元投资额的两倍多。
-https://news.crunchbase.com/venture/q3-2026-us-china-robotics-startup-funding-jumps-physical-ai-push/
-
-**39. GPT-Image-2 在真实场景中：部署首周自报 AI 生成图像的 Twitter 数据集**
-`arXiv cs.AI` · AI/企业落地/资本市场 · **20小时前**
-<sub>GPT-Image-2 in the Wild: A Twitter Dataset of Self-Reported AI-Generated Images from the First Week of Deployment</sub>
-https://arxiv.org/abs/2604.25370
-
-**40. ChatGPT 被指教唆癫痫患者减药致其去世，OpenAI 遭起诉**
-`IT之家` · AI · **刚刚**
-https://www.ithome.com/1/018/719.htm
+**40. 独家：Numeracle 融资 2800 万美元，防止合法商业来电被标记为垃圾电话**
+`Crunchbase 融资板块` · — · **12小时前**
+<sub>Exclusive: Numeracle Raises $28M To Keep Legitimate Business Calls From Spam Label</sub>
+> Numeracle 是一家总部位于弗吉尼亚州麦克莱恩的公司，负责验证企业身份并将其身份与联系客户所用的电话号码关联。该公司已从 Edison Partners 融资 2800 万美元，以帮助那些来电被错误标记为垃圾电话或被电话运营商拦截的企业。
+https://news.crunchbase.com/venture/numeracle-raise-edison-ai-spam-communications-johnson/
