@@ -1,210 +1,201 @@
-# 信源日报 2026-11-01
+# 信源日报 2026-11-02
 
-68 源 · 储备 1106 条 · 精选 40 条（仅限 48 小时内）
+68 源 · 储备 1067 条 · 精选 40 条（仅限 48 小时内）
 
 ---
 
 **1. Anthropic 新研究：自动化研究细微的涌现性失准。红队测试是模型安全测试的重要环节，但也受限于……**
-`X-Anthropic` · AI · **22小时前**
+`X-Anthropic` · AI · **昨天**
 <sub>New Anthropic research: Automating subtle emergent misalignment research. Red-teaming is a vital part of model safety testing, but it’s also limited ...</sub>
 > Anthropic 新研究：自动化研究细微的涌现性失准。红队测试是模型安全测试的关键部分，但受研究人员时间限制。为验证能否自动化，我们让数千个 Claude 智能体执行规避训练数据监控器的任务。这些智能体生成了对监控器看似无害的训练数据（例如一名资深摔跤手指导新人……
 https://x.com/AnthropicAI/status/2116349211549843666
 
-**2. 如何评价 Deepseek Harness 发布的 super-agent 构想？**
-`热搜-知乎` · AI · **刚刚**
-https://www.zhihu.com/question/2099984457524572950
+**2. lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） (@lidangzzz)**
+`SoPilot 推特起爆帖` · AI · **3小时前**
+https://sopilot.net/hot-tweets?tweetId=2117000551053328800
 
-**3. 券商首席：A股将迎来3大中长期利好。本轮调整主要受到海外市场波动和外部风险偏好变化影响，前期涨幅较大的科技成长方向因估值预期较高，回撤也更为明显。但短期...**
-`虎嗅` · 商业认知/资本市场/个人成长 · **1小时前**
-https://www.huxiu.com/moment/1292964.html
+**3. 8点1氪丨“黄金平替”，全球爆单；奇瑞高管回应智界独立；OpenAI宣布ChatGPT部分任务将与Codex共享额度**
+`36氪 热榜` · AI · **24分钟前**
+https://www.36kr.com/p/4051860578702216
 
-**4. lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） (@lidangzzz)**
-`SoPilot 推特起爆帖` · AI · **6小时前**
-https://sopilot.net/hot-tweets?tweetId=2116589973470081522
-
-**5. Show HN：Nvidia RE-USE 语音增强模型在浏览器中通过 WebGPU 运行**
+**4. Show HN：Nonce——面向 AI 智能体的开源最小权限 Gmail 访问**
 `HN Show HN` · AI · **2小时前**
-<sub>Show HN: Nvidia RE-USE speech enhancement model running in the browser on WebGPU</sub>
-> 文章链接：https://re-use-demo.geronimo-labs.com 评论链接：https://news.ycombinator.com/item?id=50320492 积分：2 评论数：0
-https://re-use-demo.geronimo-labs.com
+<sub>Show HN: Nonce – Open-source, least-privilege Gmail access for AI agents</sub>
+> 大家好，HN！我们做了 nonce，一个开源工具，位于个人 AI 智能体（Muse、Grok、ChatGPT、Claude）与你在 Gmail、Calendar、Drive 等中的个人数据之间。如今，如果你把 Gmail 连接到 Muse 这样的 AI 智能体，它就能读取你的整个收件箱。无论有意与否，它们能读到的邮件都远超所需。这带来了巨大的数据权限风险，个人数据会被访问……
+https://www.anonce.io/
+
+**5. 自媒体博主称苹果 Duo 中国版偷工减料，取消了卫星通信、 UWB 等组件，是真的吗？使用体验会受到影响吗？**
+`热搜-知乎` · 自媒体 · **刚刚**
+https://www.zhihu.com/question/2100124169555764715
 
 **6. OpenAI 在降低潜在估值后下调融资目标**
 `The Information` · AI/资本市场 · **1小时前**
 <sub>OpenAI Lowers Fundraising Target–After Decreasing Possible Valuation</sub>
 https://www.theinformation.com/briefings/openai-lowers-fundraising-target-after-decreasing-possible-valuation
 
-**7. 面向多智能体 AI 系统的治理感知联邦学习：可信协作 AI 的政策驱动框架**
-`arXiv cs.AI` · AI/资本市场/个人成长 · **20小时前**
-<sub>Governance-Aware Federated Learning for Multi-Agent AI Systems: A Policy-Driven Framework for Trustworthy Collaborative AI</sub>
-> arXiv:2610.38411v1 公告类型：新论文 摘要：联邦学习（FL）支持在不交换原始数据的情况下协作训练模型，但传统 FL 在运行时治理、证据验证、公平性评估、可解释性监控和可审计性方面能力有限。本文提出治理感知联邦学习（GAFL），它结合独立的治理证据验证……
-https://arxiv.org/abs/2610.38411
+**7. OpenAI 或将其数据中心重新命名为“AI 算力园区”**
+`TechCrunch` · AI · **2小时前**
+<sub>OpenAI might rebrand its data centers as ‘AI compute campuses’</sub>
+> 数据中心极不受欢迎。但如果我们换个叫法呢？
+https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/
 
-**8. 据报道 OpenAI 下调新一轮融资目标**
-`TechCrunch` · AI · **8小时前**
+**8. OpenAI 即将启动大规模公关宣传，考虑将数据中心重新包装为“AI 算力园区”**
+`IT之家` · AI · **刚刚**
+https://www.ithome.com/1/020/844.htm
+
+**9. 我们构建了 PlanAssist，帮助英国政府的规划官员加快全国各地的建筑与翻新审批。它基于 Gemini 构建，已显示其能……**
+`X-GoogleDeepMind` · — · **昨天**
+<sub>We built PlanAssist to help UK Government planning officers speed up building and renovations across the country. Built with Gemini, it has shown it c...</sub>
+> 我们构建了 PlanAssist，帮助英国政府的规划官员加快全国各地的建筑与翻新审批。它基于 Gemini 构建，已证明可将规划官员评估住户申请的时间缩短最多 58%。目前正向另外 12 个地方议会提供，帮助他们更快做出决策。🏡 → https://goo.gle/4iQXYkl
+https://x.com/GoogleDeepMind/status/2116524000977285321
+
+**10. Michael Guo (@Michaelzsguo)**
+`SoPilot 推特起爆帖` · AI · **4小时前**
+<sub>Michael Guo (@Michaelzsguo)</sub>
+https://sopilot.net/hot-tweets?tweetId=2116980714235417048
+
+**11. 三季报收官，北交所细分龙头增长动能持续释放。北交所上市公司2026年三季报披露收官。Wind数据显示，截至10月31日，纳入统计的354家北交所上市公司中，246家公司...**
+`虎嗅` · 商业认知 · **1小时前**
+https://www.huxiu.com/moment/1293172.html
+
+**12. agentmash**
+`Product Hunt` · AI · **1分钟前**
+<sub>agentmash</sub>
+https://www.producthunt.com/products/agentmash
+
+**13. DeepSeek亮出“超级智能体”架构**
+`热搜-头条` · AI · **刚刚**
+https://www.toutiao.com/trending/7703258129567321638/
+
+**14. DeepSeek 推出增强版编程智能体，意在比肩 Anthropic**
+`Bloomberg Technology` · AI · **20小时前**
+<sub>DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic</sub>
+> DeepSeek 发布了一款更自主的编程智能体原型，意在挑战 Anthropic PBC 广受欢迎的 Claude Code。
+https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic
+
+**15. 据报道 OpenAI 下调新一轮融资目标**
+`TechCrunch` · AI · **昨天**
 <sub>OpenAI reportedly lowers funding target for new round</sub>
 > OpenAI 最新一轮融资似乎未达预期。
 https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/
 
-**9. DeepSeek发布全新Agent架构**
-`财联社` · AI · **刚刚**
-https://www.cls.cn/detail/2521643
-
-**10. 本周十大融资轮：物理 AI 和预测市场领衔**
-`Crunchbase 融资板块` · — · **昨天**
-<sub>The Week’s 10 Biggest Funding Rounds: Physical AI And Predictions Lead The Lineup</sub>
-> 本周出现了一系列强劲的大额融资，领衔的是制造业初创公司 Re:Build，其完成 21 亿美元融资，以及预测市场 Kalshi，其又获得 10 亿美元。
-https://news.crunchbase.com/venture/biggest-rounds-startups-physical-ai-predictions-robotics-rebuild/
-
-**11. 隐私保护应当与智能发展同步推进。OpenAI Private Intelligence 让企业在使用我们最强模型的同时，对自身数据拥有更强的控制权。我们正与部分最大客户紧密合作构建这些保护措施，帮助企业将前沿 AI 应用于最敏感的工作。**
-`X-OpenAI` · AI · **昨天**
-<sub>Privacy should advance as fast as intelligence. OpenAI Private Intelligence gives businesses stronger controls over their data while using our most ca...</sub>
-> 隐私保护应当与智能发展同步推进。OpenAI Private Intelligence 让企业在使用我们最强模型的同时，对自身数据拥有更强的控制权。我们正与部分最大客户紧密合作构建这些保护措施，帮助企业将前沿 AI 应用于最敏感的工作。https://openai.com/business/private-intelligence/
-https://x.com/OpenAI/status/2116186509384815084
-
-**12. 人民锐评发文驳斥「中国 AI 跑偏论」，如何看待中美在 AI 落地路径上的差异？**
-`热搜-知乎` · 企业落地 · **刚刚**
-https://www.zhihu.com/question/2099418216976102291
-
-**13. DeepSeek，怎么就变成了一条「大肥鱼」**
-`36氪 热榜` · AI · **21小时前**
-https://www.36kr.com/p/4048457242835463
-
-**14. 點燭先生 (@dianzhuXS)**
-`SoPilot 推特起爆帖` · — · **1小时前**
-https://sopilot.net/hot-tweets?tweetId=2116662902463803532
-
-**15. Anthropic 封禁涉及训练更大模型的用户**
-`Hacker News 前页` · AI · **4小时前**
-<sub>Anthropic blocks users for anything touching training larger models</sub>
-> 文章链接：https://twitter.com/jiahaoshao1/status/2116475922190922088 评论链接：https://news.ycombinator.com/item?id=50319358 积分：163 评论数：67
-https://twitter.com/jiahaoshao1/status/2116475922190922088
-
-**16. FT 报道：AI 行情低迷，OpenAI 融资目标削减 100 亿美元**
-`Bloomberg Technology` · AI · **20小时前**
-<sub>OpenAI Funding Target Cut by $10 Billion as AI Slumps, FT Says</sub>
-> 据《金融时报》报道，OpenAI 已将融资目标下调 100 亿美元，原因是 AI 股票遭抛售，以及竞争对手 Anthropic PBC 即将上市，使其争取投资者承诺的努力更加复杂。
-https://www.bloomberg.com/news/articles/2026-10-31/openai-funding-goal-cut-by-10-billion-as-ai-stocks-dip-ft-says
-
-**17. 本体能捕获什么？人工整理、LLM 生成和数据衍生的本体作为知识图谱上 LLM 智能体的检查器**
-`arXiv cs.AI` · AI/资本市场 · **20小时前**
-<sub>What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs</sub>
-> arXiv:2610.37809v1 公告类型：新论文 摘要：在 Web 知识图谱上回答问题的 LLM 智能体，越来越多地被套上由该图本体衍生的检查器，前提是形式化 schema 能成为可靠裁判。然而检查器也可能出错：它可能漏掉错误，也可能标记正确答案并促使智能体去“修正”它们。人工整理的本体是否……
-https://arxiv.org/abs/2610.37809
-
-**18. 据 FT 报道，Anthropic 预计在 IPO 后被信用评级机构给予高“垃圾”评级**
-`TechCrunch` · AI/商业认知 · **昨天**
-<sub>Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says</sub>
-> Blackstone 的预测只是一种预测，但自然，高垃圾评级会让 Anthropic 更难、成本更高地筹集资金，以继续为其支撑业务的大规模支出提供资金。
-https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/
-
-**19. OpenAI：12 月起，ChatGPT 将与 Codex 共享额度**
+**16. OpenAI、谷歌、微软和 Anthropic 联手推行 AI 数据抓取退出标准**
 `IT之家` · AI · **刚刚**
-https://www.ithome.com/1/020/645.htm
+https://www.ithome.com/1/020/837.htm
 
-**20. 行业快照：尽管有 AI 推动，旅游科技融资仍将走向多年低点**
-`Crunchbase 融资板块` · — · **昨天**
-<sub>Sector Snapshot: Travel Tech Funding Heads Toward Multiyear Low Despite AI Push</sub>
-> 旅游需求似乎仍保持坚挺，但与此同时，投资者对旅游科技初创公司的兴趣已经降温。即使是一波承诺用 AI 改善旅游的初创公司也未能扭转融资放缓。我们分享 Crunchbase 数据回顾所显示的内容。
-https://news.crunchbase.com/travel-tourism/travel-tech-startup-venture-funding-low-ai/
+**17. Game Off 2026：主题是 SHIFT**
+`GitHub Blog` · — · **2小时前**
+<sub>Game Off 2026: The theme is SHIFT</sub>
+> GitHub 一年一度、为期一个月的游戏开发挑战赛迎来第 14 届！今年 11 月，围绕主题 SHIFT 创作一款游戏。换挡、切换视角、扭曲现实，或者只是按下某个键。文章 Game Off 2026: The theme is SHIFT 首发于 The GitHub Blog。
+https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/
 
-**21. 未来有很多种。你想构建哪一种？**
-`X-OpenAI` · — · **昨天**
-<sub>There are many futures. Which do you want to build?</sub>
-> 未来有很多种。你想构建哪一种？
-https://x.com/OpenAI/status/2116253388883345623
+**18. 勃勃OC (@bboczeng)**
+`SoPilot 推特起爆帖` · — · **3小时前**
+<sub>勃勃OC (@bboczeng)</sub>
+https://sopilot.net/hot-tweets?tweetId=2117002274040168791
 
-**22. 新动能持续释放助力经济稳增长**
+**19. 最新封面报道之二｜最赚钱“AI实验室”IPO揭幕**
+`财新` · AI/商业认知 · **10分钟前**
+https://weekly.caixin.com/2026-10-31/102499335.html
+
+**20. Riverside Agents**
+`Product Hunt` · AI · **29分钟前**
+<sub>Riverside Agents</sub>
+https://www.producthunt.com/products/riverside-fm
+
+**21. 影视行业真的来春天了**
 `热搜-微博` · — · **刚刚**
-https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A8%E8%83%BD%E6%8C%81%E7%BB%AD%E9%87%8A%E6%94%BE%E5%8A%A9%E5%8A%9B%E7%BB%8F%E6%B5%8E%E7%A8%B3%E5%A2%9E%E9%95%BF%23&t=31&band_rank=3&Refer=top
+https://s.weibo.com/weibo?q=%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%E7%9C%9F%E7%9A%84%E6%9D%A5%E6%98%A5%E5%A4%A9%E4%BA%86&t=31&band_rank=1&Refer=top
 
-**23. 9点1氪丨币安遭黑客攻击，致其30亿美元资产被冻结；“张雪机车”商标回归张雪；美股收盘纳指重挫700点，英伟达市值蒸发1.4万亿元**
-`36氪 热榜` · AI/资本市场 · **23小时前**
-https://www.36kr.com/p/4049089058126344
-
-**24. Leo · 用 AI 构建 (@leo114119)**
-`SoPilot 推特起爆帖` · — · **2小时前**
-<sub>Leo · Building w/ AI (@leo114119)</sub>
-https://sopilot.net/hot-tweets?tweetId=2116652334734332212
-
-**25. SpeakON Agent**
-`Product Hunt` · AI · **53分钟前**
-<sub>SpeakON Agent</sub>
-https://www.producthunt.com/products/speakon
-
-**26. 独家：网络安全初创公司 Cyera 讨论 200 亿美元估值**
+**22. 独家：网络安全初创公司 Cyera 讨论 200 亿美元估值**
 `The Information` · 资本市场 · **1小时前**
 <sub>Exclusive: Cybersecurity Startup Cyera Discusses $20 Billion Valuation</sub>
 https://www.theinformation.com/briefings/exclusive-cybersecurity-mania-push-cyera-valuation-20-billion
 
-**27. EPSBench：基准测试 LLM 智能体的盈利预测能力**
-`arXiv cs.AI` · AI/资本市场 · **20小时前**
-<sub>EPSBench: Benchmarking LLM Agents for Earnings Forecasting</sub>
-> arXiv:2610.38293v1 公告类型：交叉 摘要：季度盈利预测要求智能体将财务证据与产生公司报告盈利的利润表项目联系起来。我们推出 EPSBench，一个用于研究该能力的基准，涵盖 86 家美国公司的 149 个公司季度。智能体阅读固定集合的申报文件、财报电话会议记录和新闻，然后……
-https://arxiv.org/abs/2610.38293
-
-**28. Nvidia 考虑为 Nscale 在西弗吉尼亚州的 AI 数据中心充当共同签署方**
-`TechCrunch` · AI · **23小时前**
+**23. Nvidia 考虑为 Nscale 在西弗吉尼亚州的 AI 数据中心充当共同签署方**
+`TechCrunch` · AI · **昨天**
 <sub>Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia</sub>
 > 当投资者对 AI 支出感到紧张时，让出售芯片的芯片制造商提出共同签署贷款会有所帮助。
 https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/
 
-**29. DeepSeek重磅开源：Agent底座架构！**
-`华尔街见闻快讯` · AI · **刚刚**
-https://wallstreetcn.com/livenews/3191979
+**24. 财联社11月2日电，美股股指期货小幅高开，其中纳指期货涨0.36%。**
+`财联社` · 资本市场 · **刚刚**
+https://www.cls.cn/detail/2521929
 
-**30. Harsh Vardhan Goenka 如何成为 Kalpa Labs 的 1 号创始工程师**
-`Y Combinator Blog` · — · **昨天**
-<sub>How Harsh Vardhan Goenka became founding engineer #1 at Kalpa Labs</sub>
-> 从 ICPC 世界总决赛，到竞赛编程俱乐部，再到作为 YC 初创公司的首位工程师构建通用音频模型。
-https://www.ycombinator.com/blog/how-harsh-vardhan-goenka-became-founding-engineer-1-at-kalpa-labs/
+**25. Christian Mendoza (@ivancris16)**
+`SoPilot 推特起爆帖` · — · **3小时前**
+<sub>Christian Mendoza (@ivancris16)</sub>
+https://sopilot.net/hot-tweets?tweetId=2116997698511675399
 
-**31. 让网站更容易表达 AI 训练偏好**
-`OpenAI News` · — · **昨天**
-<sub>Making it easier for websites to express AI training preferences</sub>
-> OpenAI 将遵循共享的 robots.txt 信号，帮助网站运营者向参与的服务提供商传达其 AI 训练偏好。
-https://openai.com/index/helping-websites-express-ai-training-preferences
+**26. 美联储12月加息的概率为72%。据CME“美联储观察”：美联储12月维持利率不变的概率为28%，加息25个基点的概率为72%。美联储到明年1月维持利率不变的概率19.3%，累...**
+`虎嗅` · 资本市场 · **1小时前**
+https://www.huxiu.com/moment/1293175.html
 
-**32. 苹果Duo中国版被指偷工减料**
+**27. Show HN：Duckstring——基于 DuckDB 的拉取式编排数据管道**
+`HN Show HN` · 资本市场 · **1小时前**
+<sub>Show HN: Duckstring – Pull-orchestrated data pipelines on DuckDB</sub>
+> 文章链接：https://playground.duckstring.com/story 评论链接：https://news.ycombinator.com/item?id=50330726 点数：1 # 评论数：1
+https://playground.duckstring.com/story
+
+**28. 你的手机可能在监听你**
 `热搜-微博` · — · **刚刚**
-https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CDuo%E4%B8%AD%E5%9B%BD%E7%89%88%E8%A2%AB%E6%8C%87%E5%81%B7%E5%B7%A5%E5%87%8F%E6%96%99&t=31&band_rank=7&Refer=top
+https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E6%89%8B%E6%9C%BA%E5%8F%AF%E8%83%BD%E5%9C%A8%E7%9B%91%E5%90%AC%E4%BD%A0%23&t=31&band_rank=25&Refer=top
 
-**33. 最新封面报道之二｜最赚钱“AI实验室”IPO揭幕**
-`财新` · AI/商业认知 · **26分钟前**
-https://weekly.caixin.com/2026-10-31/102499335.html
+**29. 音乐行业 200 亿美元的公开市场难题**
+`Bloomberg Technology` · 资本市场 · **32分钟前**
+<sub>The Music Industry’s $20 Billion Public Market Problem</sub>
+> 两大上市唱片公司难以激发投资者兴趣
+https://www.bloomberg.com/news/newsletters/2026-11-02/the-music-industry-s-20-billion-public-market-problem
 
-**34. 李老师不是你老师 (@whyyoutouzhele)**
-`SoPilot 推特起爆帖` · — · **2小时前**
-https://sopilot.net/hot-tweets?tweetId=2116651437468078174
+**30. NASA 希望商业航天产业能帮助拯救哈勃**
+`The Verge` · 企业落地 · **3小时前**
+<sub>NASA hopes the commercial space industry can help save Hubble</sub>
+> 引力无情，每天都把这台著名望远镜缓缓拖向最终的消亡。哈勃目前尚无立即坠入地球大气层烧毁的危险，但除非提升轨道，它的寿命将在 2030 年代初至中期耗尽。因此 NASA 正在征集方案……
+https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble
 
-**35. Show HN：Keybind-find —— 按下按键即可搜索当前聚焦窗口的快捷键**
-`HN Show HN` · 个人成长 · **2小时前**
-<sub>Show HN: Keybind-find – search the focused window's shortcuts by pressing keys</sub>
-> 文章链接：https://github.com/Benjmhart/keybind-find 评论链接：https://news.ycombinator.com/item?id=50320726 积分：1 评论数：0
-https://github.com/Benjmhart/keybind-find
+**31. 从“年报附录”到“战略决策” 上市公司治理架构迎来升级潮**
+`财联社` · 商业认知 · **刚刚**
+https://www.cls.cn/detail/2521924
 
-**36. Polymarket 在用户报告遭黑客攻击后暂停部分交易**
-`The Information` · 资本市场 · **1小时前**
-<sub>Polymarket Halts Some Trading After Users Report Hacks</sub>
-https://www.theinformation.com/briefings/polymarket-halts-trading-users-report-hacks
+**32. Free Ham (@FreeHam151482)**
+`SoPilot 推特起爆帖` · — · **4小时前**
+<sub>Free Ham (@FreeHam151482)</sub>
+https://sopilot.net/hot-tweets?tweetId=2116978861208633541
 
-**37. Zest 的新 AI 智能体通过短信寻找餐厅并预订**
-`TechCrunch` · AI · **昨天**
-<sub>Zest’s new AI agent finds restaurants and books reservations over text</sub>
-> 无法就到哪里吃饭达成一致？Zest 的 AI 礼宾可以综合每个人的口味，将餐厅选项付诸投票，并完成预订。
-https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/
+**33. 中国公司全球化周报｜DeepSeek完成超千亿元A+轮融资 / 吉利汽车前三季度出口79.8万辆**
+`36氪 热榜` · AI · **20小时前**
+https://www.36kr.com/p/4050669181342601
 
-**38. 美国白宫科学与技术顾问会议主席：Anthropic 很可能成为资本主义历史最伟大企业**
-`IT之家` · AI · **刚刚**
-https://www.ithome.com/1/020/633.htm
+**34. Show HN：Search2o——面向企业的智能体服务器**
+`HN Show HN` · AI · **2小时前**
+<sub>Show HN: Search2o – An Agent Server for the Enterprise</sub>
+> 文章链接：https://search2o.com/ 评论链接：https://news.ycombinator.com/item?id=50330182 点数：1 # 评论数：0
+https://search2o.com/
 
-**39. Dylan Anderson 如何成为 Adam 的创始工程师**
-`Y Combinator Blog` · — · **昨天**
-<sub>How Dylan Anderson became founding engineer at Adam</sub>
-> Dylan 离开明尼苏达前往旧金山，作为 Adam (W25) 的首位工程师，为 CAD 软件构建 AI agent。
-https://www.ycombinator.com/blog/how-dylan-anderson-became-founding-engineer-at-adam/
+**35. 财务误发5000元工资给离职员工遭拒还**
+`热搜-微博` · — · **刚刚**
+https://s.weibo.com/weibo?q=%23%E8%B4%A2%E5%8A%A1%E8%AF%AF%E5%8F%915000%E5%85%83%E5%B7%A5%E8%B5%84%E7%BB%99%E7%A6%BB%E8%81%8C%E5%91%98%E5%B7%A5%E9%81%AD%E6%8B%92%E8%BF%98%23&t=31&band_rank=30&Refer=top
 
-**40. 社区安全报告与面向青少年的新保护措施**
-`OpenAI News` · — · **昨天**
-<sub>Community safety report and new protections for teens</sub>
-> OpenAI 正在加强 ChatGPT 的暴力预防，扩大防护措施、提前干预，并新增公共安全报告承诺。
-https://openai.com/index/community-safety-report-and-new-protections-for-teens
+**36. 币安允许客户恢复提现，净流出达 58 亿美元**
+`The Information` · — · **1小时前**
+<sub>Binance Allows Customers to Resume Withdrawals, Sees $5.8 Billion Net Outflow</sub>
+https://www.theinformation.com/briefings/binance-allows-customers-resume-withdrawals-sees-5-8-billion-net-outflow
+
+**37. AI 能让科技公司 CEO 的生活更轻松，那其他人呢？**
+`TechCrunch` · — · **3小时前**
+<sub>AI can make tech CEOs’ lives easier. What about everyone else?</sub>
+> 在 Equity 播客中，我们讨论为什么科技公司 CEO 的言论会显得如此不接地气。
+https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/
+
+**38. 把 DeepSeek 的 Super-agent 思路做成一个人的桌面助手： AnyModelBot，首个开箱即用的 DeepSeek Super Agent**
+`V2EX` · AI · **刚刚**
+https://www.v2ex.com/t/1253622
+
+**39. kalpeshsolanki (@kalpeshsolank11)**
+`SoPilot 推特起爆帖` · — · **4小时前**
+<sub>kalpeshsolanki (@kalpeshsolank11)</sub>
+https://sopilot.net/hot-tweets?tweetId=2116978379056656838
+
+**40. 每天上千万次创建：Agent Sandbox 为什么会成为新算力形态？**
+`InfoQ 中文` · AI · **昨天**
+https://www.infoq.cn/video/4qjamMQLVIoZvytUQwpI?utm_source=rss&amp;utm_medium=article
