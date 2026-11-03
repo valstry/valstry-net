@@ -1,201 +1,208 @@
-# 信源日报 2026-11-02
+# 信源日报 2026-11-03
 
-68 源 · 储备 1067 条 · 精选 40 条（仅限 48 小时内）
+68 源 · 储备 1123 条 · 精选 40 条（仅限 48 小时内）
 
 ---
 
-**1. Anthropic 新研究：自动化研究细微的涌现性失准。红队测试是模型安全测试的重要环节，但也受限于……**
-`X-Anthropic` · AI · **昨天**
-<sub>New Anthropic research: Automating subtle emergent misalignment research. Red-teaming is a vital part of model safety testing, but it’s also limited ...</sub>
-> Anthropic 新研究：自动化研究细微的涌现性失准。红队测试是模型安全测试的关键部分，但受研究人员时间限制。为验证能否自动化，我们让数千个 Claude 智能体执行规避训练数据监控器的任务。这些智能体生成了对监控器看似无害的训练数据（例如一名资深摔跤手指导新人……
-https://x.com/AnthropicAI/status/2116349211549843666
+**1. Anthropic Residency 现已开放申请，这是一个带薪、固定期限的研究项目，面向希望让 AI 安全并惠及所有人的学者、技术创始人和 staff 级工程师。**
+`X-Anthropic` · AI · **4小时前**
+<sub>Applications are now open for the Anthropic Residency, a paid, fixed-term research program for academics, technical founders, and staff-level engineer...</sub>
+> Anthropic Residency 现已开放申请，这是一个带薪、固定期限的研究项目，面向希望让 AI 安全并惠及所有人的学者、技术创始人和 staff 级工程师。无需机器学习背景。申请截止日期为 11 月 22 日：https://alignment.anthropic.com/2026/anthropic-residency/
+https://x.com/AnthropicAI/status/2117343929960112486
 
-**2. lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） (@lidangzzz)**
-`SoPilot 推特起爆帖` · AI · **3小时前**
-https://sopilot.net/hot-tweets?tweetId=2117000551053328800
+**2. 金融汪 (@yuyy614893671)**
+`SoPilot 推特起爆帖` · AI/商业认知 · **1小时前**
+https://sopilot.net/hot-tweets?tweetId=2117384298236145670
 
-**3. 8点1氪丨“黄金平替”，全球爆单；奇瑞高管回应智界独立；OpenAI宣布ChatGPT部分任务将与Codex共享额度**
-`36氪 热榜` · AI · **24分钟前**
-https://www.36kr.com/p/4051860578702216
+**3. 美股收盘：三大指数涨跌不一**
+`热搜-头条` · 资本市场 · **刚刚**
+https://www.toutiao.com/trending/7703680814925333018/
 
-**4. Show HN：Nonce——面向 AI 智能体的开源最小权限 Gmail 访问**
-`HN Show HN` · AI · **2小时前**
-<sub>Show HN: Nonce – Open-source, least-privilege Gmail access for AI agents</sub>
-> 大家好，HN！我们做了 nonce，一个开源工具，位于个人 AI 智能体（Muse、Grok、ChatGPT、Claude）与你在 Gmail、Calendar、Drive 等中的个人数据之间。如今，如果你把 Gmail 连接到 Muse 这样的 AI 智能体，它就能读取你的整个收件箱。无论有意与否，它们能读到的邮件都远超所需。这带来了巨大的数据权限风险，个人数据会被访问……
-https://www.anonce.io/
+**4. Show HN：面向 OpenAI Managed Agents API 的 Kubernetes Operator**
+`HN Show HN` · AI · **3小时前**
+<sub>Show HN: Kubernetes Operator for the OpenAI Managed Agents API</sub>
+> 文章链接：https://github.com/softcane/codex-session-operator 评论链接：https://news.ycombinator.com/item?id=50343684 得分：1 评论数：0
+https://github.com/softcane/codex-session-operator
 
-**5. 自媒体博主称苹果 Duo 中国版偷工减料，取消了卫星通信、 UWB 等组件，是真的吗？使用体验会受到影响吗？**
-`热搜-知乎` · 自媒体 · **刚刚**
-https://www.zhihu.com/question/2100124169555764715
+**5. 一夜之间，GPT-6.2 Astra 和 Fable 5.5 双双曝光，AI 圈疯狂 11 月要来了**
+`36氪 热榜` · AI · **22小时前**
+https://www.36kr.com/p/4051964645331847
 
-**6. OpenAI 在降低潜在估值后下调融资目标**
-`The Information` · AI/资本市场 · **1小时前**
-<sub>OpenAI Lowers Fundraising Target–After Decreasing Possible Valuation</sub>
-https://www.theinformation.com/briefings/openai-lowers-fundraising-target-after-decreasing-possible-valuation
+**6. AgentCollab：一种自评估驱动的协作范式，用于高效 LLM 智能体**
+`arXiv cs.CL` · AI/资本市场 · **19小时前**
+<sub>AgentCollab: A Self-Evaluation-Driven Collaboration Paradigm for Efficient LLM Agents</sub>
+https://arxiv.org/abs/2603.26034
 
-**7. OpenAI 或将其数据中心重新命名为“AI 算力园区”**
+**7. Anthropic 聘请 Macquarie、CommSec 负责澳大利亚 IPO 零售发行**
+`Bloomberg Technology` · AI/商业认知 · **2小时前**
+<sub>Anthropic Taps Macquarie, CommSec for Australia IPO Retail Offer</sub>
+> Anthropic PBC 已聘请包括 Macquarie Group Ltd. 和澳大利亚联邦银行旗下 CommSec 在内的八家机构负责其澳大利亚零售发行，为其备受期待的纳斯达克上市做准备，这预计将成为史上最大 IPO 之一。
+https://www.bloomberg.com/news/articles/2026-11-02/anthropic-taps-macquarie-commsec-for-australia-ipo-retail-offer
+
+**8. Anthropic 警告称其已非常接近 RSI 能力，即自我构建 AI**
 `TechCrunch` · AI · **2小时前**
-<sub>OpenAI might rebrand its data centers as ‘AI compute campuses’</sub>
-> 数据中心极不受欢迎。但如果我们换个叫法呢？
-https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/
+<sub>Anthropic warns that it’s very close to RSI capability, aka self-building AI</sub>
+> RSI 是指 AI 在自我训练方面强到引发 AI 能力急剧加速的临界点。对 AI 末日论者而言，RSI 意味着无可挽回的灾难。
+https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/
 
-**8. OpenAI 即将启动大规模公关宣传，考虑将数据中心重新包装为“AI 算力园区”**
+**9. 科技股暴跌拖累 Anthropic“史上最大 IPO”估值，预期已从 2 万亿美元降至 1.5 万亿区间**
+`IT之家` · AI/商业认知/资本市场 · **刚刚**
+https://www.ithome.com/1/021/299.htm
+
+**10. 谷歌财报、Facebook 既视感、智能体布局**
+`Stratechery` · AI/资本市场 · **13小时前**
+<sub>Google Earnings, Facebook Déjà Vu, The Agent Play</sub>
+> 谷歌的财报不及预期与 Facebook 当年颇为相似，而这反而是谷歌的加分项。该公司比外界所认为的更为激进。
+https://stratechery.com/2026/google-earnings-facebook-deja-vu-the-agent-play/
+
+**11. 在 OpenAI 扩展 Git**
+`OpenAI News` · AI · **9小时前**
+<sub>Scaling Git at OpenAI</sub>
+> OpenAI 如何构建 Pando——一个为 Codex 所支撑的开发规模而设计的 Git 兼容后端。
+https://openai.com/index/scaling-git-at-openai
+
+**12. Chris Chen（薄肌训练中~） (@IIIChrisChen)**
+`SoPilot 推特起爆帖` · 资本市场 · **4小时前**
+<sub>Chris Chen（薄肌训练中~） (@IIIChrisChen)</sub>
+https://sopilot.net/hot-tweets?tweetId=2117344375349170632
+
+**13. 美股**
+`热搜-微博` · 资本市场 · **刚刚**
+https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=18&Refer=top
+
+**14. SEC 应阻止 Anthropic 的 IPO 以保护公众**
+`Hacker News 前页` · AI/商业认知 · **2小时前**
+<sub>The SEC Should Block Anthropic's IPO to Protect the Public</sub>
+> 文章链接：https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/ 评论链接：https://news.ycombinator.com/item?id=50344919 得分：123 评论数：69
+https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/
+
+**15. 马斯克：AI算力“太烧钱”扛不住！SpaceX首席执行官、全球首富埃隆·马斯克日前表示，由于该公司研发的人工智能助手Grok Bot的服务成本过高，做不到“不限量使用...**
+`虎嗅` · AI · **1分钟前**
+https://www.huxiu.com/moment/1293500.html
+
+**16. 面向长周期 LLM 智能体的模型内上下文压缩与智能体软 token**
+`arXiv cs.CL` · AI · **19小时前**
+<sub>In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents</sub>
+> arXiv:2610.41291v1 公告类型：新 摘要：长周期 LLM 智能体在解决复杂且持续的任务中发挥重要作用，其交互上下文不断增长。然而，这些累积的上下文会带来大量计算成本，并掩盖关键的决策相关证据。现有方法通常训练外部压缩器或上下文管理智能体来重写上下文
+https://arxiv.org/abs/2610.41291
+
+**17. DeepSeek 发布自主编码智能体原型**
+`The Information` · AI · **2小时前**
+<sub>DeepSeek Unveils Autonomous Coding Agent Prototype</sub>
+https://www.theinformation.com/briefings/deepseek-unveils-autonomous-coding-agent-prototype
+
+**18. OpenAI 终于合并 ChatGPT 的 Chat 和 Work 标签页**
+`TechCrunch` · AI · **10小时前**
+<sub>OpenAI is finally merging ChatGPT’s Chat and Work tabs</sub>
+> OpenAI 表示，此次调整后，ChatGPT 和 Codex 将从同一配额池中消耗用量。
+https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/
+
+**19. Anthropic 高付费客户超 1.19 万家，净收入留存率达 900%**
+`IT之家` · AI/企业落地 · **刚刚**
+https://www.ithome.com/1/021/285.htm
+
+**20. 更多资金、更少审查：这三张图揭示 VC 创纪录融资年背后的分化**
+`Crunchbase 融资板块` · — · **12小时前**
+<sub>More Money, Fewer Checks: These 3 Charts Show The Divide Behind VC’s Record Funding Year</sub>
+> 2026 年创纪录的风险投资日益集中于大规模 AI 融资轮，而种子轮和早期交易数量却在下降。我们利用 Crunchbase 数据，展示第三季度融资如何延续了全年“金额上升、交易减少”的趋势。
+https://news.crunchbase.com/venture/q3-2026-charts-funding-amounts-vs-round-counts/
+
+**21. 要让 AGI 惠及全人类，它应帮助人们处理对其最重要的日常任务。因此我们构建了 LifeVal，一个全新的基准，旨在……**
+`X-OpenAI` · AI · **7小时前**
+<sub>For AGI to benefit all of humanity, it should help people with the everyday tasks that matter most to them. So we built LifeVal, a new benchmark shape...</sub>
+https://x.com/OpenAI/status/2117307611338997846
+
+**22. LEI（@TheMarketMemo）**
+`SoPilot 推特起爆帖` · 资本市场 · **7小时前**
+<sub>LEI (@TheMarketMemo)</sub>
+https://sopilot.net/hot-tweets?tweetId=2117296731834781956
+
+**23. 三只松鼠发布财报，第三季度主营业务日赚不足 1 万元，为什么会这样？三只松鼠目前经营面临哪些问题？**
+`热搜-知乎` · 资本市场 · **刚刚**
+https://www.zhihu.com/question/2099575888148783135
+
+**24. [AI Agent 智能体] 零编程基础，想学 AI Agent 和大模型应用开发，有必要花 2 万多元报线下培训班吗？**
+`V2EX 最新` · AI · **11分钟前**
+https://www.v2ex.com/t/1253976#reply8
+
+**25. 中信建投：券商三季度盈利短期承压，全年基本盘未改。中信建投研报称，上市券商三季度单季业绩回落源于市场回调与自营高基数，前三季度稳健增长的基本盘未改。42...**
+`虎嗅` · 商业认知 · **48分钟前**
+https://www.huxiu.com/moment/1293485.html
+
+**26. VerifyMAS：面向基于 LLM 的多智能体系统故障归因的假设验证**
+`arXiv cs.CL` · AI · **19小时前**
+<sub>VerifyMAS: Hypothesis Verification for Failure Attribution in LLM-based Multi-Agent Systems</sub>
+https://arxiv.org/abs/2605.17467
+
+**27. 独家：OpenAI 与 Magnite、PubMatic 签约，以填充未使用的 ChatGPT 广告位**
+`The Information` · AI · **2小时前**
+<sub>Exclusive: OpenAI Sign Deals With Magnite, PubMatic to Fill Unused ChatGPT Ad Space</sub>
+https://www.theinformation.com/briefings/exclusive-openai-sign-deals-magnite-pubmatic-fill-unused-chatgpt-ad-space
+
+**28. Anthropic 打击 Claude 的 AI 电子游戏克隆**
+`The Verge` · AI · **1小时前**
+<sub>Anthropic clamps down on Claude’s AI video game clones</sub>
+> 据 Tom's Hardware 报道，Anthropic 已更新 Claude Code 的系统提示，以防止该 AI 工具被用于重新创建现有电子游戏。复古游戏目前正被 AI 制作的反编译、重编译和移植版本淹没，尽管 Anthropic 仍会允许人们使用 Claude Code 制作游戏，但它不希望人们 […]
+https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones
+
+**29. Anthropic 第三季度营收 170 亿美元同比暴涨 11 倍，冲刺史上最大 IPO**
+`IT之家` · AI/商业认知 · **刚刚**
+https://www.ithome.com/1/021/277.htm
+
+**30. 纽约新兴 AI 50 强**
+`CB Insights 研究` · — · **2小时前**
+<sub>The Emerging AI 50 in NYC</sub>
+> 本简报改编自与 Accenture 和 Tech:NYC 合作制作的报告。在此阅读完整分析。AI 正在纽约市创造新一代企业，同时改变其成熟行业的运作方式。这些面向……的初创公司 文章《纽约新兴 AI 50 强》首发于 CB Insights Research。
+https://www.cbinsights.com/research/the-emerging-ai-50-in-nyc/
+
+**31. 推出 Grid Protectors 计划**
+`OpenAI News` · — · **9小时前**
+<sub>Introducing the Grid Protectors Program</sub>
+> OpenAI 的 Grid Protectors 计划将与公用事业公司合作，帮助未来的计算园区支持电网可靠性并保护消费者电费。
+https://openai.com/index/grid-protectors-program
+
+**32. 范凯说AI（@fankaishuoai）**
+`SoPilot 推特起爆帖` · AI · **7小时前**
+<sub>范凯说AI (@fankaishuoai)</sub>
+https://sopilot.net/hot-tweets?tweetId=2117295013310931286
+
+**33. 为什么豆包至今没有被 deepseek 斩杀？**
+`热搜-知乎` · AI · **刚刚**
+https://www.zhihu.com/question/2061775648419492191
+
+**34. @monalisa.anna：哈哈哈哈笑死 🔁 @ayrianti：“AI 水军没 token 了？是不是需要信用卡才能让 token 不再用完？？？”**
+`Threads-AI讨论` · AI · **2分钟前**
+<sub>@monalisa.anna: Buahahahsh ngakak 🔁 @ayrianti: "Buzzer AI kehabisan token? Apakah perlu kartu kredit supaya tak habis token lagi???"</sub>
+> @monalisa.anna 🔁：哈哈哈哈笑死 AI 水军没 token 了？是不是需要信用卡才能让 token 不再用完？？？ — @ayrianti — 2026年11月2日周一 10:00:18 GMT
+https://www.threads.com/t/DfQmLuEj8H4
+
+**35. OpenAI：丹·德里斯科尔将就先进人工智能在国家安全和网络安全领域的应用提供咨询，重点关注美国盟友。**
+`虎嗅` · AI · **57分钟前**
+https://www.huxiu.com/moment/1293482.html
+
+**36. Anthropic 第三季度营收飙升至 170 亿美元，重新转为运营亏损**
+`The Information` · AI/企业落地 · **9小时前**
+<sub>Anthropic’s Revenue Surged to $17 Billion in Q3, Swung Back to Operating Loss</sub>
+https://www.theinformation.com/briefings/anthropics-revenue-surged-17-billion-q3-swung-back-operating-loss
+
+**37. Hinge 测试更便宜的套餐，因用户越来越厌倦为约会应用付费**
+`TechCrunch` · 资本市场 · **17分钟前**
+<sub>Hinge tests a cheaper plan as users become more fed up paying for dating apps</sub>
+> 在人们日益厌倦约会应用之际，Hinge 正在测试更便宜的订阅套餐。
+https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/
+
+**38. OpenAI 喊话 2028 美大选候选人：AI 将是重要的必答题**
 `IT之家` · AI · **刚刚**
-https://www.ithome.com/1/020/844.htm
+https://www.ithome.com/1/021/295.htm
 
-**9. 我们构建了 PlanAssist，帮助英国政府的规划官员加快全国各地的建筑与翻新审批。它基于 Gemini 构建，已显示其能……**
-`X-GoogleDeepMind` · — · **昨天**
-<sub>We built PlanAssist to help UK Government planning officers speed up building and renovations across the country. Built with Gemini, it has shown it c...</sub>
-> 我们构建了 PlanAssist，帮助英国政府的规划官员加快全国各地的建筑与翻新审批。它基于 Gemini 构建，已证明可将规划官员评估住户申请的时间缩短最多 58%。目前正向另外 12 个地方议会提供，帮助他们更快做出决策。🏡 → https://goo.gle/4iQXYkl
-https://x.com/GoogleDeepMind/status/2116524000977285321
+**39. LifeVal**
+`OpenAI News` · — · **15小时前**
+<sub>LifeVal</sub>
+> 推出 LifeVal，这是一个衡量 AI 在多大程度上帮助人们完成日常任务的基准，涵盖从寻找托儿服务到管理财务和处理政府文书。
+> <sub>Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwor</sub>
+https://openai.com/index/lifeval
 
-**10. Michael Guo (@Michaelzsguo)**
-`SoPilot 推特起爆帖` · AI · **4小时前**
-<sub>Michael Guo (@Michaelzsguo)</sub>
-https://sopilot.net/hot-tweets?tweetId=2116980714235417048
-
-**11. 三季报收官，北交所细分龙头增长动能持续释放。北交所上市公司2026年三季报披露收官。Wind数据显示，截至10月31日，纳入统计的354家北交所上市公司中，246家公司...**
-`虎嗅` · 商业认知 · **1小时前**
-https://www.huxiu.com/moment/1293172.html
-
-**12. agentmash**
-`Product Hunt` · AI · **1分钟前**
-<sub>agentmash</sub>
-https://www.producthunt.com/products/agentmash
-
-**13. DeepSeek亮出“超级智能体”架构**
-`热搜-头条` · AI · **刚刚**
-https://www.toutiao.com/trending/7703258129567321638/
-
-**14. DeepSeek 推出增强版编程智能体，意在比肩 Anthropic**
-`Bloomberg Technology` · AI · **20小时前**
-<sub>DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic</sub>
-> DeepSeek 发布了一款更自主的编程智能体原型，意在挑战 Anthropic PBC 广受欢迎的 Claude Code。
-https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic
-
-**15. 据报道 OpenAI 下调新一轮融资目标**
-`TechCrunch` · AI · **昨天**
-<sub>OpenAI reportedly lowers funding target for new round</sub>
-> OpenAI 最新一轮融资似乎未达预期。
-https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/
-
-**16. OpenAI、谷歌、微软和 Anthropic 联手推行 AI 数据抓取退出标准**
-`IT之家` · AI · **刚刚**
-https://www.ithome.com/1/020/837.htm
-
-**17. Game Off 2026：主题是 SHIFT**
-`GitHub Blog` · — · **2小时前**
-<sub>Game Off 2026: The theme is SHIFT</sub>
-> GitHub 一年一度、为期一个月的游戏开发挑战赛迎来第 14 届！今年 11 月，围绕主题 SHIFT 创作一款游戏。换挡、切换视角、扭曲现实，或者只是按下某个键。文章 Game Off 2026: The theme is SHIFT 首发于 The GitHub Blog。
-https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/
-
-**18. 勃勃OC (@bboczeng)**
-`SoPilot 推特起爆帖` · — · **3小时前**
-<sub>勃勃OC (@bboczeng)</sub>
-https://sopilot.net/hot-tweets?tweetId=2117002274040168791
-
-**19. 最新封面报道之二｜最赚钱“AI实验室”IPO揭幕**
-`财新` · AI/商业认知 · **10分钟前**
-https://weekly.caixin.com/2026-10-31/102499335.html
-
-**20. Riverside Agents**
-`Product Hunt` · AI · **29分钟前**
-<sub>Riverside Agents</sub>
-https://www.producthunt.com/products/riverside-fm
-
-**21. 影视行业真的来春天了**
-`热搜-微博` · — · **刚刚**
-https://s.weibo.com/weibo?q=%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%E7%9C%9F%E7%9A%84%E6%9D%A5%E6%98%A5%E5%A4%A9%E4%BA%86&t=31&band_rank=1&Refer=top
-
-**22. 独家：网络安全初创公司 Cyera 讨论 200 亿美元估值**
-`The Information` · 资本市场 · **1小时前**
-<sub>Exclusive: Cybersecurity Startup Cyera Discusses $20 Billion Valuation</sub>
-https://www.theinformation.com/briefings/exclusive-cybersecurity-mania-push-cyera-valuation-20-billion
-
-**23. Nvidia 考虑为 Nscale 在西弗吉尼亚州的 AI 数据中心充当共同签署方**
-`TechCrunch` · AI · **昨天**
-<sub>Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia</sub>
-> 当投资者对 AI 支出感到紧张时，让出售芯片的芯片制造商提出共同签署贷款会有所帮助。
-https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/
-
-**24. 财联社11月2日电，美股股指期货小幅高开，其中纳指期货涨0.36%。**
-`财联社` · 资本市场 · **刚刚**
-https://www.cls.cn/detail/2521929
-
-**25. Christian Mendoza (@ivancris16)**
-`SoPilot 推特起爆帖` · — · **3小时前**
-<sub>Christian Mendoza (@ivancris16)</sub>
-https://sopilot.net/hot-tweets?tweetId=2116997698511675399
-
-**26. 美联储12月加息的概率为72%。据CME“美联储观察”：美联储12月维持利率不变的概率为28%，加息25个基点的概率为72%。美联储到明年1月维持利率不变的概率19.3%，累...**
-`虎嗅` · 资本市场 · **1小时前**
-https://www.huxiu.com/moment/1293175.html
-
-**27. Show HN：Duckstring——基于 DuckDB 的拉取式编排数据管道**
-`HN Show HN` · 资本市场 · **1小时前**
-<sub>Show HN: Duckstring – Pull-orchestrated data pipelines on DuckDB</sub>
-> 文章链接：https://playground.duckstring.com/story 评论链接：https://news.ycombinator.com/item?id=50330726 点数：1 # 评论数：1
-https://playground.duckstring.com/story
-
-**28. 你的手机可能在监听你**
-`热搜-微博` · — · **刚刚**
-https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E6%89%8B%E6%9C%BA%E5%8F%AF%E8%83%BD%E5%9C%A8%E7%9B%91%E5%90%AC%E4%BD%A0%23&t=31&band_rank=25&Refer=top
-
-**29. 音乐行业 200 亿美元的公开市场难题**
-`Bloomberg Technology` · 资本市场 · **32分钟前**
-<sub>The Music Industry’s $20 Billion Public Market Problem</sub>
-> 两大上市唱片公司难以激发投资者兴趣
-https://www.bloomberg.com/news/newsletters/2026-11-02/the-music-industry-s-20-billion-public-market-problem
-
-**30. NASA 希望商业航天产业能帮助拯救哈勃**
-`The Verge` · 企业落地 · **3小时前**
-<sub>NASA hopes the commercial space industry can help save Hubble</sub>
-> 引力无情，每天都把这台著名望远镜缓缓拖向最终的消亡。哈勃目前尚无立即坠入地球大气层烧毁的危险，但除非提升轨道，它的寿命将在 2030 年代初至中期耗尽。因此 NASA 正在征集方案……
-https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble
-
-**31. 从“年报附录”到“战略决策” 上市公司治理架构迎来升级潮**
-`财联社` · 商业认知 · **刚刚**
-https://www.cls.cn/detail/2521924
-
-**32. Free Ham (@FreeHam151482)**
-`SoPilot 推特起爆帖` · — · **4小时前**
-<sub>Free Ham (@FreeHam151482)</sub>
-https://sopilot.net/hot-tweets?tweetId=2116978861208633541
-
-**33. 中国公司全球化周报｜DeepSeek完成超千亿元A+轮融资 / 吉利汽车前三季度出口79.8万辆**
-`36氪 热榜` · AI · **20小时前**
-https://www.36kr.com/p/4050669181342601
-
-**34. Show HN：Search2o——面向企业的智能体服务器**
-`HN Show HN` · AI · **2小时前**
-<sub>Show HN: Search2o – An Agent Server for the Enterprise</sub>
-> 文章链接：https://search2o.com/ 评论链接：https://news.ycombinator.com/item?id=50330182 点数：1 # 评论数：0
-https://search2o.com/
-
-**35. 财务误发5000元工资给离职员工遭拒还**
-`热搜-微博` · — · **刚刚**
-https://s.weibo.com/weibo?q=%23%E8%B4%A2%E5%8A%A1%E8%AF%AF%E5%8F%915000%E5%85%83%E5%B7%A5%E8%B5%84%E7%BB%99%E7%A6%BB%E8%81%8C%E5%91%98%E5%B7%A5%E9%81%AD%E6%8B%92%E8%BF%98%23&t=31&band_rank=30&Refer=top
-
-**36. 币安允许客户恢复提现，净流出达 58 亿美元**
-`The Information` · — · **1小时前**
-<sub>Binance Allows Customers to Resume Withdrawals, Sees $5.8 Billion Net Outflow</sub>
-https://www.theinformation.com/briefings/binance-allows-customers-resume-withdrawals-sees-5-8-billion-net-outflow
-
-**37. AI 能让科技公司 CEO 的生活更轻松，那其他人呢？**
-`TechCrunch` · — · **3小时前**
-<sub>AI can make tech CEOs’ lives easier. What about everyone else?</sub>
-> 在 Equity 播客中，我们讨论为什么科技公司 CEO 的言论会显得如此不接地气。
-https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/
-
-**38. 把 DeepSeek 的 Super-agent 思路做成一个人的桌面助手： AnyModelBot，首个开箱即用的 DeepSeek Super Agent**
-`V2EX` · AI · **刚刚**
-https://www.v2ex.com/t/1253622
-
-**39. kalpeshsolanki (@kalpeshsolank11)**
-`SoPilot 推特起爆帖` · — · **4小时前**
-<sub>kalpeshsolanki (@kalpeshsolank11)</sub>
-https://sopilot.net/hot-tweets?tweetId=2116978379056656838
-
-**40. 每天上千万次创建：Agent Sandbox 为什么会成为新算力形态？**
-`InfoQ 中文` · AI · **昨天**
-https://www.infoq.cn/video/4qjamMQLVIoZvytUQwpI?utm_source=rss&amp;utm_medium=article
+**40. AYi (@AYi_AInotes)**
+`SoPilot 推特起爆帖` · AI · **8小时前**
+<sub>AYi (@AYi_AInotes)</sub>
+https://sopilot.net/hot-tweets?tweetId=2117292792833597818
