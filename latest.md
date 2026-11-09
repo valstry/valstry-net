@@ -1,213 +1,202 @@
-# 信源日报 2026-11-08
+# 信源日报 2026-11-09
 
-68 源 · 储备 1004 条 · 精选 40 条（仅限 48 小时内）
+68 源 · 储备 1014 条 · 精选 40 条（仅限 48 小时内）
 
 ---
 
-**1. 一种衡量 AI agent 如何处理湿实验室科学常规分析的新方法——BioBasicsBench。该基准与专注酶设计的生物技术公司 Ligo 共同开发，...**
-`X-OpenAI` · AI/个人成长 · **昨天**
-<sub>A new way to measure how AI agents handle the routine analyses of wet-lab science—BioBasicsBench. Developed with Ligo, a biotech company focused on e...</sub>
-> 一种衡量 AI agent 如何处理湿实验室科学日常分析的新方法——BioBasicsBench。该基准与专注酶设计的生物技术公司 Ligo 共同开发，采用来自真实实验的 100 项任务，测试 agent 能否解读原始实验室数据、识别错误，并判断证据何时不支持结论。加速生物学研究始于...
-https://x.com/OpenAI/status/2118782708767965238
+**1. 8点1氪丨黄仁勋发布全员信承认婚外情；比亚迪高管回应收购玛莎拉蒂传闻；Anthropic估值被砍至1.2万亿至1.3万亿美元**
+`36氪 热榜` · AI/商业认知/资本市场 · **31分钟前**
+https://www.36kr.com/p/4061760472585347
 
-**2. DeepSeek Harness 日活154万，官方开始给插件作者发Token：Agent 生态要靠开发者了**
-`36氪 热榜` · AI · **23小时前**
-https://www.36kr.com/p/4057774236652417
+**2. lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） (@lidangzzz)**
+`SoPilot 推特起爆帖` · AI · **53分钟前**
+https://sopilot.net/hot-tweets?tweetId=2119575510237753715
 
-**3. 中国不买英伟达芯片美国人急什么**
-`热搜-头条` · AI · **刚刚**
-https://www.toutiao.com/trending/7704527128851398719/
+**3. OpenAI以1.25万亿美元估值融资110亿美元**
+`Hacker News 最佳` · AI/资本市场 · **9小时前**
+<sub>OpenAI raises $11B at a $1.25T valuation</sub>
+> 文章链接：https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/ 评论链接：https://news.ycombinator.com/item?id=50413822 点数
+https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/
 
-**4. Show HN：一款具备路由能力的不可变本地推理设备**
-`HN Show HN` · AI · **48分钟前**
-<sub>Show HN: An immutable local inference appliance with routing capability</sub>
-> 大家好，HN 的朋友们，我在家里花了不少时间定制推理栈后，一直在做一个副业小项目。我觉得有个相对便携、易维护、可通过 UI 配置的东西会不错。现在还很早期，已内置支持 Vulkan、HIP 和 CUDA，但我只在 AMD 上真正测试过（因为我只有这个）。所以更多硬件测试会很棒
-https://github.com/diffsec/sibyl
+**4. 苹果正加紧让Siri更具智能体能力**
+`The Verge` · AI/资本市场 · **5小时前**
+<sub>Apple is racing to make Siri more agentic</sub>
+> 彭博社的Mark Gurman称，CEO John Ternus正施压AI负责人Craig Federighi加快Siri路线图，并交付一款能与OpenAI的Dots或Meta的Muse竞争的强大AI智能体。尽管Federighi已在极短时间内交付了可用的Siri AI版本，但公司并不幻想它[…]
+https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic
 
-**5. SuSu_酥酥👅 (@NFT_Chen)**
-`SoPilot 推特起爆帖` · AI · **6小时前**
-<sub>SuSu_酥酥👅 (@NFT_Chen)</sub>
-https://sopilot.net/hot-tweets?tweetId=2119132110762254645
-
-**6. 据报道，OpenAI 以 1.25 万亿美元估值额外融资 110 亿美元**
-`TechCrunch` · AI/资本市场 · **昨天**
-<sub>OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation</sub>
-> 据报道，OpenAI 已额外融资 110 亿美元，这是尚未完成、预计未来几周结束的一轮融资的一部分。
-https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/
-
-**7. Meta 战略主管 Dave Wehner 将出任 Fireworks CFO**
-`The Information` · 商业认知/资本市场 · **12小时前**
-<sub>Meta Strategy Chief Dave Wehner to Become Fireworks CFO</sub>
-https://www.theinformation.com/briefings/exclusive-meta-strategy-chief-dave-wehner-become-fireworks-cfo
-
-**8. 万字长文！DeepSeek Super-agent × 企业知识库架构深度拆解与落地实践**
-`掘金` · AI/企业落地 · **刚刚**
-https://juejin.cn/post/7704587408075718665
-
-**9. 本周十大融资：AI、国防和太空科技主导大额融资**
-`Crunchbase 融资板块` · — · **昨天**
-<sub>The Week’s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds</sub>
-> 本周，初创公司和成长型公司又迎来大量大额融资。专注于自主系统和虚拟仿真的国防科技公司 Shield AI 获得最大一笔融资，筹资 20 亿美元。紧随其后的是无人机配送提供商 Zipline International，新获 15 亿美元。
-https://news.crunchbase.com/venture/biggest-startup-rounds-ai-defense-space-tech-shield-zipline/
-
-**10. 与 Hacktron 合作，寻找 OpenAI 系统中的漏洞**
-`OpenAI News` · AI · **昨天**
-<sub>Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</sub>
-> OpenAI 正与 Hacktron 合作，寻找漏洞、测试与第三方服务的连接，并利用前沿 AI 加强防御。
-https://openai.com/index/partnering-with-hacktron
-
-**11. 9点1氪丨豆包工作个人版取消5小时额度限制；人类低温纪录被打破；美科技股反弹，SpaceX市值一夜暴涨9653亿**
-`36氪 热榜` · AI/资本市场 · **23小时前**
-https://www.36kr.com/p/4058997417563266
-
-**12. 如何看待 11 月 7 日 DeepSeek 再次崩溃？**
+**5. 如何看待英伟达 CEO 黄仁勋在致员工内部信中承认婚外情？**
 `热搜-知乎` · AI · **刚刚**
-https://www.zhihu.com/question/2102422630783571434
+https://www.zhihu.com/question/2102997392886911090
 
-**13. Show HN：Sentient，你的编程智能体不应是黑盒**
-`HN Show HN` · AI · **1小时前**
-<sub>Show HN: Sentient, Your Coding Agent Shouldn't Be a Black Box</sub>
-> 在相当密集地使用 claude code 几个月后，我发现我为了推进项目在盲目批准权限请求；这让我意识到编程智能体在底层会生成数百条命令，这是必要的，但说实话挺吓人。你最近可能看到过智能体删除数据库或环境的新闻——在 p...
-https://nosaka.ai/sentient/
+**6. 英伟达调查、Anthropic、CoreWeave与Unity消息预示重要一周**
+`The Information` · AI · **2小时前**
+<sub>Nvidia Inquiry, Anthropic, CoreWeave and Unity News Promise Big Week</sub>
+https://www.theinformation.com/articles/nvidia-inquiry-anthropic-coreweave-unity-news-promise-big-week
 
-**14. Max For AI (@MaxForAI)**
-`SoPilot 推特起爆帖` · — · **1小时前**
-<sub>Max For AI (@MaxForAI)</sub>
-https://sopilot.net/hot-tweets?tweetId=2119210965963362579
+**7. 财联社11月9日电，美股股指期货扩大跌幅，其中纳指期货跌0.6%。**
+`财联社` · 资本市场 · **刚刚**
+https://www.cls.cn/detail/2528396
 
-**15. 美国情报备忘录称，Megaspeed 高管被招募来监视 Nvidia CEO**
-`TechCrunch` · AI · **3小时前**
-<sub>Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo</sub>
-> 据报道，今年早些时候流传的一份备忘录称，中国国家安全部招募了一名女性科技高管来监视 Nvidia CEO。
-https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/
-
-**16. OpenAI 在筹集 110 亿美元后预计下周向投资者通报情况**
-`The Information` · AI · **12小时前**
-<sub>OpenAI Expected to Brief Investors Next Week After Raising $11 Billion</sub>
-https://www.theinformation.com/briefings/openai-secured-11-billion-targets-9-billion-fundraising
-
-**17. vercel-labs / agent-browser**
-`GitHub Trending` · AI · **刚刚**
-<sub>vercel-labs /      agent-browser</sub>
-> 面向 AI 智能体的浏览器自动化 CLI
-https://github.com/vercel-labs/agent-browser
-
-**18. 在美国初创企业交易繁忙的 10 月，General Catalyst 位居领投投资者榜首**
-`Crunchbase 融资板块` · — · **昨天**
-<sub>General Catalyst Tops Lead Investors For October In Busy Month For US Startup Dealmaking</sub>
-> 10 月是美国初创企业融资繁忙的一个月，知名风投投资者对大型交易胃口强劲并引领市场。我们审视三个类别的活跃投资者排名：领投交易数量、最大领投投资和风险投资轮次总额。
-https://news.crunchbase.com/venture/october-2026-lead-startup-investors/
-
-**19. 记忆让 Claude 能从经验中学习。在一篇新的工程博客文章中，我们分享了“做梦”如何帮助 Claude 整理所学...**
-`X-Anthropic` · — · **昨天**
-<sub>Memory is what allows Claude to learn from experience. In a new Engineering Blog post, we share how “dreaming” helps Claude organize what it’s lear...</sub>
-> 记忆让 Claude 能从经验中学习。在一篇新的工程博客文章中，我们分享了“做梦”如何帮助 Claude 整理所学、纠正错误，并在下次更轻松地找到所需内容。https://www.anthropic.com/research/components-of-agent-memory
-https://x.com/AnthropicAI/status/2118814753154064501
-
-**20. Anthropic最强Model 4首次曝光：RSI狂飙2倍速**
-`36氪 热榜` · AI · **23小时前**
-https://www.36kr.com/p/4058973865825161
-
-**21. 外媒曝约 60 万枚英伟达芯片滞留香港，美方部分人士指责其为「卡脖子」，为何美方会对此如此着急？**
-`热搜-知乎` · AI · **刚刚**
-https://www.zhihu.com/question/2102096628895240211
-
-**22. Show HN：KeyContain——对你智能体使用的 API 进行细粒度访问控制**
-`HN Show HN` · AI · **4小时前**
-<sub>Show HN: KeyContain – Fine-grained access to APIs your agents use</sub>
-> 文章链接：https://keycontain.com 评论链接：https://news.ycombinator.com/item?id=50407706 点数：1 # 评论：0
-https://keycontain.com
-
-**23. Wtor (@7d9ab09e9587562)**
-`SoPilot 推特起爆帖` · — · **2小时前**
-<sub>Wtor (@7d9ab09e9587562)</sub>
-https://sopilot.net/hot-tweets?tweetId=2119191740553043973
-
-**24. Meta 推出 Spaces，一种与 Muse agent 协作的新方式**
-`TechCrunch` · AI/资本市场 · **昨天**
-<sub>Meta introduces Spaces, a new way to collaborate with your Muse agent</sub>
-> Meta 的 Muse agent 持续获得新功能和集成。Spaces 有望成为与这些 AI 助手互动的新方式。
-https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/
-
-**25. Anthropic 将于下周推进 IPO 路演**
-`The Information` · AI/商业认知 · **昨天**
-<sub>Anthropic to Proceed With IPO Roadshow Next Week</sub>
-https://www.theinformation.com/briefings/anthropic-proceed-ipo-roadshow-next-week
-
-**26. anthropics / skills**
-`GitHub Trending` · AI · **刚刚**
-<sub>anthropics /      skills</sub>
-> Agent Skills 的公共仓库
-https://github.com/anthropics/skills
-
-**27. 与 Edelbyte 合作：能跟上 AI 好奇心的数据基础设施**
+**8. 与 Edelbyte 合作：能跟上 AI 好奇心的数据基础设施**
 `Sequoia 观点` · — · **1分钟前**
 <sub>Partnering with Edelbyte: Data Infrastructure That Keeps Up With AI's Curiosity</sub>
 > AI 智能体对公司数据提出的问题将远超人类。Edelbyte 正在构建能快速、以合理价格回答所有问题的数据平台。
 https://www.sequoiacap.com/article/partnering-with-edelbyte-data-infrastructure-that-keeps-up-with-ai-s-curiosity
 
-**28. 我们与 @fmf_org 及其成员公司合作，推出一个新框架，帮助识别绕过 AI 系统防护措施何时可能导致严重网络危害。**
-`X-OpenAI` · — · **昨天**
-<sub>We partnered with @fmf_org and its member firms on a new framework to help identify when bypassing an AI system's safeguards could enable serious cybe...</sub>
-> 我们与 @fmf_org 及其成员公司合作制定新框架，帮助识别绕过 AI 系统防护何时可能导致严重网络危害，并优先加强保护。“……该框架是迈向通用方法的重要一步，用于评估和比较网络越狱的严重性，包括它们解锁的能力及使用难易程度。S
-https://x.com/OpenAI/status/2118795218099253606
+**9. Agent 越用越多，企业为何仍不够 AI Native？**
+`InfoQ 中文` · AI · **24分钟前**
+https://www.infoq.cn/article/YZx670AAiudsqZjx3UNo?utm_source=rss&amp;utm_medium=article
 
-**29. 抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？**
-`量子位` · AI · **19小时前**
-https://www.qbitai.com/2026/11/508264.html
+**10. LEI（@TheMarketMemo）**
+`SoPilot 推特起爆帖` · 资本市场 · **1小时前**
+<sub>LEI (@TheMarketMemo)</sub>
+https://sopilot.net/hot-tweets?tweetId=2119560260352671800
 
-**30. 模型蒸馏为何让Anthropic忌惮**
+**11. Show HN：APC Playground——阻止AI智能体修改你的API工具调用**
+`HN Show HN` · AI · **4小时前**
+<sub>Show HN: APC Playground – Stop AI agents from modifying your API tool calls</sub>
+> 文章链接：https://playground.alephapc.com/ 评论链接：https://news.ycombinator.com/item?id=50416757 点数：1 # 评论数：0
+https://playground.alephapc.com/
+
+**12. 以下是黄仁勋致英伟达员工的备忘录全文**
+`The Verge` · AI · **1小时前**
+<sub>Here’s the full text of Jensen Huang’s memo to Nvidia</sub>
+> 周日，英伟达宣布对CEO黄仁勋与Alice Huang的关系展开调查。Alice Huang是一名AI高管，也是中国政府特工。除董事会宣布调查外，黄仁勋还向英伟达员工发送备忘录承认婚外情。以下是全文。致我的[…]
+https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia
+
+**13. 模型蒸馏为何让Anthropic忌惮**
 `热搜-B站` · AI · **刚刚**
 https://search.bilibili.com/all?keyword=%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%E4%B8%BA%E4%BD%95%E8%AE%A9Anthropic%E5%BF%8C%E6%83%AE
 
-**31. Anthropic IPO 买家认为估值低至 1.1 万亿美元**
-`Hacker News 最佳` · AI/商业认知/资本市场 · **昨天**
-<sub>Anthropic IPO buyers see valuation as low as $1.1T</sub>
-> https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3... 评论链接：https://news.ycombinator.com/item?id=50394906 点数：308 # 评论：612
-https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout
+**14. DeepSeek的AI智能体平台日活达154万**
+`Bloomberg Technology` · AI · **6小时前**
+<sub>DeepSeek’s AI Agent Platform Hits 1.54 Million Daily Users</sub>
+> 中国AI颠覆者DeepSeek公布了其AI智能体基础设施惊人的采用数据，它正凭借围绕开源AI技术构建的一系列应用，持续挑战Anthropic PBC和OpenAI。
+https://www.bloomberg.com/news/articles/2026-11-08/deepseek-s-ai-agent-platform-hits-1-54-million-daily-users
 
-**32. feishu (@feishutoday)**
-`SoPilot 推特起爆帖` · — · **5小时前**
-<sub>feishu (@feishutoday)</sub>
-https://sopilot.net/hot-tweets?tweetId=2119145212832518523
+**15. 万字长文！DeepSeek Super-agent × 企业知识库架构深度拆解与落地实践**
+`掘金` · AI/企业落地 · **刚刚**
+https://juejin.cn/post/7704587408075718665
 
-**33. Ramp 数据显示，在 Anthropic 临近 IPO 之际，AI 支出陷入停滞**
-`TechCrunch` · AI/商业认知 · **昨天**
-<sub>Ramp data shows AI spending stalling just as Anthropic nears its IPO</sub>
-> AI 使用量持续攀升，但支出已停滞。最大支出方之间的降价和更智能的成本控制，可能挑战投资者对 AI 超高速增长的假设。
-https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/
+**16. 规模缩水结构生变，上市公司理财“调仓换挡”。上市公司理财正出现明显“调仓换挡”态势。今年以来，上市公司认购理财产品的整体规模有所缩减，配置结构亦正悄然...**
+`虎嗅` · 商业认知 · **59分钟前**
+https://www.huxiu.com/moment/1295098.html
 
-**34. 美国认为 Nvidia 的黄仁勋与一名被指为中国间谍的人有恋爱关系**
-`Financial Times` · AI · **2小时前**
-<sub>US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy</sub>
-> 美国情报部门警告，这位科技老板与一名被中国招募、为收集该美国集团信息的高管有牵连
-https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1
+**17. 数字生命卡兹克 (@Khazix0918)**
+`SoPilot 推特起爆帖` · AI · **5小时前**
+https://sopilot.net/hot-tweets?tweetId=2119507514459144677
 
-**35. 庆祝《霍格沃茨之遗》上线 DLSS 5，英伟达推出定制版 RTX 5090 显卡抽奖活动**
-`IT之家` · AI · **刚刚**
-https://www.ithome.com/1/023/847.htm
+**18. 英伟达CEO黄仁勋就婚外情致员工的信**
+`Hacker News 前页` · AI · **2小时前**
+<sub>Nvidia CEO Jensen Huang's letter to staff about affair</sub>
+> 文章链接：https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company 评论链接：https://news.ycombinator.com/item?id=50418016 点数：266 # 评论数：257
+https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company
 
-**36. 2026.45：落叶（与股票）**
-`Stratechery` · 资本市场 · **昨天**
-<sub>2026.45: Falling Leaves (and Stocks)</sub>
-> 2026年11月2日当周 Stratechery 的最佳内容，包括AI进入选票议题、Google 的国情咨文式盘点，以及中国。
-https://stratechery.com/2026/falling-leaves-and-stocks/
+**19. 英伟达将调查CEO黄仁勋与疑似中国间谍的关系**
+`TechCrunch` · AI · **3小时前**
+<sub>Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy</sub>
+> 在致公司的备忘录中，黄仁勋承认自己有婚外情。
+https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/
 
-**37. 科学博客新文：AI 正如何开始改变科学建模。科学模型帮助研究人员解释和预测现实世界系统……**
-`X-Anthropic` · — · **昨天**
-<sub>New on our Science Blog: How AI is beginning to change scientific modeling. Scientific models help researchers explain and predict real-world systems...</sub>
-> 科学博客新文：AI 正如何开始改变科学建模。科学模型帮助研究人员解释和预测现实世界系统——比如单个神经细胞如何放电，或中子星碰撞时会发生什么。近期进展已改变科学家将复杂模型拟合数据的方式。但科学家通常仍手动编写模型，且往往需要权衡多个……
-https://x.com/AnthropicAI/status/2118792930211107115
+**20. iPhone每年换一次和五年换一次**
+`热搜-微博` · — · **刚刚**
+https://s.weibo.com/weibo?q=iPhone%E6%AF%8F%E5%B9%B4%E6%8D%A2%E4%B8%80%E6%AC%A1%E5%92%8C%E4%BA%94%E5%B9%B4%E6%8D%A2%E4%B8%80%E6%AC%A1&t=31&band_rank=4&Refer=top
 
-**38. CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京**
-`InfoQ 中文` · AI · **14小时前**
-https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr?utm_source=rss&amp;utm_medium=article
+**21. Anthropic 将于下周推进 IPO 路演**
+`The Information` · AI/商业认知 · **11小时前**
+<sub>Anthropic to Proceed With IPO Roadshow Next Week</sub>
+https://www.theinformation.com/briefings/anthropic-proceed-ipo-roadshow-next-week
 
-**39. DeepSeek Harness基础教学**
-`热搜-B站` · AI · **刚刚**
-https://search.bilibili.com/all?keyword=DeepSeek%20Harness
+**22. 财联社11月9日电，美股纳指期货涨0.25%，此前一度跌近1%。**
+`财联社` · 资本市场 · **刚刚**
+https://www.cls.cn/detail/2528401
 
-**40. Tobira Site Agent**
-`Product Hunt` · AI · **34分钟前**
+**23. 特朗普谈及英伟达黄仁勋：我愿意带他一起去，但不知道他是否会随团前往亚洲。**
+`虎嗅` · AI · **1小时前**
+https://www.huxiu.com/moment/1295097.html
+
+**24. 张平 (@pingzhang632)**
+`SoPilot 推特起爆帖` · — · **1小时前**
+<sub>张平 (@pingzhang632)</sub>
+https://sopilot.net/hot-tweets?tweetId=2119560283580518687
+
+**25. Agent Clan**
+`Product Hunt` · AI · **1小时前**
+<sub>Agent Clan</sub>
+https://www.producthunt.com/products/agent-clan
+
+**26. 英伟达正调查黄仁勋与中国间谍的关系**
+`The Verge` · AI · **3小时前**
+<sub>Nvidia is investigating Jensen Huang’s relationship with a Chinese spy</sub>
+> 英伟达宣布对CEO黄仁勋及其与Megaspeed高管Alice Huang的关系展开调查。据报道，Alice Huang被中国国家安全部招募，用于刺探该公司情报。董事会发布的声明写道：英伟达董事会正在启动一项独立调查，鉴于[…]
+https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy
+
+**27. 付鹏称AI漫剧全部亏损**
+`热搜-微博` · — · **刚刚**
+https://s.weibo.com/weibo?q=%E4%BB%98%E9%B9%8F%E7%A7%B0AI%E6%BC%AB%E5%89%A7%E5%85%A8%E9%83%A8%E4%BA%8F%E6%8D%9F&t=31&band_rank=7&Refer=top
+
+**28. 报道称英伟达CEO遭中国线人盯上，董事会启动调查**
+`The Information` · AI · **3小时前**
+<sub>Nvidia Board Is Launching Investigation After Reporting That CEO Targeted By Chinese Informant</sub>
+https://www.theinformation.com/briefings/nvidia-board-launching-investigation-reporting-ceo-targeted-chinese-informant
+
+**29. vercel-labs / agent-browser**
+`GitHub Trending` · AI · **刚刚**
+<sub>vercel-labs /      agent-browser</sub>
+> 面向 AI 智能体的浏览器自动化 CLI
+https://github.com/vercel-labs/agent-browser
+
+**30. 抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？**
+`量子位` · AI · **昨天**
+https://www.qbitai.com/2026/11/508264.html
+
+**31. KUNLUN昆侖 (@Kunluntalk)**
+`SoPilot 推特起爆帖` · — · **2小时前**
+<sub>KUNLUN昆侖 (@Kunluntalk)</sub>
+https://sopilot.net/hot-tweets?tweetId=2119557866793423199
+
+**32. Tobira Site Agent**
+`Product Hunt` · AI · **3小时前**
 <sub>Tobira Site Agent</sub>
 https://www.producthunt.com/products/tobira-ai
+
+**33. 美国情报备忘录称，Megaspeed 高管被招募来监视 Nvidia CEO**
+`TechCrunch` · AI · **昨天**
+<sub>Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo</sub>
+> 据报道，今年早些时候流传的一份备忘录称，中国国家安全部招募了一名女性科技高管来监视 Nvidia CEO。
+https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/
+
+**34. 山姆全球购上架加拿大鹅始祖鸟**
+`热搜-微博` · — · **刚刚**
+https://s.weibo.com/weibo?q=%E5%B1%B1%E5%A7%86%E5%85%A8%E7%90%83%E8%B4%AD%E4%B8%8A%E6%9E%B6%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%B9%85%E5%A7%8B%E7%A5%96%E9%B8%9F&t=31&band_rank=28&Refer=top
+
+**35. OpenAI 在筹集 110 亿美元后预计下周向投资者通报情况**
+`The Information` · AI · **11小时前**
+<sub>OpenAI Expected to Brief Investors Next Week After Raising $11 Billion</sub>
+https://www.theinformation.com/briefings/openai-secured-11-billion-targets-9-billion-fundraising
+
+**36. anthropics / skills**
+`GitHub Trending` · AI · **刚刚**
+<sub>anthropics /      skills</sub>
+> Agent Skills 的公共仓库
+https://github.com/anthropics/skills
+
+**37. 美股暴跌后，“木头姐”：市场越担忧我越乐观，牛市未完**
+`华尔街见闻` · 资本市场 · **14小时前**
+https://wallstreetcn.com/articles/3785486
+
+**38. 陳家煜 (@oldguardjay)**
+`SoPilot 推特起爆帖` · — · **2小时前**
+https://sopilot.net/hot-tweets?tweetId=2119555764394115075
+
+**39. 英伟达董事会正调查黄仁勋**
+`Hacker News 前页` · AI · **4小时前**
+<sub>Nvidia Board of Directors Is Investigating Jensen Huang</sub>
+> 文章链接：https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors 评论链接：https://news.ycombinator.com/item?id=50416801 点数：347 # 评论数：267
+https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors
+
+**40. 帮你摆脱无休止“末日刷屏”循环的应用**
+`TechCrunch` · — · **2小时前**
+<sub>Apps to distract you from the endless cycle of doomscrolling</sub>
+> 打破“末日刷屏”循环很难，但有许多应用能帮你把更多时间花在引人入胜且有产出的内容上。
+https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/
