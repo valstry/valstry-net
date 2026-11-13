@@ -1,214 +1,213 @@
-# 信源日报 2026-11-12
+# 信源日报 2026-11-13
 
-68 源 · 储备 1180 条 · 精选 40 条（仅限 48 小时内）
+68 源 · 储备 1104 条 · 精选 40 条（仅限 48 小时内）
 
 ---
 
-**1. 我们正把在保护OpenAI过程中积累的经验转化为面向客户的实用工具。周四，欢迎参加 Cyber at the Frontier 直播主题演讲，……**
-`X-OpenAI` · AI · **昨天**
-<sub>We're turning our lessons from defending OpenAI into practical tools for our customers. On Thursday, join us at Cyber at the Frontier, a live keynote,...</sub>
-> 我们正把在保护OpenAI过程中积累的经验转化为面向客户的实用工具。周四，欢迎参加 Cyber at the Frontier 直播主题演讲，了解我们最新的网络安全发布。借助我们的前沿模型，我们已发现并解决了自身代码和基础设施中的重要漏洞。这些经验正为我们打造的工具和操作手册提供依据，以帮助其他安全……
-https://x.com/OpenAI/status/2120202353907486826
+**1. Amplitude 如何借助 OpenAI 在 1–2 天内交付产品改进**
+`OpenAI News` · AI · **4小时前**
+<sub>How Amplitude ships product improvements in 1–2 days with OpenAI</sub>
+> Amplitude 的主动式产品智能体 Wave 主要基于 OpenAI 模型构建，可识别该构建什么、帮助团队通过编码智能体交付变更，并衡量影响。
+https://openai.com/business/customer-stories/amplitude
 
-**2. lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） (@lidangzzz)**
-`SoPilot 推特起爆帖` · AI · **1小时前**
-https://sopilot.net/hot-tweets?tweetId=2120650483744338246
+**2. 如何看待张一鸣称字节不应依赖蒸馏，应长期自主研发，「追上 OpenAI 还需三四年」？核心难点在哪？**
+`热搜-知乎` · AI · **刚刚**
+https://www.zhihu.com/question/2104125774148146904
 
-**3. Anthropic IPO遭疯抢**
-`热搜-百度` · AI/商业认知 · **刚刚**
-https://www.baidu.com/s?wd=Anthropic+IPO%E9%81%AD%E7%96%AF%E6%8A%A2
+**3. SpaceX计划在亚利桑那州和德克萨斯州投资740亿美元扩充算力。SpaceX计划建设两座超级计算设施，以强化其快速增长的人工智能业务，其中包括在亚利桑那州新建一个...**
+`虎嗅` · AI · **1小时前**
+https://www.huxiu.com/moment/1296381.html
 
-**4. Show HN：用于 Google Ads 广告系列的 Agent skill 及 Claude/Codex 插件**
-`HN Show HN` · AI · **1小时前**
-<sub>Show HN: Agent skill and Claude/Codex plugins for Google Ads campaigns</sub>
-> 文章链接：https://github.com/adeptads/agent-skills 评论链接：https://news.ycombinator.com/item?id=50460287 得分：1 评论数：0
-https://github.com/adeptads/agent-skills
+**4. Michael Guo (@Michaelzsguo)**
+`SoPilot 推特起爆帖` · AI · **2小时前**
+<sub>Michael Guo (@Michaelzsguo)</sub>
+https://sopilot.net/hot-tweets?tweetId=2121003462494241163
 
-**5. Anthropic 拟借上市募资创纪录的885亿美元**
-`Crunchbase 融资板块` · AI/资本市场 · **昨天**
-<sub>Anthropic Seeks Record $88.5B Tied To Public Market Debut</sub>
-> Anthropic 计划在其IPO及同步进行的私募配售中募资至多885亿美元，这可能成为有史以来与公开上市相关的最大规模融资。周二，这家AI巨头为其即将进行的公开募股提交了更新版S-1文件，披露了拟议股价区间和发行规模等新细节。
-https://news.crunchbase.com/ai/anthropic-record-ipo-ant-public-market-debut-spcx/
+**5. 美联储理事会公布自 2027 年 1 月 1 日起对联邦储备银行向银行和信用合作社提供的支付服务定价，并宣布简化和调整支票服务的变更**
+`美联储 新闻稿` · 企业落地/资本市场 · **6小时前**
+<sub>Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services</sub>
+> 美联储理事会公布自 2027 年 1 月 1 日起对联邦储备银行向银行和信用合作社提供的支付服务定价，并宣布简化和调整支票服务的变更
+<![CDATA[https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm]]>
 
-**6. Jensen Huang 被指另有婚外情——对象为一名 Nvidia 高管**
+**6. Anthropic IPO**
+`Hacker News 最佳` · AI/商业认知 · **12小时前**
+<sub>Anthropic IPO</sub>
+> 文章 URL：https://ipo.anthropic.com/us/ 评论 URL：https://news.ycombinator.com/item?id=50465829 得分：788 评论数：781
+https://ipo.anthropic.com/us/
+
+**7. Nectar 推出 AI 智能体，为品牌自动化创作者发现与外联**
+`TechCrunch` · AI · **5小时前**
+<sub>Nectar launches an AI agent to automate creator discovery and outreach for brands</sub>
+> Nectar 的新 AI 智能体可自动化网红营销，帮助品牌发现创作者、管理外联与合作，并追踪活动效果。
+https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/
+
+**8. Nvidia 对 Anthropic IPO 的 100 亿美元认购承诺因 CEO 离任而受关注**
+`Bloomberg Technology` · AI/商业认知/个人成长 · **4小时前**
+<sub>Nvidia’s $10B Anthropic IPO Pledge in Focus With CEO Exit</sub>
+> Bloomberg Intelligence 的 Mandeep Singh 与 Bloomberg 的 Anthony Hughes 做客 Scarlet Fu 主持的“Bloomberg Real Yield”。在 Nvidia CEO 意外被罢免后，Anthropic 创纪录 IPO 的计划受到重新审视，凸显两家 AI 巨头之间的联系。（来源：Bloomberg）
+https://www.bloomberg.com/news/videos/2026-11-12/nvidia-s-10b-anthropic-ipo-pledge-in-focus-as-ceo-exits-video
+
+**9. 边警告 AI 风险边开发先进模型：OpenAI、Anthropic、谷歌等五家 AI 巨头遭起诉，被要求叫停 ChatGPT、Claude、Gemini**
+`IT之家` · AI · **刚刚**
+https://www.ithome.com/1/026/466.htm
+
+**10. Uber 正大举收购。以下是它接下来应收购的 4 家公司。**
+`CB Insights 研究` · 商业认知 · **1小时前**
+<sub>Uber is on an acquisition spree. Here are 4 companies it should buy next.</sub>
+> Uber 一直在大举收购。上月，它同意以 23 亿美元收购为办公室会议提供餐饮服务的平台 ezCater。这是其今年九笔收购中的最新一笔，高于 2025 年的五笔，以及…… 文章《Uber 正大举收购。以下是它接下来应收购的 4 家公司。》首发于 CB Insights Research。
+https://www.cbinsights.com/research/uber-shopping-list/
+
+**11. 我们的首次公开募股：https://ipo.anthropic.com 法律免责声明：Anthropic 已向 th... 提交注册声明（包括招股说明书）**
+`X-Anthropic` · AI/商业认知 · **13小时前**
+<sub>Our initial public offering: https://ipo.anthropic.com Legal disclaimer: Anthropic has filed a registration statement (including a prospectus) with th...</sub>
+> 我们的首次公开募股：https://ipo.anthropic.com 法律免责声明：Anthropic 已就本通讯所涉发行向 SEC 提交注册声明（包括招股说明书）。投资前，您应阅读该注册声明中的招股说明书（见：https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm）以及
+https://x.com/AnthropicAI/status/2120841731302154708
+
+**12. 英伟达大跌13%**
+`热搜-微博` · AI · **刚刚**
+https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%A4%A7%E8%B7%8C13%25%23&t=31&band_rank=8&Refer=top
+
+**13. Anthropic启动IPO路演，估值已缩水6000亿美元**
+`量子位` · AI/商业认知/资本市场 · **14小时前**
+https://www.qbitai.com/2026/11/509381.html
+
+**14. 投资TALK君 (@TJ_Research)**
+`SoPilot 推特起爆帖` · AI · **2小时前**
+<sub>投资TALK君 (@TJ_Research)</sub>
+https://sopilot.net/hot-tweets?tweetId=2120997667023253743
+
+**15. 美联储公布 2027 年联邦公开市场委员会会议修订后的暂定日程**
+`美联储 新闻稿` · 资本市场 · **6小时前**
+<sub>Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027</sub>
+> 美联储公布 2027 年联邦公开市场委员会会议修订后的暂定日程
+<![CDATA[https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm]]>
+
+**16. Insight7 语音 AI 智能体**
+`Product Hunt` · AI · **27分钟前**
+<sub>Insight7 Voice AI Agents</sub>
+https://www.producthunt.com/products/insight7
+
+**17. 民主党人启动对 Nvidia 的调查，并就 Huang 与 Trump 的“计划”发出严厉信函**
 `TechCrunch` · AI · **1小时前**
-<sub>Jensen Huang accused of having another affair — with an Nvidia exec</sub>
-> Jensen Huang 此前承认与一名被指为中国情报人员的女子有婚外情而受到抨击，如今又被指与一名 Nvidia 下属有另一段婚外情。
-https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/
+<sub>Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump</sub>
+> 这项针对 Nvidia 对华销售及其与 Trump 往来的国会调查，是自涉嫌间谍事件曝光以来迄今的第二项调查。
+https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/
 
-**7. Anthropic 与 OpenAI 的估值差距**
-`The Information` · AI/资本市场 · **3小时前**
-<sub>The Anthropic-OpenAI Valuation Gap</sub>
-https://www.theinformation.com/articles/anthropic-openai-valuation-gap
+**18. Nvidia CEO 辞职，股市下跌 | Closing Bell**
+`Bloomberg Technology` · AI/资本市场 · **2小时前**
+<sub>Stocks Down as Nvidia CEO Resigns | Closing Bell</sub>
+> 由 Romaine Bostick、Jess Menton、Carol Massar 和 Tim Stenovec 在 Bloomberg Television、Bloomberg Radio 和 YouTube 上全面跨平台报道美国市场收盘。（来源：Bloomberg）
+https://www.bloomberg.com/news/videos/2026-11-12/huang-ousted-by-nvidia-board-as-ceo-closing-bell-video
 
-**8. 2026，AI应用的钱都流向了哪里？**
-`36氪 热榜` · AI · **23小时前**
-https://www.36kr.com/p/4064628019598211
+**19. 【研选•研报数据】国产GPU性能迭代与订单放量共振，商业化进程全面提速；公司光纤业务量价齐升，光芯片认证与订单落地打开成长空间**
+`财联社` · 企业落地/个人成长 · **刚刚**
+https://www.cls.cn/detail/2532138
 
-**9. EngineAgent：让端侧 LLM 推理引擎具备 Agent 能力，感知推理栈层级与硬件能力**
-`arXiv cs.CL` · AI · **19小时前**
-<sub>EngineAgent: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities</sub>
-> arXiv:2611.14356v1 公告类型：cross 摘要：快速演进的 LLM 架构与异构移动硬件，使端侧推理引擎支持新模型成为反复出现且成本高昂的系统性挑战。每个模型可能需要在转换、图构建、算子和硬件后端之间进行协同修改。现有编码 Agent 往往忽略这些跨层依赖
-https://arxiv.org/abs/2611.14356
+**20. 即便人造肉失宠，风投仍在追逐蛋白质**
+`Crunchbase 融资板块` · — · **12小时前**
+<sub>VCs Are Still Chasing Protein, Even As Fake Meat Falls Out Of Favor</sub>
+> 近期初创企业投资已从肉类替代品转向在其他包装食品和饮料中加入更多蛋白质。这一风潮在超市货架上显而易见：初创品牌和成熟品牌都在不遗余力地宣传其面条、松饼、麦片、能量棒、爆米花等产品中的添加蛋白质。我们来看看。
+https://news.crunchbase.com/venture/protein-startups-raise-funding-medici/
 
-**10. 周四你需要知道的隔夜全球要闻：AI产业链交易热潮回归，纳斯达克100指数收涨超2%；承销商拟上调Anthropic估值至1.5万亿美元；特朗普据对万斯重启与伊朗谈判持开放态度**
-`财联社` · AI/资本市场 · **刚刚**
-https://www.cls.cn/detail/2532065
+**21. Gondola 团队借助 Codex 构建更多，推动营收翻倍**
+`OpenAI News` · 企业落地 · **12小时前**
+<sub>Gondola doubles revenue as its team builds more with Codex</sub>
+> Gondola 帮助创意人士获得署名与工作机会；Codex 使其首席工程师产出提升 50%，ChatGPT 则简化日常工作。
+https://openai.com/business/customer-stories/gondola
 
-**11. Anthropic 已启动其拟议首次公开募股的路演：https://www.anthropic.com/news/roadshow-launch 法律免责声明：与这些证券相关的注册声明……**
-`X-Anthropic` · AI · **昨天**
-<sub>Anthropic has launched the roadshow for its proposed initial public offering: https://www.anthropic.com/news/roadshow-launch Legal disclaimer: A regis...</sub>
-> Anthropic 已启动其拟议首次公开募股的路演：https://www.anthropic.com/news/roadshow-launch 法律免责声明：与这些证券相关的注册声明已提交美国证券交易委员会（SEC），但尚未生效。在注册声明生效之前，不得出售这些证券，也不得接受购买要约。本……
-https://x.com/AnthropicAI/status/2120117722230968385
+**22. 英伟达总市值重回4万亿美元**
+`热搜-微博` · AI · **刚刚**
+https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%80%BB%E5%B8%82%E5%80%BC%E9%87%8D%E5%9B%9E4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=15&Refer=top
 
-**12. SuSu_酥酥👅 (@NFT_Chen)**
-`SoPilot 推特起爆帖` · AI · **4小时前**
-<sub>SuSu_酥酥👅 (@NFT_Chen)</sub>
-https://sopilot.net/hot-tweets?tweetId=2120609494891995523
+**23. 图集｜【第十七届财新峰会】财新AI圆桌：人工智能下一程**
+`财新` · AI · **1小时前**
+https://photos.caixin.com/2026-11-12/102504207.html
 
-**13. Anthropic披露AI仅用3天适配AMD芯片**
-`热搜-头条` · AI · **刚刚**
-https://www.toutiao.com/trending/7706948038756929087/
+**24. 悉尼奶爸 SydneyDaddy 雪梨奶爸 🇦🇺🇮🇱 (@SydneyDaddy1)**
+`SoPilot 推特起爆帖` · AI · **2小时前**
+https://sopilot.net/hot-tweets?tweetId=2120996024382820503
 
-**14. @nicolewalters：这就是 Nuance Labs 的团队，他们打造了正在走红的黑人女性 AI agent Emma。没有黑人。一个都没有。想象一下。这……**
-`Threads-AI讨论` · AI · **9小时前**
-<sub>@nicolewalters: This is the team at Nuance Labs that created Emma, the Black Woman AI agent that’s going viral. No Black People. Not one. Imagine. Th...</sub>
-> @nicolewalters：这就是 Nuance Labs 的团队，他们打造了正在走红的黑人女性 AI agent Emma。团队里没有黑人。一个都没有。想象一下。他们多年来一直在会议中互动、讨论、修改这个模型——讨论她的举止、肤色、头发、表情、声音——而房间里没有一个黑人。你无法说服我，那些对话……
-https://www.threads.com/t/Dfmz3VWm0rd
+**25. 美联储理事会对 United Community Bank 前员工采取执法行动**
+`美联储 新闻稿` · 资本市场 · **8小时前**
+<sub>Federal Reserve Board issues enforcement action with former employee of United Community Bank</sub>
+> 美联储理事会对 United Community Bank 前员工采取执法行动
+<![CDATA[https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm]]>
 
-**15. 独家：Nubank 前员工为哥伦比亚的 Palomma 融资 1400 万美元，用于解决租金支付和房东融资**
-`Crunchbase 融资板块` · — · **11小时前**
+**26. Show HN：一款用 Rust 编写、内置智能体集成的画布终端应用**
+`HN Show HN` · AI · **1小时前**
+<sub>Show HN: A canvas terminal app written in Rust with built-in agent integration</sub>
+> 我开发并日常使用 Inifiterm 已有一段时间。这个想法源于我试遍了各种新颖亮眼的 agentic 终端，但不喜欢把内容列在侧边栏的做法，于是做了这个。欢迎告诉我你的看法。评论链接：https://news.ycombinator.com/item?id=50475817 点数：2 # 评论：1
+https://infiniterm.app/
+
+**27. Jensen Huang 的离职让 Nvidia 对开源的支持存疑**
+`TechCrunch` · AI · **5小时前**
+<sub>Jensen Huang’s exit puts Nvidia’s support for open source in question</sub>
+> Jensen Huang 的辞职引发外界质疑 Nvidia 对开源 AI 的承诺，包括其收购 Hugging Face、开放权重模型，以及反对监管限制的立场；公司正处在领导层交接期。
+https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/
+
+**28. United Airlines 禁止 Muse、Instinct 等 AI 代理预订航班**
+`The Information` · AI · **1小时前**
+<sub>United Airlines Blocks AI Agents Like Muse and Instinct From Booking Flights</sub>
+https://www.theinformation.com/briefings/united-airlines-blocks-ai-agents-like-muse-instinct-booking-flights
+
+**29. Anthropic、OpenAI 遭专利诉讼，被指侵犯五项神经网络技术专利**
+`IT之家` · AI · **刚刚**
+https://www.ithome.com/1/026/464.htm
+
+**30. 独家：Nubank 前员工为哥伦比亚的 Palomma 融资 1400 万美元，用于解决租金支付和房东融资**
+`Crunchbase 融资板块` · — · **昨天**
 <sub>Exclusive: Nubank Alum Raises $14M For Colombia’s Palomma To Tackle Rent Payments, Landlord Financing</sub>
 > Crunchbase News 独家获悉，哥伦比亚初创公司 Palomma 已完成 1000 万美元 A 轮融资，由墨西哥风投公司 Cometa 领投，用于扩展面向房东、租户和物业管理者的金融服务业务。
 https://news.crunchbase.com/fintech/nubank-alum-colombia-startup-palomma-ai-rental-services/
 
-**16. 据报道，OpenAI 季度营收首次突破 100 亿美元**
-`TechCrunch` · AI/企业落地 · **8小时前**
-<sub>OpenAI’s quarterly revenue reportedly crosses $10B for the first time</sub>
-> 100 亿美元的销售额较公司第二季度录得的 67 亿美元营收增长近 50%。
-https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/
+**31. Holiday Extras 正重新思考用 Codex 能构建什么**
+`OpenAI News` · — · **15小时前**
+<sub>Holiday Extras is rethinking what it can build with Codex</sub>
+> 借助 Codex，Holiday Extras 正把客户专业知识转化为更好的应用、更高的预订转化率以及新的增长可能。
+https://openai.com/business/customer-stories/holidays-extras-codex
 
-**17. OpenAI、Anthropic 估值引发风投对初创企业回调的担忧**
-`Bloomberg Technology` · AI/资本市场 · **2小时前**
-<sub>OpenAI, Anthropic Valuations Fuel VC Fears of Startup Correction</sub>
-> 9 月下旬，OpenAI 信心满满地就最新一轮融资展开讨论。在与表达兴趣的潜在投资方进行初步洽谈后，公司提出了条款：以 1.4 万亿美元估值至少融资 300 亿美元。很少有初创公司能像 OpenAI 这样擅长融资，其上次估值为 8520 亿美元。然而这一次，一些……
-https://www.bloomberg.com/news/articles/2026-11-11/openai-anthropic-valuations-fuel-vc-fears-of-startup-correction
+**32. 国产手机再迎双品牌战略**
+`热搜-头条` · 商业认知 · **刚刚**
+https://www.toutiao.com/trending/7707106382072054322/
 
-**18. 上下文也是成本：Agent 效率优化的新思路 ｜ 技术趋势**
-`InfoQ 中文` · AI/个人成长 · **5小时前**
-https://www.infoq.cn/article/iaCUbU8Fwz6G6bDlQ9BV?utm_source=rss&amp;utm_medium=article
+**33. 英伟达，今日开会决定“黄仁勋是否下台”**
+`36氪 热榜` · AI · **20小时前**
+https://www.36kr.com/p/4066242381419400
 
-**19. BioMem：面向生物医学 LLM Agent 的 Agent 记忆**
-`arXiv cs.CL` · AI · **19小时前**
-<sub>BioMem: Agentic Memory for Biomedical LLM Agents</sub>
-https://arxiv.org/abs/2611.13426
+**34. 老木Nova (@laomunova)**
+`SoPilot 推特起爆帖` · AI · **2小时前**
+<sub>老木Nova (@laomunova)</sub>
+https://sopilot.net/hot-tweets?tweetId=2120993138131021936
 
-**20. 财联社11月12日电，美股股指期货低开，其中纳指期货跌超0.9%。**
+**35. Show HN：Neon 与 Mubit：一个将自身前沿模型 token 削减 73% 的代理**
+`HN Show HN` · AI · **2小时前**
+<sub>Show HN: Neon and Mubit: an agent that cuts its own frontier-model tokens by 73%</sub>
+> 文章链接：https://neon.com/blog/mubit-neon-ai-gateway 评论链接：https://news.ycombinator.com/item?id=50474934 点数：2 # 评论：0
+https://neon.com/blog/mubit-neon-ai-gateway
+
+**36. United Airlines 以网络安全风险为由禁止 AI 代理预订航班**
+`TechCrunch` · AI · **7小时前**
+<sub>United Airlines blocks AI agents from booking flights, citing cybersecurity risks</sub>
+> 该航空公司表示，将不允许客户使用 AI 代理订票和管理预订。
+https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/
+
+**37. 前 Nvidia CEO Huang 与第二名员工有婚外情**
+`The Information` · AI · **3小时前**
+<sub>Ex-Nvidia CEO Huang Had Affair With Second Employee</sub>
+https://www.theinformation.com/briefings/ex-nvidia-ceo-huang-affair-second-employee
+
+**38. 财联社11月13日电，美股股指期货小幅高开，其中纳指期货涨0.12%。**
 `财联社` · 资本市场 · **刚刚**
-https://www.cls.cn/detail/2532082
+https://www.cls.cn/detail/2533281
 
-**21. 新加坡航空借助 OpenAI 技术提升旅行与工作效率**
-`OpenAI News` · AI · **昨天**
-<sub>Singapore Airlines elevates travel & work with OpenAI technology</sub>
-> 了解新加坡航空如何利用 OpenAI 模型和 API 提升客户支持、旅行发现和员工生产力，使其 Kris 聊天机器人的 CSAT 翻倍。
-https://openai.com/index/singapore-airlines-travel-work
+**39. 创始人如何在平台风险威胁增长之前将其降低**
+`Crunchbase News` · — · **12小时前**
+<sub>How Founders Can Reduce Platform Risk Before It Threatens Growth</sub>
+> 创始人应把对应用商店的依赖视为基础设施风险，因为一旦突然被下架，就会切断客户访问、订阅和收入，且没有可靠的恢复途径。Intch 创始人兼 CEO Yakov Filippenko 分享经验称，在危机发生前建立并测试替代访问和支付渠道，有助于维持业务运转。
+https://news.crunchbase.com/ai/startup-founders-reduce-platform-risk-filippenko-intch/
 
-**22. 作家崔成浩 (@cuichenghao)**
-`SoPilot 推特起爆帖` · AI · **1小时前**
-https://sopilot.net/hot-tweets?tweetId=2120656863503016411
-
-**23. 美股科技股再续昂扬反弹**
-`热搜-头条` · 资本市场 · **刚刚**
-https://www.toutiao.com/trending/7707050204091911730/
-
-**24. Show HN：Presence——可演示你产品的全双工视频 Agent**
-`HN Show HN` · AI · **3小时前**
-<sub>Show HN: Presence – full duplex video agent that demos your product</sub>
-> 嗨 HN，关于全双工视频 Agent 的讨论很多，这里有一个你今天就能加入产品、而且成本低廉的方案。为什么？这样它就能看到用户正在做什么并相应回应。它陪伴用户试用你的产品，并在他们困惑时告诉你。甚至可以通过屏幕共享介入调试。它能带来什么：一个替用户运行的演示，无需你亲自检查如何使用……
-https://presence.bohita.com/
-
-**25. Crunchbase 独角兽榜单 10 月突破 1,900 家公司，34 家新加入——其中一半成立不足 4 年**
-`Crunchbase 融资板块` · — · **昨天**
-<sub>The Crunchbase Unicorn Board Tops 1,900 Companies In October, With 34 Companies Joining — Half Under 4 Years Old</sub>
-> 10 月共有 34 家公司加入 Crunchbase 独角兽榜单，为榜单增加逾 960 亿美元价值和 148 亿美元总融资。上月榜单还创下 1,900 家私营公司的新纪录，美国也创下超过 1,000 家私营独角兽公司的新纪录。
-https://news.crunchbase.com/venture/october-2026-unicorn-board-gains-34-tops-1900-ai-defense/
-
-**26. 纽约AI安全法生效，OpenAI、Anthropic面临新监管**
-`TechCrunch` · AI · **昨天**
-<sub>OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect</sub>
-> 纽约正准备执行其全面的AI安全法，要求OpenAI和Anthropic等主要开发商注册、披露安全实践并报告重大事件，否则将面临罚款。
-https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/
-
-**27. Rubenstein 谈 Anthropic IPO 与 Nvidia CEO 丑闻**
-`Bloomberg Technology` · AI/商业认知 · **4小时前**
-<sub>Rubenstein on the Anthropic IPO, Nvidia CEO Scandal</sub>
-> 凯雷集团联席主席兼 Bloomberg 主持人 David Rubenstein 谈到 Anthropic 备受期待的 IPO，以及涉及 Nvidia CEO Jensen Huang 的丑闻。他预计 Anthropic 估值将达到 1.3 万亿美元，并认为 Huang 将继续担任 Nvidia 领导者。Rubenstein 还谈到即将发布的《侠盗猎车手 VI》。（来源：Bloomberg）
-https://www.bloomberg.com/news/videos/2026-11-11/rubenstein-on-the-anthropic-ipo-nvidia-ceo-scandal-video
-
-**28. 近 700 亿美元 IPO 定价突然撤回！Anthropic 最快今天路演，下周冲刺上市**
-`InfoQ 中文` · AI/商业认知 · **昨天**
-https://www.infoq.cn/article/8tquwes1yGbmTeyOjOId?utm_source=rss&amp;utm_medium=article
-
-**29. 比特还是排列？在小规模本地语言模型中，将固定推理预算花在权重精度还是选项顺序平均上**
-`arXiv cs.CL` · AI · **19小时前**
-<sub>Bits or permutations? Spending a fixed inference budget on weight precision or on option-order averaging in small local language models</sub>
-> arXiv:2611.14413v1 公告类型：cross 摘要：本地语言模型可以通过用更少比特存储权重来节省内存，并可以通过平均若干次重排来降低对答案选项顺序的敏感性。我们研究前者是否会让后者变差，以及在固定预算下哪种方式更划算。在 Qwen3-0.6B 和 Qwen3-1.7B 上，使用模拟的最近邻舍入权重量化……
-https://arxiv.org/abs/2611.14413
-
-**30. 周四亚太盘初，纳指期货跌0.9%，英伟达目前（美股盘后）跌8%，报道称英伟达准备罢免CEO黄仁勋。
-
-CoreWeave跌5.4%，报道称该公司准备出售投资级贷款来募集至少40亿美元。英特尔跌3.1%，Nebius跌2.5%，Palantir、希捷科技、甲骨文、美光、恩智浦、台积电、高通、西部数据、SK海力士ADR、闪迪等跌超1%，亚马逊涨0.6%，谷歌A涨0.9%，博通涨2.8%，AMD涨3.7%。**
-`华尔街见闻快讯` · AI/资本市场 · **刚刚**
-https://wallstreetcn.com/livenews/3198661
-
-**31. Gilbert + Tobin 借助 AI 重新思考法律业务**
-`OpenAI News` · — · **32分钟前**
-<sub>Gilbert + Tobin rethinks the business of law with AI</sub>
-> 与 Gilbert + Tobin 合伙人兼首席执行官 Sam Nickless 的对话。
-https://openai.com/index/gilbert-tobin-sam-nickless
-
-**32. Alan Chen (@alanchen)**
-`SoPilot 推特起爆帖` · AI · **6小时前**
-<sub>Alan Chen (@alanchen)</sub>
-https://sopilot.net/hot-tweets?tweetId=2120578884890669229
-
-**33. 高叶谈AI对演员职业的冲击**
-`热搜-头条` · 个人成长 · **刚刚**
-https://www.toutiao.com/trending/7706595933592486426/
-
-**34. Show HN：同步笔记的版本历史（AI Agent 安全）**
-`HN Show HN` · AI · **3小时前**
-<sub>Show HN: Version History for Your Synced Notes (AI Agent Safety)</sub>
-> 除了实时多人协作，EtherPK（https://app.etherpk.com）同步图谱中的 Markdown 笔记现在会为每个页面和日记条目保留版本历史。它还会保留你删除的页面、日记条目和文件，以便需要时恢复。在 AI agent 编辑你的笔记时，版本管理是尤为重要的一项功能。当版本……
-https://blog.etherpk.com/version-history-for-your-synced-notes-additional-safety-for-working-alongside-ai-agents
-
-**35. 初创公司创始人正用 AI 提交专利申请。以下是 DIY 何时变成隐患。**
-`Crunchbase 融资板块` · — · **昨天**
-<sub>Startup Founders Are Using AI To File Patents. Here’s Where DIY Becomes A Liability.</sub>
-> AI 能帮助初创公司降低专利准备成本，但 DIY 申请可能忽略关键问题。在这篇客座评论中，AI-Native 律所 Landfall IP 的律师 Michael Drapkin 和 Nathan Mutter 认为，将 AI 与法律专业经验结合，可以带来更高效、更具商业价值的专利保护，既能经受投资者审查，也更难被竞争对手规避。
-https://news.crunchbase.com/ai/startup-founder-diy-patents-legal-liabiity-drapkin-mutter-landfall/
-
-**36. 据报道 Nvidia 董事会准备罢免 CEO Jensen Huang，公司股价下跌。**
-`TechCrunch` · AI · **1小时前**
-<sub>Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang</sub>
-> 最早周三晚间，Nvidia 董事会可能决定罢免其创立者、任职 33 年的 CEO。
-https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/
-
-**37. Amazon 和 Google 从 Anthropic IPO 中获益巨大。**
-`The Information` · AI/商业认知 · **3小时前**
-<sub>Amazon and Google Win Big From Anthropic IPO</sub>
-https://www.theinformation.com/articles/amazon-google-win-big-anthropic-ipo
-
-**38. 突发，Anthropic大清洗：Claude最严封号潮来了，11月12日全面生效**
-`36氪 热榜` · AI · **12小时前**
-https://www.36kr.com/p/4065245506917251
-
-**39. 通过稳定优化学习 LLM Agent 的扰动鲁棒策略。**
-`arXiv cs.AI` · AI/个人成长 · **19小时前**
-<sub>Learning Perturbation Robust Policies for LLM Agents with Stable Optimization</sub>
-> arXiv:2609.34064v2 公告类型：replace-cross 摘要：强化学习（RL）已成为长时程大语言模型（LLM）Agent 的有效后训练范式。然而，我们发现所得策略可能对多种策略扰动敏感，例如隐藏状态噪声、剪枝和量化。本文研究如何提升扰动鲁棒性……
-https://arxiv.org/abs/2609.34064
-
-**40. 上市公司“链”上发力深度参与产业并购基金**
-`财联社` · 商业认知 · **刚刚**
-https://www.cls.cn/detail/2532091
+**40. 支持 AI 与儿童安全研究**
+`OpenAI News` · — · **昨天**
+<sub>Supporting research on AI and children’s safety</sub>
+> OpenAI 投入 200 万美元用于 AI 与儿童安全研究。这项工作支持用于衡量青少年所面临风险与机会的共享工具。
+https://openai.com/index/children-first-declaration
