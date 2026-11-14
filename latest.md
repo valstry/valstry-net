@@ -1,213 +1,216 @@
-# 信源日报 2026-11-13
+# 信源日报 2026-11-14
 
 68 源 · 储备 1104 条 · 精选 40 条（仅限 48 小时内）
 
 ---
 
-**1. Amplitude 如何借助 OpenAI 在 1–2 天内交付产品改进**
-`OpenAI News` · AI · **4小时前**
-<sub>How Amplitude ships product improvements in 1–2 days with OpenAI</sub>
-> Amplitude 的主动式产品智能体 Wave 主要基于 OpenAI 模型构建，可识别该构建什么、帮助团队通过编码智能体交付变更，并衡量影响。
-https://openai.com/business/customer-stories/amplitude
+**1. 安全评估对于判断模型是否已准备好部署、需要为其建立哪些防护措施，以及训练和研究应聚焦何处至关重要……**
+`X-Anthropic` · 资本市场/个人成长 · **5小时前**
+<sub>Safety evaluations are critical for understanding whether a model is ready to deploy, which safeguards to build for it, and where to focus training an...</sub>
+> 安全评估对于理解模型是否已可部署、应为其构建哪些防护措施，以及将训练和研究重点放在哪里至关重要。在我们的 Engineering Blog 上，我们提供了关于如何设计、运行和报告安全评估的 10 条建议。https://www.anthropic.com/research/building-strong-safety-evaluations
+https://x.com/AnthropicAI/status/2121317227618340990
 
-**2. 如何看待张一鸣称字节不应依赖蒸馏，应长期自主研发，「追上 OpenAI 还需三四年」？核心难点在哪？**
-`热搜-知乎` · AI · **刚刚**
-https://www.zhihu.com/question/2104125774148146904
+**2. 内部信息显示，黄仁勋曾告知英伟达律师及其他人士，与客户的交易反映的是标准业务。**
+`虎嗅` · AI/企业落地 · **9分钟前**
+https://www.huxiu.com/moment/1296698.html
 
-**3. SpaceX计划在亚利桑那州和德克萨斯州投资740亿美元扩充算力。SpaceX计划建设两座超级计算设施，以强化其快速增长的人工智能业务，其中包括在亚利桑那州新建一个...**
-`虎嗅` · AI · **1小时前**
-https://www.huxiu.com/moment/1296381.html
+**3. AI agent 初创公司 LangChain 估值达 30 亿美元**
+`TechCrunch` · AI/资本市场 · **4小时前**
+<sub>AI agent startup LangChain hits $3B valuation</sub>
+> LangChain 称，其模型和平台无关的 agent 管理工具 LangSmith 目前拥有 7,000 家客户。
+https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/
 
-**4. Michael Guo (@Michaelzsguo)**
-`SoPilot 推特起爆帖` · AI · **2小时前**
-<sub>Michael Guo (@Michaelzsguo)</sub>
-https://sopilot.net/hot-tweets?tweetId=2121003462494241163
+**4. 本周十大融资：Agentic AI 与基础设施依然势头强劲**
+`Crunchbase 融资板块` · AI · **5小时前**
+<sub>The Week’s 10 Biggest Funding Rounds: Agentic AI And Infrastructure Are Still On A Roll</sub>
+> AI 相关初创公司融资又迎来大周。研发领域 agentic AI 开发商 Mirendil 以 10 亿美元 A 轮融资领跑，紧随其后的是 Mercor，其获得 7.5 亿美元融资，用于连接 AI 开发者与人类专家。
+https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/
 
-**5. 美联储理事会公布自 2027 年 1 月 1 日起对联邦储备银行向银行和信用合作社提供的支付服务定价，并宣布简化和调整支票服务的变更**
-`美联储 新闻稿` · 企业落地/资本市场 · **6小时前**
+**5. Mistery (@wr0789)**
+`SoPilot 推特起爆帖` · AI · **40分钟前**
+<sub>Mistery (@wr0789)</sub>
+https://sopilot.net/hot-tweets?tweetId=2121390514574696617
+
+**6. 英伟达创2012年以来最长连跌纪录**
+`热搜-头条` · AI · **刚刚**
+https://www.toutiao.com/trending/7707796859305070122/
+
+**7. Show HN：Feedback/AMA MeditionBench；用于调解和冲突解决的大语言模型**
+`HN Show HN` · AI · **42分钟前**
+<sub>Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution</sub>
+> 我是 Human Assisted Intelligence 的创始人，我相信 AI 可用于减少极化，并改善人们沟通和达成一致的方式。在 https://mediationbench.com/ 上测试了许多前沿 LLM，但很难跟上。我一直在努力获取更多免费的 OpenRouter 或 Hugging Face 额度。Azure 的 OpenAI 和 Anthropic 服务都提供了 token 额
+https://news.ycombinator.com/item?id=50491841
+
+**8. 美联储理事会公布自 2027 年 1 月 1 日起对联邦储备银行向银行和信用合作社提供的支付服务定价，并宣布简化和调整支票服务的变更**
+`美联储 新闻稿` · 企业落地/资本市场 · **昨天**
 <sub>Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services</sub>
 > 美联储理事会公布自 2027 年 1 月 1 日起对联邦储备银行向银行和信用合作社提供的支付服务定价，并宣布简化和调整支票服务的变更
 <![CDATA[https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm]]>
 
-**6. Anthropic IPO**
-`Hacker News 最佳` · AI/商业认知 · **12小时前**
-<sub>Anthropic IPO</sub>
-> 文章 URL：https://ipo.anthropic.com/us/ 评论 URL：https://news.ycombinator.com/item?id=50465829 得分：788 评论数：781
-https://ipo.anthropic.com/us/
+**9. 美联储 Jefferson 表示通胀将决定利率决策**
+`Bloomberg Technology` · 资本市场 · **32分钟前**
+<sub>Fed’s Jefferson Says Inflation Will Determine Rate Decisions</sub>
+> 美联储副主席 Philip Jefferson 表示，在考虑进一步加息时，通胀已成为决策者最重要的衡量指标。
+https://www.bloomberg.com/news/articles/2026-11-14/fed-s-jefferson-says-inflation-will-determine-rate-decisions
 
-**7. Nectar 推出 AI 智能体，为品牌自动化创作者发现与外联**
-`TechCrunch` · AI · **5小时前**
-<sub>Nectar launches an AI agent to automate creator discovery and outreach for brands</sub>
-> Nectar 的新 AI 智能体可自动化网红营销，帮助品牌发现创作者、管理外联与合作，并追踪活动效果。
-https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/
-
-**8. Nvidia 对 Anthropic IPO 的 100 亿美元认购承诺因 CEO 离任而受关注**
-`Bloomberg Technology` · AI/商业认知/个人成长 · **4小时前**
-<sub>Nvidia’s $10B Anthropic IPO Pledge in Focus With CEO Exit</sub>
-> Bloomberg Intelligence 的 Mandeep Singh 与 Bloomberg 的 Anthony Hughes 做客 Scarlet Fu 主持的“Bloomberg Real Yield”。在 Nvidia CEO 意外被罢免后，Anthropic 创纪录 IPO 的计划受到重新审视，凸显两家 AI 巨头之间的联系。（来源：Bloomberg）
-https://www.bloomberg.com/news/videos/2026-11-12/nvidia-s-10b-anthropic-ipo-pledge-in-focus-as-ceo-exits-video
-
-**9. 边警告 AI 风险边开发先进模型：OpenAI、Anthropic、谷歌等五家 AI 巨头遭起诉，被要求叫停 ChatGPT、Claude、Gemini**
+**10. 要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队**
 `IT之家` · AI · **刚刚**
-https://www.ithome.com/1/026/466.htm
+https://www.ithome.com/1/027/004.htm
 
-**10. Uber 正大举收购。以下是它接下来应收购的 4 家公司。**
-`CB Insights 研究` · 商业认知 · **1小时前**
-<sub>Uber is on an acquisition spree. Here are 4 companies it should buy next.</sub>
-> Uber 一直在大举收购。上月，它同意以 23 亿美元收购为办公室会议提供餐饮服务的平台 ezCater。这是其今年九笔收购中的最新一笔，高于 2025 年的五笔，以及…… 文章《Uber 正大举收购。以下是它接下来应收购的 4 家公司。》首发于 CB Insights Research。
-https://www.cbinsights.com/research/uber-shopping-list/
+**11. Shield 借助 OpenAI 帮助技术人员移交遗留门户工作**
+`OpenAI News` · AI · **16小时前**
+<sub>Shield helps technicians hand off legacy portal work with OpenAI</sub>
+> Shield 使用 OpenAI 帮助 IT 技术人员在遗留门户中移交工作。其 Forge agents 可操作这些系统，让技术人员专注于需要其判断的问题。
+https://openai.com/business/customer-stories/shield
 
-**11. 我们的首次公开募股：https://ipo.anthropic.com 法律免责声明：Anthropic 已向 th... 提交注册声明（包括招股说明书）**
-`X-Anthropic` · AI/商业认知 · **13小时前**
-<sub>Our initial public offering: https://ipo.anthropic.com Legal disclaimer: Anthropic has filed a registration statement (including a prospectus) with th...</sub>
-> 我们的首次公开募股：https://ipo.anthropic.com 法律免责声明：Anthropic 已就本通讯所涉发行向 SEC 提交注册声明（包括招股说明书）。投资前，您应阅读该注册声明中的招股说明书（见：https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm）以及
-https://x.com/AnthropicAI/status/2120841731302154708
+**12. GPT周报｜黄仁勋辞职；Anthropic、谷歌发布新模型；微软服务中断影响政府和大模型；Anthropic IPO确定发行价**
+`财新` · AI/商业认知 · **11分钟前**
+https://www.caixin.com/2026-11-13/102504694.html
 
-**12. 英伟达大跌13%**
-`热搜-微博` · AI · **刚刚**
-https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%A4%A7%E8%B7%8C13%25%23&t=31&band_rank=8&Refer=top
+**13. 被出口禁令限制的 Nvidia 芯片，是中国最强 AI 模型背后的支撑——哎呀，Jensen！**
+`TechCrunch` · AI · **5小时前**
+<sub>Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!</sub>
+> 新研究显示，中国最先进的 AI 模型是用被禁的 Nvidia 芯片训练的。
+https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/
 
-**13. Anthropic启动IPO路演，估值已缩水6000亿美元**
-`量子位` · AI/商业认知/资本市场 · **14小时前**
-https://www.qbitai.com/2026/11/509381.html
+**14. Crunchbase 数据：Nvidia 的初创公司融资交易创纪录。Huang 之后下一步是什么？**
+`Crunchbase 融资板块` · AI · **3小时前**
+<sub>Crunchbase Data: Nvidia’s Startup Funding Deals Hit A Record. What’s Next After Huang?</sub>
+> 在本周被推入危机之前，Nvidia 一直稳步保持其作为最活跃初创公司投资者之一的步伐，包括支持 2026 年多笔最大风投交易。我们重新审视 Nvidia 及其风投部门 NVentures 的投资方向，以及未来可能如何。
+https://news.crunchbase.com/venture/huang-nvda-ai-startup-funding-record-2026/
 
-**14. 投资TALK君 (@TJ_Research)**
-`SoPilot 推特起爆帖` · AI · **2小时前**
-<sub>投资TALK君 (@TJ_Research)</sub>
-https://sopilot.net/hot-tweets?tweetId=2120997667023253743
+**15. 美股仙人（全网吹存第一人） (@hanking66)**
+`SoPilot 推特起爆帖` · 资本市场 · **7小时前**
+https://sopilot.net/hot-tweets?tweetId=2121287806580572368
 
-**15. 美联储公布 2027 年联邦公开市场委员会会议修订后的暂定日程**
-`美联储 新闻稿` · 资本市场 · **6小时前**
+**16. 如何评价 11 月 13 日上市的问界新 M8，售价 37.98 万元起，这一价格在如今的市场有竞争力嘛？**
+`热搜-知乎` · 商业认知 · **刚刚**
+https://www.zhihu.com/question/2104607471683817591
+
+**17. Show HN：Harness Relay——让你已有的编码 agents 协同工作**
+`HN Show HN` · AI · **3小时前**
+<sub>Show HN: Harness Relay – the coding agents you have, working together</sub>
+> 如果你已经拥有多个编码 agents（不过一种 agent 也行），你真该看看这个项目！它是一个桌面应用，让编码 agents 协同工作，用户体验类似 ChatGPT！对 agent 团队来说一种 agent 就足够：全是一种，或任意混用 Claude Code、Codex、Grok、Cursor Agent、Antigravity、GitHub Copilot CLI、Muse Code 以及五
+https://agentic-system-lab.github.io/harness-relay/
+
+**18. 美联储公布 2027 年联邦公开市场委员会会议修订后的暂定日程**
+`美联储 新闻稿` · 资本市场 · **昨天**
 <sub>Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027</sub>
 > 美联储公布 2027 年联邦公开市场委员会会议修订后的暂定日程
 <![CDATA[https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm]]>
 
-**16. Insight7 语音 AI 智能体**
-`Product Hunt` · AI · **27分钟前**
-<sub>Insight7 Voice AI Agents</sub>
-https://www.producthunt.com/products/insight7
+**19. Ackman 谈 Huang 离职、Anthropic IPO 路演**
+`Bloomberg Technology` · AI/商业认知 · **4小时前**
+<sub>Ackman on Huang's Exit, Anthropic IPO Roadshow</sub>
+> Pershing Square 创始人兼 CEO Bill Ackman 表示，看到 Jensen Huang 离开 Nvidia 令人难过，他之后会做出更伟大的事情。Ackman 还称，Anthropic CEO Dario Amodei 在纽约公司 IPO 路演活动上的展示令他印象深刻。他接受 Bloomberg 的 Isabelle Lee 采访。（来源：Bloomberg）
+https://www.bloomberg.com/news/videos/2026-11-13/ackman-on-huang-s-exit-anthropic-ipo-roadshow-video
 
-**17. 民主党人启动对 Nvidia 的调查，并就 Huang 与 Trump 的“计划”发出严厉信函**
-`TechCrunch` · AI · **1小时前**
-<sub>Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump</sub>
-> 这项针对 Nvidia 对华销售及其与 Trump 往来的国会调查，是自涉嫌间谍事件曝光以来迄今的第二项调查。
-https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/
+**20. 周五（11月13日），半导体ETF收跌2.99%，领跌美股行业ETF，科技行业ETF跌2.01%，全球科技股指数ETF、网络股指数ETF至多跌1.67%，能源业ETF涨0.98%。**
+`华尔街见闻快讯` · 资本市场 · **刚刚**
+https://wallstreetcn.com/livenews/3200026
 
-**18. Nvidia CEO 辞职，股市下跌 | Closing Bell**
-`Bloomberg Technology` · AI/资本市场 · **2小时前**
-<sub>Stocks Down as Nvidia CEO Resigns | Closing Bell</sub>
-> 由 Romaine Bostick、Jess Menton、Carol Massar 和 Tim Stenovec 在 Bloomberg Television、Bloomberg Radio 和 YouTube 上全面跨平台报道美国市场收盘。（来源：Bloomberg）
-https://www.bloomberg.com/news/videos/2026-11-12/huang-ousted-by-nvidia-board-as-ceo-closing-bell-video
+**21. 我们的首次公开募股：https://ipo.anthropic.com 法律免责声明：Anthropic 已向 th... 提交注册声明（包括招股说明书）**
+`X-Anthropic` · AI/商业认知 · **昨天**
+<sub>Our initial public offering: https://ipo.anthropic.com Legal disclaimer: Anthropic has filed a registration statement (including a prospectus) with th...</sub>
+> 我们的首次公开募股：https://ipo.anthropic.com 法律免责声明：Anthropic 已就本通讯所涉发行向 SEC 提交注册声明（包括招股说明书）。投资前，您应阅读该注册声明中的招股说明书（见：https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm）以及
+https://x.com/AnthropicAI/status/2120841731302154708
 
-**19. 【研选•研报数据】国产GPU性能迭代与订单放量共振，商业化进程全面提速；公司光纤业务量价齐升，光芯片认证与订单落地打开成长空间**
-`财联社` · 企业落地/个人成长 · **刚刚**
-https://www.cls.cn/detail/2532138
+**22. 联想王会文：AI发展的关注点已由算力规模转向效率与能耗**
+`财新` · AI/个人成长 · **12分钟前**
+https://topics.caixin.com/2026-11-13/102504690.html
 
-**20. 即便人造肉失宠，风投仍在追逐蛋白质**
-`Crunchbase 融资板块` · — · **12小时前**
-<sub>VCs Are Still Chasing Protein, Even As Fake Meat Falls Out Of Favor</sub>
-> 近期初创企业投资已从肉类替代品转向在其他包装食品和饮料中加入更多蛋白质。这一风潮在超市货架上显而易见：初创品牌和成熟品牌都在不遗余力地宣传其面条、松饼、麦片、能量棒、爆米花等产品中的添加蛋白质。我们来看看。
-https://news.crunchbase.com/venture/protein-startups-raise-funding-medici/
+**23. ChatGPT Wallet 让 OpenAI 的 Dots agents 替你购物**
+`The Verge` · AI · **3小时前**
+<sub>ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you</sub>
+> 在今年早些时候推出 Dots AI agents 平台后，OpenAI 正在为该平台 agents 推出钱包。ChatGPT Wallet 从今天起向美国 ChatGPT Pro 订阅用户推出，用户需年满 18 岁、使用美国账单地址，并持有“符合条件的美国发行的 American Express、Chase、Mastercard 和 Visa 卡”。添加卡后 […]
+https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet
 
-**21. Gondola 团队借助 Codex 构建更多，推动营收翻倍**
-`OpenAI News` · 企业落地 · **12小时前**
-<sub>Gondola doubles revenue as its team builds more with Codex</sub>
-> Gondola 帮助创意人士获得署名与工作机会；Codex 使其首席工程师产出提升 50%，ChatGPT 则简化日常工作。
-https://openai.com/business/customer-stories/gondola
+**24. Uber 正大举收购。以下是它接下来应收购的 4 家公司。**
+`CB Insights 研究` · 商业认知 · **昨天**
+<sub>Uber is on an acquisition spree. Here are 4 companies it should buy next.</sub>
+> Uber 一直在大举收购。上月，它同意以 23 亿美元收购为办公室会议提供餐饮服务的平台 ezCater。这是其今年九笔收购中的最新一笔，高于 2025 年的五笔，以及…… 文章《Uber 正大举收购。以下是它接下来应收购的 4 家公司。》首发于 CB Insights Research。
+https://www.cbinsights.com/research/uber-shopping-list/
 
-**22. 英伟达总市值重回4万亿美元**
-`热搜-微博` · AI · **刚刚**
-https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%80%BB%E5%B8%82%E5%80%BC%E9%87%8D%E5%9B%9E4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=15&Refer=top
+**25. 悉尼奶爸 SydneyDaddy 雪梨奶爸 🇦🇺🇮🇱 (@SydneyDaddy1)**
+`SoPilot 推特起爆帖` · — · **2小时前**
+https://sopilot.net/hot-tweets?tweetId=2121367221360644359
 
-**23. 图集｜【第十七届财新峰会】财新AI圆桌：人工智能下一程**
-`财新` · AI · **1小时前**
-https://photos.caixin.com/2026-11-12/102504207.html
+**26. 英伟达市值一周蒸发超3.8万亿元**
+`热搜-百度` · AI · **刚刚**
+https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%91%A8%E8%92%B8%E5%8F%91%E8%B6%853.8%E4%B8%87%E4%BA%BF%E5%85%83
 
-**24. 悉尼奶爸 SydneyDaddy 雪梨奶爸 🇦🇺🇮🇱 (@SydneyDaddy1)**
-`SoPilot 推特起爆帖` · AI · **2小时前**
-https://sopilot.net/hot-tweets?tweetId=2120996024382820503
+**27. OpenAI 解散机器人团队，因其通用模型开始驱动机器人**
+`Hacker News 前页` · AI · **6小时前**
+<sub>OpenAI disbands its robotics team as its general models start running robots</sub>
+> 文章 URL：https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/ 评论 URL：https://news.ycombinator.com/item?id=50487184 积分：139 # 评论：62
+https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/
 
-**25. 美联储理事会对 United Community Bank 前员工采取执法行动**
-`美联储 新闻稿` · 资本市场 · **8小时前**
+**28. 美联储理事会对 United Community Bank 前员工采取执法行动**
+`美联储 新闻稿` · 资本市场 · **昨天**
 <sub>Federal Reserve Board issues enforcement action with former employee of United Community Bank</sub>
 > 美联储理事会对 United Community Bank 前员工采取执法行动
 <![CDATA[https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm]]>
 
-**26. Show HN：一款用 Rust 编写、内置智能体集成的画布终端应用**
-`HN Show HN` · AI · **1小时前**
-<sub>Show HN: A canvas terminal app written in Rust with built-in agent integration</sub>
-> 我开发并日常使用 Inifiterm 已有一段时间。这个想法源于我试遍了各种新颖亮眼的 agentic 终端，但不喜欢把内容列在侧边栏的做法，于是做了这个。欢迎告诉我你的看法。评论链接：https://news.ycombinator.com/item?id=50475817 点数：2 # 评论：1
-https://infiniterm.app/
+**29. Anthropic 的 Amodei 在 IPO 前对市场动荡“不太在意”**
+`Financial Times` · AI/商业认知/资本市场 · **4小时前**
+<sub>Anthropic’s Amodei ‘not super fussed’ about market turmoil ahead of IPO</sub>
+> 这家 AI 实验室首席执行官在计划 1.5 万亿美元上市前不到一周，对科技股动荡不以为意
+https://www.ft.com/content/4b7b83d7-7fea-4ce2-bfe3-4f2cf75b1d82?syn-25a6b1a6=1
 
-**27. Jensen Huang 的离职让 Nvidia 对开源的支持存疑**
-`TechCrunch` · AI · **5小时前**
-<sub>Jensen Huang’s exit puts Nvidia’s support for open source in question</sub>
-> Jensen Huang 的辞职引发外界质疑 Nvidia 对开源 AI 的承诺，包括其收购 Hugging Face、开放权重模型，以及反对监管限制的立场；公司正处在领导层交接期。
-https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/
+**30. 股票回购增持再贷款政策加力推进 A股上市公司专项贷款落地提速**
+`财联社` · 企业落地/商业认知 · **刚刚**
+https://www.cls.cn/detail/2534364
 
-**28. United Airlines 禁止 Muse、Instinct 等 AI 代理预订航班**
-`The Information` · AI · **1小时前**
-<sub>United Airlines Blocks AI Agents Like Muse and Instinct From Booking Flights</sub>
-https://www.theinformation.com/briefings/united-airlines-blocks-ai-agents-like-muse-instinct-booking-flights
+**31. Amplitude 如何借助 OpenAI 在 1–2 天内交付产品改进**
+`OpenAI News` · AI · **昨天**
+<sub>How Amplitude ships product improvements in 1–2 days with OpenAI</sub>
+> Amplitude 的主动式产品智能体 Wave 主要基于 OpenAI 模型构建，可识别该构建什么、帮助团队通过编码智能体交付变更，并衡量影响。
+https://openai.com/business/customer-stories/amplitude
 
-**29. Anthropic、OpenAI 遭专利诉讼，被指侵犯五项神经网络技术专利**
-`IT之家` · AI · **刚刚**
-https://www.ithome.com/1/026/464.htm
+**32. 智能互动 Agent 在快手商业场景的落地实践**
+`InfoQ 中文` · AI/企业落地 · **5小时前**
+https://www.infoq.cn/article/e0aglHW78pZuik3CWqdo?utm_source=rss&amp;utm_medium=article
 
-**30. 独家：Nubank 前员工为哥伦比亚的 Palomma 融资 1400 万美元，用于解决租金支付和房东融资**
+**33. ChatGPT 新推出的 Wallet 让 AI 代理替你购物并结账**
+`TechCrunch` · AI · **8小时前**
+<sub>ChatGPT’s new Wallet lets AI agents shop and check out for you</sub>
+> ChatGPT Wallet 让 AI 代理代用户购物和结账，初期仅向美国 Pro 订阅用户限量推出。
+https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/
+
+**34. 即便人造肉失宠，风投仍在追逐蛋白质**
 `Crunchbase 融资板块` · — · **昨天**
-<sub>Exclusive: Nubank Alum Raises $14M For Colombia’s Palomma To Tackle Rent Payments, Landlord Financing</sub>
-> Crunchbase News 独家获悉，哥伦比亚初创公司 Palomma 已完成 1000 万美元 A 轮融资，由墨西哥风投公司 Cometa 领投，用于扩展面向房东、租户和物业管理者的金融服务业务。
-https://news.crunchbase.com/fintech/nubank-alum-colombia-startup-palomma-ai-rental-services/
+<sub>VCs Are Still Chasing Protein, Even As Fake Meat Falls Out Of Favor</sub>
+> 近期初创企业投资已从肉类替代品转向在其他包装食品和饮料中加入更多蛋白质。这一风潮在超市货架上显而易见：初创品牌和成熟品牌都在不遗余力地宣传其面条、松饼、麦片、能量棒、爆米花等产品中的添加蛋白质。我们来看看。
+https://news.crunchbase.com/venture/protein-startups-raise-funding-medici/
 
-**31. Holiday Extras 正重新思考用 Codex 能构建什么**
-`OpenAI News` · — · **15小时前**
-<sub>Holiday Extras is rethinking what it can build with Codex</sub>
-> 借助 Codex，Holiday Extras 正把客户专业知识转化为更好的应用、更高的预订转化率以及新的增长可能。
-https://openai.com/business/customer-stories/holidays-extras-codex
+**35. Super Niu (@Super_Nius)**
+`SoPilot 推特起爆帖` · — · **2小时前**
+<sub>Super Niu (@Super_Nius)</sub>
+https://sopilot.net/hot-tweets?tweetId=2121362469134512451
 
-**32. 国产手机再迎双品牌战略**
-`热搜-头条` · 商业认知 · **刚刚**
-https://www.toutiao.com/trending/7707106382072054322/
+**36. 纳指收跌0.91% 英伟达跌超2%**
+`热搜-百度` · AI · **刚刚**
+https://www.baidu.com/s?wd=%E7%BA%B3%E6%8C%87%E6%94%B6%E8%B7%8C0.91%25+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%B6%852%25
 
-**33. 英伟达，今日开会决定“黄仁勋是否下台”**
-`36氪 热榜` · AI · **20小时前**
-https://www.36kr.com/p/4066242381419400
+**37. Anthropic IPO**
+`Hacker News 最佳` · AI/商业认知 · **昨天**
+<sub>Anthropic IPO</sub>
+> 文章链接：https://ipo.anthropic.com/us/ 评论链接：https://news.ycombinator.com/item?id=50465829 点数：993 # 评论数：902
+https://ipo.anthropic.com/us/
 
-**34. 老木Nova (@laomunova)**
-`SoPilot 推特起爆帖` · AI · **2小时前**
-<sub>老木Nova (@laomunova)</sub>
-https://sopilot.net/hot-tweets?tweetId=2120993138131021936
+**38. 监管机构延长拟议第三方风险管理指引的征求意见期**
+`美联储 新闻稿` · — · **3小时前**
+<sub>Agencies extend comment period for proposed third-party risk management guidance</sub>
+> 监管机构延长拟议第三方风险管理指引的征求意见期
+<![CDATA[https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm]]>
 
-**35. Show HN：Neon 与 Mubit：一个将自身前沿模型 token 削减 73% 的代理**
-`HN Show HN` · AI · **2小时前**
-<sub>Show HN: Neon and Mubit: an agent that cuts its own frontier-model tokens by 73%</sub>
-> 文章链接：https://neon.com/blog/mubit-neon-ai-gateway 评论链接：https://news.ycombinator.com/item?id=50474934 点数：2 # 评论：0
-https://neon.com/blog/mubit-neon-ai-gateway
+**39. Aaron Brown 称，人们“完全不知道”Nvidia 对日常生活的影响有多大**
+`Bloomberg Technology` · AI · **4小时前**
+<sub>People Have 'No Idea' How Much Nvidia Impacts Daily Life, Says Aaron Brown</sub>
+https://www.bloomberg.com/news/videos/2026-11-13/people-have-no-idea-how-much-nvidia-impacts-life-brown-video
 
-**36. United Airlines 以网络安全风险为由禁止 AI 代理预订航班**
-`TechCrunch` · AI · **7小时前**
-<sub>United Airlines blocks AI agents from booking flights, citing cybersecurity risks</sub>
-> 该航空公司表示，将不允许客户使用 AI 代理订票和管理预订。
-https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/
-
-**37. 前 Nvidia CEO Huang 与第二名员工有婚外情**
-`The Information` · AI · **3小时前**
-<sub>Ex-Nvidia CEO Huang Had Affair With Second Employee</sub>
-https://www.theinformation.com/briefings/ex-nvidia-ceo-huang-affair-second-employee
-
-**38. 财联社11月13日电，美股股指期货小幅高开，其中纳指期货涨0.12%。**
-`财联社` · 资本市场 · **刚刚**
-https://www.cls.cn/detail/2533281
-
-**39. 创始人如何在平台风险威胁增长之前将其降低**
-`Crunchbase News` · — · **12小时前**
-<sub>How Founders Can Reduce Platform Risk Before It Threatens Growth</sub>
-> 创始人应把对应用商店的依赖视为基础设施风险，因为一旦突然被下架，就会切断客户访问、订阅和收入，且没有可靠的恢复途径。Intch 创始人兼 CEO Yakov Filippenko 分享经验称，在危机发生前建立并测试替代访问和支付渠道，有助于维持业务运转。
-https://news.crunchbase.com/ai/startup-founders-reduce-platform-risk-filippenko-intch/
-
-**40. 支持 AI 与儿童安全研究**
-`OpenAI News` · — · **昨天**
-<sub>Supporting research on AI and children’s safety</sub>
-> OpenAI 投入 200 万美元用于 AI 与儿童安全研究。这项工作支持用于衡量青少年所面临风险与机会的共享工具。
-https://openai.com/index/children-first-declaration
+**40. openai / codex-security**
+`GitHub Trending` · AI · **刚刚**
+<sub>openai /      codex-security</sub>
+> OpenAI 的 Codex Security CLI 和 TypeScript SDK，用于发现、验证和修复安全漏洞。npm：https://www.npmjs.com/package/@openai/codex-security
+https://github.com/openai/codex-security
